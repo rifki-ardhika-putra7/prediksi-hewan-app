@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.h5
+*.pkl
+*.log
+*.sqlite3
+.env
+.DS_Store
+prediksi-hewan/
+venv/

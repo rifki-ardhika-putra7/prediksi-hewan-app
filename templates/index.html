@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WildVision - Deteksi Hewan</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    animation: {
+                        'float': 'float 6s ease-in-out infinite',
+                        'pulse-slow': 'pulse 3s ease-in-out infinite',
+                        'bounce-slow': 'bounce 2s infinite',
+                        'wiggle': 'wiggle 1s ease-in-out infinite',
+                    },
+                    keyframes: {
+                        float: {
+                            '0%, 100%': { transform: 'translateY(0px)' },
+                            '50%': { transform: 'translateY(-10px)' },
+                        },
+                        wiggle: {
+                            '0%, 100%': { transform: 'rotate(-3deg)' },
+                            '50%': { transform: 'rotate(3deg)' },
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        .justified-text {
+            text-align: justify;
+            text-justify: inter-word;
+        }
+        .preview-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            max-height: 400px;
+            overflow: hidden;
+        }
+        #preview {
+            max-width: 100%;
+            max-height: 100%;
+            object-fit: contain;
+            border-radius: 0.75rem;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+            border: 4px solid white;
+        }
+    </style>
+</head>
+<body class="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50">
+    <!-- Background Pattern -->
+    <div class="absolute inset-0 opacity-5 md:opacity-10 overflow-hidden">
+        <div class="absolute top-[5%] left-[10%] w-8 h-8 md:w-20 md:h-20 bg-blue-300 rounded-full animate-float"></div>
+        <div class="absolute top-[15%] right-[15%] w-6 h-6 md:w-16 md:h-16 bg-purple-300 rounded-full animate-float" style="animation-delay: 2s;"></div>
+        <div class="absolute bottom-[25%] left-[20%] w-5 h-5 md:w-12 md:h-12 bg-indigo-300 rounded-full animate-float" style="animation-delay: 4s;"></div>
+        <div class="absolute bottom-[15%] right-[25%] w-7 h-7 md:w-14 md:h-14 bg-pink-300 rounded-full animate-float" style="animation-delay: 1s;"></div>
+    </div>
+
+    <!-- Main Container -->
+    <div class="relative z-10 w-full max-w-7xl mx-auto px-4 py-4 md:py-8 min-h-screen flex flex-col">
+        <!-- Header -->
+        <div class="text-center mb-4 md:mb-8 lg:mb-12">
+            <div class="inline-block animate-bounce-slow mb-2 md:mb-4">
+                <span class="text-4xl sm:text-5xl md:text-6xl">🔍</span>
+            </div>
+            <h1 class="text-2xl sm:text-3xl md:text-4xl font-bold bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 bg-clip-text text-transparent mb-2 md:mb-4 animate-pulse-slow leading-tight px-2">
+                Deteksi Hewan dari Gambar
+            </h1>
+            <p class="text-gray-600 text-sm sm:text-base md:text-lg max-w-4xl mx-auto px-4 leading-relaxed">
+                Upload gambar hewan dan biarkan AI mengenali jenisnya!
+            </p>
+        </div>
+
+        <!-- Main Card -->
+        <div class="w-full max-w-4xl mx-auto flex-1 flex items-center justify-center">
+            <div class="w-full bg-white/80 backdrop-blur-sm rounded-2xl shadow-xl border border-white/20 p-4 sm:p-6 md:p-8 hover:shadow-2xl transition-all duration-300 mx-4">
+                
+                <!-- Upload Section -->
+                <div class="mb-6">
+                    <label for="imageInput" class="block text-sm sm:text-base font-semibold text-gray-700 mb-4 text-center">
+                        📸 Pilih Gambar Hewan
+                    </label>
+                    
+                    <!-- Custom File Input -->
+                    <div class="relative group">
+                        <input type="file" id="imageInput" accept="image/*" class="absolute inset-0 w-full h-full opacity-0 cursor-pointer z-10">
+                        <div class="border-2 border-dashed border-gray-300 rounded-xl p-6 text-center bg-gradient-to-br from-gray-50 to-gray-100 group-hover:from-blue-50 group-hover:to-indigo-50 group-hover:border-blue-300 transition-all duration-300">
+                            <div class="text-3xl sm:text-4xl mb-3 group-hover:animate-wiggle">📁</div>
+                            <p class="text-gray-600 font-medium group-hover:text-blue-600 transition-colors text-base sm:text-lg mb-2">
+                                Klik atau seret gambar ke sini
+                            </p>
+                            <p class="text-xs sm:text-sm text-gray-500">
+                                Format: JPG, PNG (Max 5MB)
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Preview Section - Modified for better image display -->
+                <div class="mb-6">
+                    <div class="preview-container">
+                        <img id="preview" class="hidden">
+                        <div id="previewPlaceholder" class="w-full h-64 bg-gradient-to-br from-gray-100 to-gray-200 rounded-xl flex items-center justify-center border-4 border-white shadow-lg">
+                            <div class="text-center text-gray-400 px-4">
+                                <div class="text-4xl sm:text-5xl mb-3 opacity-50">🖼️</div>
+                                <p class="font-medium text-sm sm:text-base">Preview gambar</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Action Buttons -->
+                <div class="text-center mb-6 space-y-3 sm:space-y-0 sm:space-x-4 flex flex-col sm:flex-row justify-center">
+                    <button type="button" onclick="predict()" 
+                            class="w-full sm:w-auto bg-gradient-to-r from-blue-500 to-indigo-600 hover:from-blue-600 hover:to-indigo-700 text-white font-bold py-3 px-6 rounded-xl shadow hover:shadow-md transition-all duration-300 transform hover:scale-105 active:scale-95 disabled:opacity-50 disabled:cursor-not-allowed group text-base">
+                        <span class="flex items-center justify-center">
+                            <span class="text-xl mr-2 group-hover:animate-spin">🔮</span>
+                            <span>Prediksi Sekarang</span>
+                        </span>
+                    </button>
+                    
+                    <button type="button" onclick="resetAll()" 
+                            class="w-full sm:w-auto bg-gradient-to-r from-gray-400 to-gray-500 hover:from-gray-500 hover:to-gray-600 text-white font-bold py-3 px-6 rounded-xl shadow hover:shadow-md transition-all duration-300 transform hover:scale-105 active:scale-95 group text-base">
+                        <span class="flex items-center justify-center">
+                            <span class="text-xl mr-2">🔄</span>
+                            <span>Reset</span>
+                        </span>
+                    </button>
+                </div>
+
+                <!-- Result Section -->
+                <div id="result" class="text-left bg-gray-50 rounded-lg p-4"></div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div class="text-center mt-6 text-gray-500 px-4 pb-4">
+            <p class="text-sm">
+                🤖 WildVision - Deteksi Hewan Pintar - By Kay AKA Drizyy
+            </p>
+        </div>
+    </div>
+
+    <script>
+        // Preview Image - Modified to maintain aspect ratio
+        document.getElementById('imageInput').addEventListener('change', function(e) {
+            const file = e.target.files[0];
+            if (file) {
+                // Validate file size
+                if (file.size > 5 * 1024 * 1024) {
+                    alert('Ukuran file terlalu besar. Maksimal 5MB.');
+                    return;
+                }
+
+                const reader = new FileReader();
+                reader.onload = function(event) {
+                    const preview = document.getElementById('preview');
+                    const placeholder = document.getElementById('previewPlaceholder');
+                    
+                    preview.src = event.target.result;
+                    preview.onload = function() {
+                        // Reset any previous styling
+                        preview.style.width = '';
+                        preview.style.height = '';
+                        
+                        // Show the preview and hide placeholder
+                        preview.classList.remove('hidden');
+                        placeholder.classList.add('hidden');
+                        
+                        // Add animation
+                        preview.style.opacity = '0';
+                        preview.style.transform = 'scale(0.9)';
+                        setTimeout(() => {
+                            preview.style.transition = 'all 0.3s ease';
+                            preview.style.opacity = '1';
+                            preview.style.transform = 'scale(1)';
+                        }, 50);
+                    };
+                };
+                reader.readAsDataURL(file);
+            }
+        });
+
+        // Reset function
+        function resetAll() {
+            document.getElementById('imageInput').value = '';
+            document.getElementById('preview').src = '';
+            document.getElementById('preview').classList.add('hidden');
+            document.getElementById('previewPlaceholder').classList.remove('hidden');
+            document.getElementById('result').innerHTML = '';
+            
+            // Add quick reset animation
+            const button = document.querySelector('button[onclick="resetAll()"]');
+            button.classList.add('animate-spin');
+            setTimeout(() => button.classList.remove('animate-spin'), 500);
+        }
+
+        // Drag and drop functionality
+        const dropZone = document.querySelector('.group');
+        
+        ['dragenter', 'dragover', 'dragleave', 'drop'].forEach(eventName => {
+            dropZone.addEventListener(eventName, preventDefaults, false);
+        });
+        
+        function preventDefaults(e) {
+            e.preventDefault();
+            e.stopPropagation();
+        }
+        
+        ['dragenter', 'dragover'].forEach(eventName => {
+            dropZone.addEventListener(eventName, highlight, false);
+        });
+        
+        ['dragleave', 'drop'].forEach(eventName => {
+            dropZone.addEventListener(eventName, unhighlight, false);
+        });
+        
+        function highlight() {
+            dropZone.classList.add('bg-blue-50', 'border-blue-400');
+        }
+        
+        function unhighlight() {
+            dropZone.classList.remove('bg-blue-50', 'border-blue-400');
+        }
+        
+        dropZone.addEventListener('drop', handleDrop, false);
+        
+        function handleDrop(e) {
+            const dt = e.dataTransfer;
+            const files = dt.files;
+            
+            if (files.length > 0) {
+                document.getElementById('imageInput').files = files;
+                const event = new Event('change');
+                document.getElementById('imageInput').dispatchEvent(event);
+            }
+        }
+
+        // Modified predict function with justified text
+        async function predict() {
+            const input = document.getElementById('imageInput');
+            const file = input.files[0];
+            if (!file) return alert("Pilih gambar dulu!");
+
+            const button = document.querySelector('button[onclick="predict()"]');
+            const resultDiv = document.getElementById('result');
+            
+            // Show loading state
+            button.innerHTML = `
+                <span class="flex items-center justify-center">
+                    <svg class="animate-spin -ml-1 mr-3 h-5 w-5 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                        <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+                        <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                    </svg>
+                    <span>Menganalisis...</span>
+                </span>
+            `;
+            button.disabled = true;
+            
+            // Show processing message
+            resultDiv.innerHTML = `
+                <div class="bg-blue-50 border border-blue-200 rounded-lg p-4 text-center">
+                    <div class="flex items-center justify-center">
+                        <div class="animate-spin rounded-full h-6 w-6 border-b-2 border-blue-500 mr-3"></div>
+                        <span class="text-blue-700">🧠 AI sedang menganalisis gambar...</span>
+                    </div>
+                </div>
+            `;
+
+            try {
+                const formData = new FormData();
+                formData.append("image", file);
+
+                const res = await fetch("http://localhost:5000/predict", {
+                    method: "POST",
+                    body: formData
+                });
+
+                const data = await res.json();
+
+                // Display results with justified text
+                resultDiv.innerHTML = `
+                    <div class="space-y-4">
+                        <h2 class="text-xl font-bold text-center">🐾 ${data.label}</h2>
+                        <div class="flex justify-between items-center">
+                            <span class="font-medium">Tingkat Akurasi:</span>
+                            <span class="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm">${data.confidence.toFixed(2)}%</span>
+                        </div>
+                        <div class="justified-text">
+                            <p><strong>Deskripsi:</strong> ${data.description}</p>
+                        </div>
+                        <div class="justified-text">
+                            <p><strong>Fakta Menarik:</strong> ${data.fun_fact}</p>
+                        </div>
+                        <div class="grid grid-cols-2 gap-4">
+                            <div>
+                                <p><strong>Habitat:</strong> ${data.habitat}</p>
+                            </div>
+                            <div>
+                                <p><strong>Diet:</strong> ${data.diet}</p>
+                            </div>
+                            <div>
+                                <p><strong>Ukuran:</strong> ${data.size}</p>
+                            </div>
+                            <div>
+                                <p><strong>Status:</strong> ${data.conservation_status}</p>
+                            </div>
+                        </div>
+                    </div>
+                `;
+            } catch (err) {
+                console.error("Gagal memuat prediksi:", err);
+                resultDiv.innerHTML = `
+                    <div class="bg-red-50 border border-red-200 text-red-700 p-4 rounded-lg">
+                        <p>Terjadi kesalahan saat memproses gambar.</p>
+                    </div>
+                `;
+            } finally {
+                // Reset button
+                button.innerHTML = `
+                    <span class="flex items-center justify-center">
+                        <span class="text-xl mr-2">🔮</span>
+                        <span>Prediksi Sekarang</span>
+                    </span>
+                `;
+                button.disabled = false;
+            }
+        }
+    </script>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

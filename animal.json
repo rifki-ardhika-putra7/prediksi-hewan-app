@@ -1,0 +1,2809 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "label": "goldfish",
+      "name": "Goldfish (Ikan Mas Koki)",
+      "description": "Goldfish adalah ikan hias air tawar yang paling populer di dunia...",
+      "fun_fact": [
+        "Goldfish memiliki ingatan yang jauh lebih baik dari mitos '3 detik'...",
+        "Di alam liar, goldfish bisa tumbuh hingga 40 cm...",
+        "Goldfish bisa melihat lebih banyak warna daripada manusia..."
+      ],
+      "habitat": "Kolam, danau, sungai dengan aliran lambat, akuarium",
+      "diet": "Omnivora - alga, tanaman air, serangga kecil, cacing",
+      "size": "5-40 cm (tergantung lingkungan)",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 2,
+      "label": "great_white_shark",
+      "name": "Great White Shark (Hiu Putih Besar)",
+      "description": "Great White Shark adalah predator puncak laut yang paling ditakuti dan dihormati. Dengan tubuh yang aerodinamis, gigi tajam berbentuk segitiga, dan kemampuan berenang hingga 60 km/jam, hiu ini adalah pemburu yang sempurna. Mereka memiliki sistem sensorik yang luar biasa canggih, termasuk kemampuan mendeteksi medan listrik dari makhluk hidup lainnya. Meskipun reputasinya menakutkan, serangan terhadap manusia sangat jarang terjadi.",
+      "fun_fact": [
+        "Great white shark bisa melompat hingga 3 meter di atas permukaan air saat berburu, fenomena ini disebut 'breaching'",
+        "Mereka memiliki sekitar 300 gigi yang tersusun dalam beberapa baris, dan bisa kehilangan hingga 35.000 gigi seumur hidup karena terus tumbuh baru",
+        "Hiu putih besar adalah hewan berdarah hangat sebagian, bisa mengatur suhu tubuh mereka 14°C lebih tinggi dari air laut sekitarnya"
+      ],
+      "habitat": "Perairan laut terbuka, dekat pantai dengan populasi anjing laut",
+      "diet": "Karnivora - anjing laut, singa laut, ikan besar, kadang bangkai paus",
+      "size": "4-6 meter (bisa mencapai 7 meter)",
+      "conservation_status": "Vulnerable"
+    },
+    {
+      "id": 3,
+      "label": "tiger_shark",
+      "name": "Tiger Shark (Hiu Macan)",
+      "description": "Tiger Shark mendapat namanya dari pola garis-garis gelap di tubuhnya yang menyerupai harimau, terutama pada hiu muda. Mereka adalah salah satu hiu yang paling adaptif dan oportunistik, dijuluki 'tempat sampah laut' karena memakan hampir segala sesuatu. Tiger shark memiliki gigi yang unik berbentuk seperti gergaji yang memungkinkan mereka memotong mangsa yang keras seperti tempurung penyu. Mereka adalah perenang yang kuat dan bisa ditemukan di berbagai habitat laut.",
+      "fun_fact": [
+        "Tiger shark memiliki gigi yang bisa memotong hampir semua material, bahkan plat logam dan tempurung penyu yang keras",
+        "Mereka adalah 'penyedot debu' laut - di perut tiger shark pernah ditemukan ban mobil, plat nomor, botol, dan bahkan armor abad pertengahan!",
+        "Tiger shark betina bisa menyimpan sperma hingga beberapa bulan sebelum membuahi telurnya, memungkinkan mereka berkembang biak di waktu yang optimal"
+      ],
+      "habitat": "Perairan tropis dan subtropis, dari pantai hingga laut dalam",
+      "diet": "Karnivora oportunistik - ikan, penyu, burung laut, mamalia laut, sampah",
+      "size": "3-5 meter (bisa mencapai 7 meter)",
+      "conservation_status": "Near Threatened"
+    },
+    {
+      "id": 5,
+      "label": "electric_ray",
+      "name": "Electric Ray (Pari Listrik)",
+      "description": "Electric Ray adalah kelompok ikan pari yang memiliki kemampuan menghasilkan listrik hingga 220 volt untuk melumpuhkan mangsa dan mempertahankan diri. Mereka memiliki tubuh bulat pipih dengan organ listrik khusus di kedua sisi kepala yang terdiri dari ribuan sel elektrosit. Ikan ini biasanya mengubur diri di dasar laut berpasir atau berlumpur, menunggu mangsa yang tidak curiga lewat di atasnya. Sengatan listriknya cukup kuat untuk melumpuhkan ikan besar dan memberikan kejutan yang menyakitkan pada manusia.",
+      "fun_fact": [
+        "Bangsa Romawi kuno menggunakan electric ray sebagai terapi untuk mengobati sakit kepala dan arthritis - ini adalah bentuk elektroterapi pertama dalam sejarah!",
+        "Electric ray bisa menghasilkan hingga 50 sengatan listrik berturut-turut sebelum 'baterainya' habis dan perlu mengisi ulang",
+        "Mereka bisa mengontrol kekuatan listrik yang dikeluarkan, dari kejutan ringan untuk komunikasi hingga sengatan penuh untuk berburu"
+      ],
+      "habitat": "Dasar laut berpasir atau berlumpur, dari perairan dangkal hingga kedalaman 1000 meter",
+      "diet": "Karnivora - ikan kecil, cacing laut, krustasea",
+      "size": "30 cm - 2 meter (tergantung spesies)",
+      "conservation_status": "Least Concern to Vulnerable (tergantung spesies)"
+    },
+    {
+      "id": 6,
+      "label": "stingray",
+      "name": "Stingray (Pari Berduri)",
+      "description": "Stingray adalah ikan pari yang memiliki ekor panjang dengan duri beracun yang bisa menyebabkan luka serius. Tubuh mereka pipih seperti cakram dengan mata di bagian atas dan mulut di bagian bawah, sempurna untuk hidup di dasar laut. Mereka adalah hewan yang umumnya jinak dan hanya menyerang ketika terancam atau tidak sengaja diinjak. Stingray memiliki kemampuan luar biasa untuk menyamarkan diri dengan mengubur tubuh mereka di pasir atau lumpur, hanya menyisakan mata dan lubang pernapasan di permukaan.",
+      "fun_fact": [
+        "Duri stingray terbuat dari bahan yang lebih keras dari tulang dan memiliki struktur bergerigi seperti gergaji yang membuatnya sulit dicabut",
+        "Mereka bernapas melalui lubang khusus di atas kepala yang disebut 'spiracle' karena mulut mereka tertutup saat berada di dasar laut",
+        "Stingray bisa 'terbang' di bawah air dengan mengepakkan sirip dadanya seperti sayap, dan beberapa spesies bahkan bisa melompat keluar dari air"
+      ],
+      "habitat": "Perairan dangkal tropis dan subtropis, laguna, muara sungai",
+      "diet": "Karnivora - moluska, cacing, krustasea, ikan kecil",
+      "size": "30 cm - 5 meter (wingspan)",
+      "conservation_status": "Least Concern to Critically Endangered (tergantung spesies)"
+    },
+    {
+      "id": 22,
+      "label": "bald_eagle",
+      "name": "Bald Eagle (Elang Botak)",
+      "description": "Bald Eagle adalah burung nasional Amerika Serikat dan simbol kekuatan serta kebebasan. Meskipun disebut 'botak', elang ini sebenarnya memiliki bulu kepala berwarna putih cerah yang kontras dengan tubuh coklat gelap dan paruh kuning. Mereka adalah pemburu yang sangat terampil dengan penglihatan yang 4-8 kali lebih tajam dari manusia. Bald eagle hampir punah pada tahun 1960-an akibat pestisida DDT, namun berkat upaya konservasi yang intensif, populasi mereka telah pulih dengan luar biasa.",
+      "fun_fact": [
+        "Bald eagle baru mendapatkan kepala putih karakteristiknya setelah berusia 4-5 tahun, sebelumnya mereka berwarna coklat gelap dan sering disalahartikan sebagai spesies lain",
+        "Sarang bald eagle bisa seberat 2 ton dan selebar 4 meter - ini adalah sarang terbesar yang dibuat burung di Amerika Utara!",
+        "Mereka bisa terbang hingga ketinggian 10.000 meter dan mencapai kecepatan 160 km/jam saat menukik menangkap mangsa"
+      ],
+      "habitat": "Dekat perairan - danau, sungai, pantai, rawa-rawa",
+      "diet": "Karnivora - ikan (utama), burung air, mamalia kecil, bangkai",
+      "size": "70-102 cm, rentang sayap 1.8-2.3 meter",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 23,
+      "label": "vulture",
+      "name": "Vulture (Burung Hering/Nasar/Bangkai)",
+      "description": "Vulture adalah burung pemakan bangkai yang memainkan peran ekologis penting sebagai 'pembersih alam'. Mereka memiliki adaptasi khusus untuk gaya hidup mereka, termasuk kepala botak yang memudahkan mereka makan tanpa bulu yang kotor, sistem pencernaan yang sangat asam untuk membunuh bakteri berbahaya, dan kemampuan terbang yang luar biasa untuk mencari bangkai dari ketinggian. Vulture memiliki indra penciuman yang sangat tajam dan bisa mendeteksi gas yang dikeluarkan bangkai dari jarak bermil-mil.",
+      "fun_fact": [
+        "Vulture memiliki asam lambung yang sangat kuat (pH 1) yang bisa membunuh bakteri anthrax, kolera, dan botulisme yang mematikan bagi hewan lain",
+        "Mereka bisa terbang hingga 9 jam tanpa mengepakkan sayap, hanya mengandalkan arus udara panas (thermal) untuk menghemat energi",
+        "Turkey vulture bisa mencium bangkai dari ketinggian 1.5 km - kemampuan penciuman terbaik di antara semua burung!"
+      ],
+      "habitat": "Savana, gurun, hutan terbuka, daerah pegunungan",
+      "diet": "Scavenger - bangkai hewan, kadang telur dan anak burung",
+      "size": "60-115 cm, rentang sayap 1.5-3 meter",
+      "conservation_status": "Least Concern to Critically Endangered (tergantung spesies)"
+    },
+    {
+      "id": 24,
+      "label": "great_grey_owl",
+      "name": "Great Grey Owl (Burung Hantu Abu-abu Besar)",
+      "description": "Great Grey Owl adalah salah satu burung hantu terbesar di dunia berdasarkan panjang tubuh, meskipun sebagian besar ukurannya berasal dari bulu tebal yang mengembang. Mereka memiliki wajah bundar yang sangat besar dengan lingkaran konsentris yang membantu mengarahkan suara ke telinga mereka. Burung hantu ini adalah pemburu yang sangat efisien, mampu mendeteksi dan menangkap mangsa yang tersembunyi di bawah salju tebal hingga 60 cm. Mereka hidup di hutan boreal dan merupakan simbol kebijaksanaan dalam banyak budaya.",
+      "fun_fact": [
+        "Great grey owl bisa mendengar tikus bergerak di bawah salju setebal 60 cm dan menangkapnya dengan akurasi yang sempurna tanpa melihat",
+        "Wajah mereka yang besar berfungsi seperti antena parabola untuk mengumpulkan gelombang suara, memungkinkan pendengaran yang 10 kali lebih sensitif dari manusia",
+        "Meskipun terlihat sangat besar, mereka sebenarnya lebih ringan dari great horned owl karena sebagian besar tubuhnya adalah bulu tebal untuk isolasi termal"
+      ],
+      "habitat": "Hutan boreal, hutan campuran, daerah terbuka dengan pohon tinggi",
+      "diet": "Karnivora - mamalia kecil (terutama vole), burung kecil",
+      "size": "61-84 cm, rentang sayap 1.3-1.5 meter",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 25,
+      "label": "European_fire_salamander",
+      "name": "European Fire Salamander (Salamander Api Eropa)",
+      "description": "European Fire Salamander adalah amfibi yang paling mudah dikenali dengan pola kuning cerah atau oranye yang kontras dengan tubuh hitam mengkilap. Pola warna cerah ini berfungsi sebagai peringatan bagi predator bahwa mereka beracun. Salamander ini memiliki kulit yang selalu lembab dan menghasilkan racun yang bisa menyebabkan iritasi serius pada mata dan mulut predator. Mereka adalah hewan nokturnal yang lebih aktif saat cuaca lembab dan hujan, sehingga sering disebut sebagai pembawa hujan dalam folklore Eropa.",
+      "fun_fact": [
+        "Salamander api bisa hidup hingga 50 tahun di alam liar - rekor umur terpanjang untuk amfibi ekor!",
+        "Mereka melahirkan larva yang sudah berkembang, bukan bertelur seperti kebanyakan amfibi lainnya, dan bisa melahirkan hingga 70 bayi sekaligus",
+        "Racun salamander api pernah digunakan sebagai bahan panah beracun oleh suku-suku kuno Eropa dan dipercaya bisa memadamkan api kecil karena kulit mereka yang sangat lembab"
+      ],
+      "habitat": "Hutan gugur dan campuran, daerah berbukit dengan sumber air",
+      "diet": "Karnivora - cacing tanah, siput, serangga, laba-laba",
+      "size": "15-25 cm",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 26,
+      "label": "common_newt",
+      "name": "Common Newt (Kadal Air Biasa)",
+      "description": "Common Newt atau Smooth Newt adalah amfibi kecil yang menghabiskan sebagian hidup di air dan sebagian di darat. Mereka memiliki kemampuan regenerasi yang luar biasa dan bisa menumbuhkan kembali ekor, kaki, bahkan bagian mata dan jantung yang rusak. Selama musim kawin, jantan mengembangkan sirip punggung yang spektakuler dan warna yang lebih cerah untuk menarik betina. Newt adalah indikator biologis yang baik untuk kesehatan ekosistem karena kulit mereka yang permeabel sangat sensitif terhadap polusi.",
+      "fun_fact": [
+        "Common newt bisa menumbuhkan kembali anggota tubuh yang hilang dalam waktu 2-3 bulan, bahkan bisa meregenerasi bagian mata, jantung, dan sumsum tulang belakang",
+        "Mereka memiliki 'ritual kawin' yang unik dimana jantan akan menari di depan betina sambil mengibaskan ekor untuk menyebarkan feromon",
+        "Newt bisa hidup hingga 20 tahun dan memiliki 'homing instinct' yang kuat - mereka selalu kembali ke kolam tempat mereka dilahirkan untuk berkembang biak"
+      ],
+      "habitat": "Kolam, danau kecil, genangan air, hutan lembab",
+      "diet": "Karnivora - cacing, larva serangga, krustasea kecil, telur katak",
+      "size": "7-11 cm",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 28,
+      "label": "spotted_salamander",
+      "name": "Spotted Salamander (Salamander Bintik)",
+      "description": "Spotted Salamander adalah amfibi yang mudah dikenali dengan bintik-bintik kuning atau oranye cerah di sepanjang punggung hitam atau biru gelap mereka. Mereka adalah salah satu salamander pertama yang aktif di awal musim semi, sering terlihat bermigrasi ke kolam breeding bahkan saat masih ada salju. Salamander ini memiliki hubungan simbiosis yang unik dengan alga hijau yang hidup di dalam telur mereka, memberikan oksigen tambahan untuk perkembangan embrio. Mereka bisa hidup hingga 30 tahun dan sangat setia pada tempat breeding mereka.",
+      "fun_fact": [
+        "Spotted salamander adalah satu-satunya vertebebrata yang diketahui memiliki hubungan simbiosis dengan alga - alga hijau hidup di dalam telur mereka dan memberikan oksigen",
+        "Mereka memiliki 'natal homing' yang luar biasa - bisa kembali ke kolam yang sama tempat mereka dilahirkan meskipun sudah bertahun-tahun hidup di tempat lain, bahkan dalam radius beberapa meter!",
+        "Spotted salamander bisa 'membekukan' diri mereka sendiri untuk bertahan hidup di musim dingin, dengan kristal es yang terbentuk di ruang antar sel tanpa merusak jaringan"
+      ],
+      "habitat": "Hutan gugur, daerah berbukit dekat kolam atau stream",
+      "diet": "Karnivora - cacing, siput, serangga, laba-laba",
+      "size": "15-25 cm",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 30,
+      "label": "bullfrog",
+      "name": "Bullfrog (Katak Banteng)",
+      "description": "Bullfrog adalah katak terbesar di Amerika Utara dengan suara panggilan yang sangat keras dan khas yang bisa terdengar hingga jarak 1 km. Mereka memiliki tubuh yang besar dan kuat dengan kemampuan melompat yang luar biasa, bisa melompat hingga 6 kali panjang tubuh mereka. Bullfrog adalah predator oportunistik yang akan memakan hampir semua yang bisa masuk ke mulut mereka. Mereka memiliki selaput renang yang berkembang baik dan menghabiskan sebagian besar waktu di air atau dekat air.",
+      "fun_fact": [
+        "Suara 'moo' bullfrog jantan bisa mencapai volume 120 desibel - setara dengan konser rock dan bisa terdengar hingga 1.6 km jauhnya!",
+        "Mereka adalah 'mesin makan' yang akan memakan segala sesuatu yang bergerak dan muat di mulut mereka, termasuk katak lain, ular kecil, burung, dan bahkan kelelawar",
+        "Bullfrog betina bisa bertelur hingga 20.000 butir sekaligus, dan kecebong mereka membutuhkan waktu 2-3 tahun untuk menjadi katak dewasa"
+      ],
+      "habitat": "Danau, kolam, sungai dengan aliran lambat, rawa-rawa",
+      "diet": "Karnivora - serangga, ikan, katak lain, burung kecil, mamalia kecil",
+      "size": "10-20 cm",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 31,
+      "label": "tree_frog",
+      "name": "Tree Frog (Katak Pohon)",
+      "description": "Tree Frog adalah kelompok katak yang telah beradaptasi sempurna untuk hidup di pepohonan dengan jari-jari yang dilengkapi bantalan lengket yang memungkinkan mereka menempel di permukaan vertikal bahkan yang licin. Mereka umumnya memiliki warna cerah dan kemampuan mengubah warna untuk kamuflase atau komunikasi. Banyak spesies tree frog memiliki racun di kulit mereka sebagai pertahanan, dan beberapa spesies memiliki suara panggilan yang sangat unik dan merdu. Mereka adalah indikator biologis yang penting untuk kesehatan hutan.",
+      "fun_fact": [
+        "Bantalan lengket di jari tree frog menggunakan prinsip fisika yang sama dengan gecko - mereka bisa menempel di kaca basah bahkan dalam posisi terbalik!",
+        "Beberapa tree frog bisa mengubah warna dalam hitungan menit untuk menyesuaikan suhu tubuh, mood, atau untuk kamuflase",
+        "Tree frog terkecil di dunia (Monte Iberia eleuth) hanya berukuran 1 cm, sementara yang terbesar (White's tree frog) bisa mencapai 14 cm"
+      ],
+      "habitat": "Hutan tropis dan subtropis, pohon dekat sumber air",
+      "diet": "Karnivora - serangga, laba-laba, cacing kecil",
+      "size": "1-14 cm (tergantung spesies)",
+      "conservation_status": "Least Concern to Critically Endangered (tergantung spesies)"
+    },
+    {
+      "id": 32,
+      "label": "tailed_frog",
+      "name": "Tailed Frog (Katak Berekor)",
+      "description": "Tailed Frog adalah katak primitif yang unik dengan 'ekor' yang sebenarnya adalah organ reproduksi jantan yang diperlukan untuk fertilisasi internal dalam air yang mengalir deras. Mereka adalah satu-satunya katak di dunia yang melakukan fertilisasi internal dan hidup di stream pegunungan yang jernih dan dingin. Katak ini sangat sensitif terhadap kualitas air dan dianggap sebagai spesies indikator untuk kesehatan ecosystem sungai. Kecebong mereka memiliki mulut seperti pengisap yang memungkinkan mereka menempel di batu dalam arus yang deras.",
+      "fun_fact": [
+        "Tailed frog adalah satu-satunya katak di dunia yang jantan memiliki organ kopulasi - semua katak lain melakukan fertilisasi eksternal",
+        "Kecebong tailed frog membutuhkan waktu 3-4 tahun untuk berkembang menjadi katak dewasa, terlama di antara semua katak di Amerika Utara",
+        "Mereka tidak memiliki pita suara dan tidak bisa mengeluarkan suara - komunikasi dilakukan melalui gerakan tubuh dan getaran"
+      ],
+      "habitat": "Stream pegunungan yang dingin dan jernih, hutan konifer tua",
+      "diet": "Karnivora - serangga air, larva serangga, krustasea kecil",
+      "size": "3-5 cm",
+      "conservation_status": "Near Threatened"
+    },
+    {
+      "id": 34,
+      "label": "leatherback_turtle",
+      "name": "Leatherback Turtle (Penyu Belimbing)",
+      "description": "Leatherback Turtle adalah penyu terbesar dan paling unik di dunia, dengan tempurung yang terbuat dari kulit tebal seperti kulit alih-alih sisik keras. Mereka adalah perenang jarak jauh yang luar biasa, bisa menyelam hingga kedalaman 1.200 meter dan melakukan migrasi ribuan kilometer melintasi samudra. Penyu belimbing adalah satu-satunya penyu yang bisa mengatur suhu tubuh mereka, memungkinkan mereka hidup di perairan dingin yang tidak bisa ditoleransi penyu lain. Mereka hampir secara eksklusif memakan ubur-ubur, memainkan peran penting dalam mengontrol populasi ubur-ubur di laut.",
+      "fun_fact": [
+        "Penyu belimbing bisa menyelam lebih dalam dari kebanyakan paus - rekor terdalam yang tercatat adalah 1.280 meter, hampir seprofesional paus sperma!",
+        "Mereka memiliki 'darah panas' dan bisa mempertahankan suhu tubuh 18°C lebih hangat dari air laut sekitarnya, unik di antara semua reptil",
+        "Mulut penyu belimbing memiliki duri-duri ke belakang yang membantu mereka menelan ubur-ubur licin - sekali masuk, ubur-ubur tidak bisa keluar lagi"
+      ],
+      "habitat": "Samudra terbuka, pantai berpasir untuk bertelur",
+      "diet": "Karnivora - ubur-ubur (95% diet), kadang cumi-cumi",
+      "size": "1.5-2 meter, berat hingga 700 kg",
+      "conservation_status": "Vulnerable"
+    },
+    {
+      "id": 35,
+      "label": "mud_turtle",
+      "name": "Mud Turtle (Kura-kura Lumpur)",
+      "description": "Mud Turtle adalah kura-kura air tawar kecil yang hidup di perairan dangkal berlumpur seperti rawa, kolam, dan sungai dengan aliran lambat. Mereka memiliki tempurung yang relatif halus dan berwarna gelap, dengan kemampuan untuk menarik kepala dan kaki sepenuhnya ke dalam tempurung untuk perlindungan. Mud turtle adalah omnivora yang sangat adaptif dan bisa bertahan hidup dalam kondisi air dengan oksigen rendah. Mereka memiliki kemampuan unik untuk hibernasi di lumpur selama bulan-bulan dingin.",
+      "fun_fact": [
+        "Mud turtle bisa bernapas melalui kulit dan selaput di mulut mereka, memungkinkan mereka bertahan di air dengan oksigen rendah selama berbulan-bulan",
+        "Mereka memiliki 'sexual temperature determination' - suhu inkubasi telur menentukan jenis kelamin: suhu rendah menghasilkan jantan, suhu tinggi menghasilkan betina",
+        "Mud turtle bisa hidup hingga 50 tahun dan memiliki kemampuan luar biasa untuk menemukan jalan pulang ke habitat mereka meskipun dipindahkan sejauh beberapa kilometer"
+      ],
+      "habitat": "Rawa, kolam dangkal, stream dengan aliran lambat, danau kecil",
+      "diet": "Omnivora - serangga air, cacing, ikan kecil, tumbuhan air",
+      "size": "8-15 cm",
+      "conservation_status": "Least Concern to Vulnerable (tergantung spesies)"
+    },
+    {
+      "id": 36,
+      "label": "terrapin",
+      "name": "Terrapin (Kura-kura Rawa Asin)",
+      "description": "Terrapin adalah kura-kura air yang hidup di perairan payau seperti muara sungai, rawa-rawa asin, dan laguna pesisir. Mereka memiliki adaptasi khusus untuk hidup di lingkungan dengan salinitas yang berubah-ubah, termasuk kelenjar garam khusus untuk mengeluarkan kelebihan garam dari tubuh. Terrapin memiliki pola dan warna tempurung yang indah dan bervariasi, membuat mereka populer sebagai hewan peliharaan di masa lalu. Populasi mereka sempat terancam karena over-harvesting untuk makanan dan perdagangan hewan peliharaan.",
+      "fun_fact": [
+        "Terrapin memiliki kelenjar garam khusus di mata mereka yang berfungsi seperti 'desalinator alami' untuk mengeluarkan kelebihan garam, sehingga mereka tampak seperti menangis air asin",
+        "Mereka bisa mengubah kecepatan metabolisme mereka berdasarkan suhu air - dalam air dingin mereka hampir seperti hibernasi bahkan saat terjaga",
+        "Terrapin sempat menjadi makanan mewah yang sangat populer di restoran-restoran Amerika pada abad ke-19, hingga harganya lebih mahal dari daging sapi!"
+      ],
+      "habitat": "Muara sungai, rawa payau, laguna pesisir, perairan pantai",
+      "diet": "Omnivora - kepiting, siput, ikan kecil, tumbuhan air",
+      "size": "10-25 cm",
+      "conservation_status": "Near Threatened"
+    },
+    {
+      "id": 37,
+      "label": "box_turtle",
+      "name": "Box Turtle (Kura-kura Kotak)",
+      "description": "Box Turtle adalah kura-kura darat dengan kemampuan unik untuk menutup tempurungnya sepenuhnya seperti kotak, memberikan perlindungan total dari predator. Mereka memiliki tempurung tinggi berbentuk kubah dengan engsel khusus di plastron (bagian bawah tempurung) yang memungkinkan penutupan sempurna. Box turtle adalah hewan yang sangat berumur panjang dan memiliki home range yang kecil, sering menghabiskan seluruh hidup mereka dalam area kurang dari 2 hektar. Mereka adalah omnivora oportunistik yang memainkan peran penting dalam penyebaran biji-bijian.",
+      "fun_fact": [
+        "Box turtle bisa hidup lebih dari 100 tahun - beberapa individu yang ditemukan memiliki tanda tahun 1800-an yang diukir di tempurung mereka oleh manusia!",
+        "Mereka memiliki 'homing instinct' yang luar biasa dan bisa menemukan jalan pulang ke wilayah mereka meskipun dipindahkan sejauh beberapa kilometer",
+        "Box turtle adalah 'living time capsule' - peneliti bisa menentukan umur mereka dengan menghitung cincin pertumbuhan di sisik tempurung, seperti menghitung cincin pohon"
+      ],
+      "habitat": "Hutan gugur, padang rumput, area terbuka dengan semak-semak",
+      "diet": "Omnivora - buah-buahan, jamur, serangga, cacing, siput, telur burung",
+      "size": "10-20 cm",
+      "conservation_status": "Vulnerable"
+    },
+    {
+      "id": 38,
+      "label": "banded_gecko",
+      "name": "Banded Gecko (Tokek Berjalur)",
+      "description": "Banded Gecko adalah kadal kecil nokturnal dengan pola jalur-jalur gelap yang khas di tubuh kuning atau pink mereka. Mereka memiliki kulit yang lembut tanpa sisik yang keras, dan mata besar dengan pupil vertikal yang membantu penglihatan malam. Tidak seperti gecko lainnya, banded gecko tidak memiliki bantalan lengket di jari-jari mereka, melainkan menggunakan cakar kecil untuk bergerak. Mereka adalah spesies gurun yang sangat adaptif dan bisa bertahan hidup dalam kondisi kering dengan sedikit air.",
+      "fun_fact": [
+        "Banded gecko tidak bisa memanjat dinding seperti gecko lainnya karena tidak memiliki bantalan lengket, tetapi mereka ahli menggali dan bersembunyi di celah-celah batu",
+        "Mereka mengeluarkan suara 'chirping' atau 'barking' yang keras untuk berkomunikasi - tidak seperti kebanyakan gecko yang diam",
+        "Banded gecko bisa melepaskan ekor mereka saat terancam, dan ekor yang terputus akan terus bergerak-gerak untuk mengalihkan perhatian predator"
+      ],
+      "habitat": "Gurun berbatu, scrubland, area kering dengan banyak tempat persembunyian",
+      "diet": "Karnivora - serangga kecil, laba-laba, larva serangga",
+      "size": "10-15 cm",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 39,
+      "label": "common_iguana",
+      "name": "Common Iguana (Iguana Hijau)",
+      "description": "Common Iguana atau Green Iguana adalah kadal besar yang ikonik dengan kemampuan berenang dan memanjat yang luar biasa. Mereka memiliki jambul punggung yang menonjol, dewlap (kantung tenggorokan) yang bisa dikembangkan, dan ekor panjang yang kuat yang bisa digunakan sebagai cambuk untuk pertahanan. Iguana hijau adalah herbivor sejati saat dewasa dan memiliki sistem pencernaan yang kompleks untuk mencerna materi tumbuhan. Mereka memiliki 'mata ketiga' (parietal eye) di atas kepala yang bisa mendeteksi perubahan cahaya dan bayangan predator dari atas.",
+      "fun_fact": [
+        "Iguana hijau memiliki 'mata ketiga' di puncak kepala yang bisa mendeteksi bayangan burung pemangsa dari atas, tetapi tidak bisa membentuk gambar seperti mata normal",
+        "Mereka adalah perenang yang sangat baik dan bisa menahan napas hingga 30 menit di bawah air untuk menghindari predator",
+        "Iguana jantan dewasa bisa mengubah warna menjadi oranye terang saat musim kawin untuk menarik betina dan menakut-nakuti pejantan lain"
+      ],
+      "habitat": "Hutan hujan tropis, daerah pesisir, dekat sungai dan danau",
+      "diet": "Herbivor - daun, buah, bunga, tunas muda",
+      "size": "1.2-2 meter (termasuk ekor)",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 40,
+      "label": "American_chameleon",
+      "name": "American Chameleon (Bunglon Amerika)",
+      "description": "American Chameleon, yang sebenarnya adalah anole, bukan bunglon sejati, adalah kadal kecil yang terkenal karena kemampuannya mengubah warna dari hijau cerah menjadi coklat gelap. Mereka memiliki bantalan lengket di jari-jari mereka yang memungkinkan mereka memanjat permukaan vertikal dengan mudah. Jantan memiliki dewlap merah muda atau merah yang bisa dikembangkan untuk display territorial dan kawin. Mereka adalah predator visual yang aktif di siang hari dan sangat teritorial.",
+      "fun_fact": [
+        "American chameleon bisa mengubah warna dalam hitungan detik berdasarkan suhu, mood, dan interaksi sosial - hijau saat rileks, coklat saat stres atau dingin",
+        "Dewlap (kantung tenggorokan) jantan bisa dikembangkan hingga sebesar kepala mereka dan digunakan untuk 'push-up display' yang menakjubkan",
+        "Mereka memiliki penglihatan yang sangat tajam dan bisa melihat gerakan kecil dari jarak yang jauh, bahkan bisa menangkap serangga yang terbang"
+      ],
+      "habitat": "Hutan, taman, area bersemak di Amerika Tenggara",
+      "diet": "Karnivora - serangga, laba-laba, cacing kecil",
+      "size": "12-20 cm",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 43,
+      "label": "frilled_lizard",
+      "name": "Frilled Lizard (Kadal Berkerah)",
+      "description": "Frilled Lizard adalah kadal ikonik Australia dengan kerah raksasa yang bisa dikembangkan di sekitar kepala mereka saat terancam. Kerah ini, yang bisa mencapai diameter 30 cm, berwarna cerah dengan pola yang menakutkan untuk membuatnya tampak lebih besar dan menakutkan. Mereka adalah kadal arboreal yang menghabiskan sebagian besar waktu di pohon dan memiliki kemampuan lari bipedal yang unik saat di tanah. Frilled lizard adalah ambush predator yang menunggu mangsa dengan sabar sebelum menyerang dengan cepat.",
+      "fun_fact": [
+        "Saat berlari, frilled lizard bisa berlari dengan dua kaki belakang seperti dinosaurus kecil, mencapai kecepatan hingga 25 km/jam!",
+        "Kerah mereka tidak hanya untuk intimidasi - juga berfungsi sebagai termoregulator untuk mengatur suhu tubuh dengan mengumpulkan atau melepaskan panas",
+        "Mereka bisa tidur sambil berdiri vertikal menempel di batang pohon, dengan kerah yang terlipat rapi di sekitar leher"
+      ],
+      "habitat": "Hutan tropis dan savana Australia Utara dan Papua Nugini",
+      "diet": "Karnivora - serangga, laba-laba, kadal kecil, mamalia kecil",
+      "size": "70-95 cm (termasuk ekor)",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 44,
+      "label": "alligator_lizard",
+      "name": "Alligator Lizard (Kadal Buaya)",
+      "description": "Alligator Lizard mendapat namanya dari bentuk kepala yang mirip buaya dan sisik besar yang keras di seluruh tubuh mereka. Mereka memiliki tubuh panjang dengan kaki pendek dan ekor yang sangat kuat yang bisa digunakan untuk mencengkeram cabang saat memanjat. Kadal ini memiliki kemampuan unik untuk melepaskan ekor mereka (autotomy) sebagai mekanisme pertahanan, dan ekor baru akan tumbuh kembali. Mereka adalah predator oportunistik yang aktif baik di siang maupun malam hari.",
+      "fun_fact": [
+        "Alligator lizard memiliki 'breakaway tail' dengan titik-titik lemah khusus yang memungkinkan ekor putus dengan rapi tanpa merusak tulang atau otot utama",
+        "Mereka bisa hidup hingga 20 tahun dan memiliki kemampuan luar biasa untuk bertahan tanpa makanan hingga beberapa bulan selama musim dingin",
+        "Sisik mereka sangat keras dan tersusun seperti armor, memberikan perlindungan yang sangat baik dari gigitan dan cakaran predator"
+      ],
+      "habitat": "Hutan, chaparral, area berbatu, taman dan kebun",
+      "diet": "Karnivora - serangga, laba-laba, siput, telur burung, kadal kecil",
+      "size": "15-30 cm",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 46,
+      "label": "green_lizard",
+      "name": "Green Lizard (Kadal Hijau)",
+      "description": "Green Lizard adalah kadal berukuran sedang dengan warna hijau cemerlang yang sangat mencolok, terutama pada jantan dewasa selama musim kawin. Mereka memiliki tubuh yang ramping dan atletis dengan kemampuan berlari yang sangat cepat. Kadal hijau adalah spesies yang sangat teritorial dan akan mempertahankan wilayah mereka dengan agresif dari individu lain. Mereka adalah heliothermic, artinya sangat bergantung pada sinar matahari untuk mengatur suhu tubuh dan akan sering terlihat berjemur di tempat terbuka.",
+      "fun_fact": [
+        "Jantan green lizard mengembangkan tenggorokan biru cerah saat musim kawin dan akan melakukan 'head bobbing display' yang spektakuler untuk menarik betina",
+        "Mereka bisa berlari dengan kecepatan hingga 30 km/jam dan memiliki kemampuan lompat yang luar biasa - bisa melompat hingga 1 meter jauhnya",
+        "Green lizard memiliki kemampuan regenerasi yang baik - selain ekor, mereka juga bisa menumbuhkan kembali jari kaki yang hilang"
+      ],
+      "habitat": "Padang rumput, scrubland, tepi hutan, area terbuka dengan banyak sinar matahari",
+      "diet": "Karnivora - serangga, laba-laba, cacing, kadang buah kecil",
+      "size": "25-40 cm",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 47,
+      "label": "African_chameleon",
+      "name": "African Chameleon (Bunglon Afrika)",
+      "description": "African Chameleon adalah master kamuflase dengan kemampuan mengubah warna yang paling spektakuler di dunia reptil. Mereka memiliki mata yang bisa bergerak independen, lidah yang bisa menjulur hingga 2 kali panjang tubuh mereka, dan kaki yang disesuaikan untuk hidup arboreal dengan jari-jari yang menyatu membentuk 'penjepit' alami. Bunglon Afrika bergerak dengan sangat pelan dan hati-hati, tetapi bisa menyerang mangsa dengan kecepatan kilat menggunakan lidah lengket mereka. Mereka memiliki tubuh yang pipih lateral yang membantu dalam kamuflase dan termoregulasi.",
+      "fun_fact": [
+        "Lidah bunglon bisa menjulur dalam waktu 0.07 detik dengan kekuatan 2.590 watt per kilogram - lebih kuat dari mobil sport!",
+        "Mata mereka bisa bergerak independen 180 derajat, memungkinkan mereka melihat ke depan dan belakang secara bersamaan",
+        "Perubahan warna bunglon bukan hanya untuk kamuflase, tetapi juga untuk komunikasi - warna cerah menunjukkan dominasi atau kesiapan kawin"
+      ],
+      "habitat": "Savana, hutan kering, scrubland di Afrika",
+      "diet": "Karnivora - serangga, laba-laba, cacing, kadang vertebrata kecil",
+      "size": "15-60 cm (tergantung spesies)",
+      "conservation_status": "Least Concern to Vulnerable (tergantung spesies)"
+    },
+    {
+      "id": 48,
+      "label": "Komodo_dragon",
+      "name": "Komodo Dragon (Komodo)",
+      "description": "Komodo Dragon adalah kadal terbesar di dunia dan predator puncak di habitat mereka. Mereka memiliki tubuh yang sangat besar dan kuat, dengan gigitan yang mengandung racun yang bisa melumpuhkan mangsa besar. Komodo memiliki indra penciuman yang luar biasa tajam melalui lidah bercabang mereka, bisa mendeteksi bangkai dari jarak hingga 9 km. Mereka adalah perenang yang baik dan bisa berlari hingga 20 km/jam dalam jarak pendek. Komodo adalah endemik Indonesia dan hanya ditemukan di beberapa pulau di Nusa Tenggara.",
+      "fun_fact": [
+        "Air liur Komodo mengandung lebih dari 50 jenis bakteri berbahaya plus racun yang mencegah pembekuan darah - gigitan mereka hampir selalu fatal",
+        "Mereka bisa menelan mangsa hingga 80% berat tubuh mereka dalam satu kali makan dan tidak perlu makan lagi selama berminggu-minggu",
+        "Komodo betina bisa bereproduksi secara aseksual (parthenogenesis) tanpa jantan - satu-satunya vertebrata besar yang memiliki kemampuan ini!"
+      ],
+      "habitat": "Savana kering, hutan monsun, pantai di pulau-pulau Indonesia",
+      "diet": "Karnivora - rusa, babi, kerbau, burung, telur, bangkai",
+      "size": "2-3 meter, berat hingga 90 kg",
+      "conservation_status": "Endangered"
+    },
+    {
+      "id": 49,
+      "label": "African_crocodile",
+      "name": "African Crocodile (Buaya Afrika)",
+      "description": "African Crocodile atau Nile Crocodile adalah salah satu predator air tawar terbesar dan paling ditakuti di dunia. Mereka memiliki rahang yang sangat kuat dengan kekuatan gigitan hingga 2.200 kg per cm persegi, dan tubuh yang sempurna untuk berburu di air. Buaya Afrika adalah ambush predator yang sangat sabar, bisa menunggu mangsa di tepi air selama berjam-jam tanpa bergerak. Mereka memiliki kemampuan luar biasa untuk bertahan hidup tanpa makanan hingga satu tahun dan bisa hidup lebih dari 70 tahun.",
+      "fun_fact": [
+        "Buaya Afrika memiliki gigitan terkuat di dunia hewan - 10 kali lebih kuat dari great white shark dan bisa menghancurkan tulang dengan mudah",
+        "Mereka adalah 'ibu' yang sangat protektif - membawa bayi yang baru menetas ke air dengan lembut di mulut mereka dan melindungi hingga berumur 2 tahun",
+        "Buaya bisa menahan napas hingga 1 jam di bawah air dan memiliki katup khusus yang menutup lubang hidung dan telinga saat menyelam"
+      ],
+      "habitat": "Sungai, danau, rawa, muara di Afrika",
+      "diet": "Karnivora - ikan, burung, mamalia, reptil lain",
+      "size": "3-5 meter (jantan), 2.5-3.5 meter (betina)",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 50,
+      "label": "American_alligator",
+      "name": "American Alligator (Alligator Amerika)",
+      "description": "American Alligator adalah reptil ikonik Amerika Selatan yang telah pulih dari ambang kepunahan menjadi success story konservasi. Mereka memiliki moncong yang lebih lebar dan tumpul dibandingkan buaya, dengan rahang yang sangat kuat tetapi otot pembuka yang lemah. Alligator adalah 'ecosystem engineer' yang menciptakan 'gator holes' - lubang air yang penting bagi kehidupan liar lainnya selama musim kering. Mereka memiliki kemampuan luar biasa untuk bertahan dalam air beku dan bisa masuk ke dalam keadaan semi-hibernasi yang disebut brumation.",
+      "fun_fact": [
+        "Alligator Amerika bisa bertahan dalam air yang membeku dengan cara menjulurkan hidung mereka di atas permukaan es sambil tubuh mereka membeku di dalam air",
+        "Mereka adalah salah satu success story konservasi terbesar - dari hampir punah (200 individu) pada 1960-an menjadi lebih dari 1 juta sekarang",
+        "Suara 'bellow' alligator jantan bisa terdengar hingga jarak 1.5 km dan menyebabkan getaran di air yang bisa dirasakan alligator lain dari jauh"
+      ],
+      "habitat": "Rawa, danau, sungai, kanal di Amerika Selatan",
+      "diet": "Karnivora - ikan, burung, mamalia, reptil, amfibi",
+      "size": "2.5-4 meter (jantan), 2-3 meter (betina)",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 51,
+      "label": "triceratops",
+      "name": "Triceratops",
+      "description": "Triceratops adalah salah satu dinosaurus paling ikonik dari periode Cretaceous akhir. Dinosaurus herbivora raksasa ini memiliki tiga tanduk yang mencolok dan perisai tulang besar di belakang kepalanya yang disebut frill. Mereka hidup dalam kawanan dan menggunakan tanduk serta frill-nya untuk pertahanan melawan predator seperti Tyrannosaurus Rex. Fosil Triceratops menunjukkan bahwa mereka adalah salah satu dinosaurus terakhir yang hidup sebelum peristiwa kepunahan massal.",
+      "fun_fact": [
+        "Tengkorak Triceratops bisa mencapai sepertiga dari total panjang tubuh mereka - hingga 3 meter panjangnya",
+        "Frill atau perisai tulang di belakang kepala mereka tidak hanya untuk pertahanan, tetapi juga untuk display dan regulasi suhu tubuh",
+        "Mereka memiliki paruh seperti burung beo yang kuat untuk memotong vegetasi keras dan ratusan gigi kecil untuk mengunyah"
+      ],
+      "habitat": "Dataran dan hutan terbuka Amerika Utara (periode Cretaceous, 68-66 juta tahun lalu)",
+      "diet": "Herbivora - pakis, gymnosperm, dan tumbuhan rendah lainnya",
+      "size": "8-9 meter panjang, 3 meter tinggi, berat 6-12 ton",
+      "conservation_status": "Extinct (Punah)"
+    },
+    {
+      "id": 52,
+      "label": "thunder_snake",
+      "name": "Thunder Snake (Ular Guntur)",
+      "description": "Thunder Snake atau Virginia valeriae adalah ular kecil yang tidak berbisa dari keluarga Colubridae. Dinamakan 'thunder snake' karena kepercayaan bahwa mereka muncul sebelum badai petir. Ular ini sangat pemalu dan sering bersembunyi di bawah batu, kayu lapuk, atau serasah daun. Mereka memiliki tubuh yang halus dan mengkilap dengan warna coklat keabu-abuan dan garis-garis samar.",
+      "fun_fact": [
+        "Mereka disebut 'thunder snake' karena mitos bahwa kemunculan mereka meramalkan datangnya badai petir",
+        "Thunder snake sangat kecil sehingga sering disalahartikan sebagai cacing tanah oleh orang awam",
+        "Ketika terancam, mereka akan menggulung tubuh mereka dan menyembunyikan kepala di bawah gulungan tubuh"
+      ],
+      "habitat": "Hutan lembab, area berpasir, di bawah batu dan kayu lapuk di Amerika Utara",
+      "diet": "Karnivora - cacing tanah, larva serangga, dan invertebrata kecil lainnya",
+      "size": "15-25 cm panjang",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 53,
+      "label": "ringneck_snake",
+      "name": "Ringneck Snake (Ular Cincin Leher)",
+      "description": "Ringneck Snake adalah ular kecil yang mudah dikenali dari cincin berwarna oranye atau kuning di sekitar lehernya. Mereka memiliki punggung berwarna gelap dan perut berwarna cerah dengan bintik-bintik hitam. Ular ini nokturnal dan sangat pemalu, lebih sering bersembunyi daripada konfrontasi. Meskipun memiliki bisa ringan, mereka tidak berbahaya bagi manusia.",
+      "fun_fact": [
+        "Ketika terancam, ringneck snake akan menggulung ekornya yang berwarna cerah untuk mengalihkan perhatian predator dari kepalanya",
+        "Mereka memiliki bisa ringan di kelenjar Duvernoy yang membantu melumpuhkan mangsa kecil, tetapi tidak berbahaya bagi manusia",
+        "Ringneck snake bisa hidup hingga 20 tahun di alam bebas, yang cukup lama untuk ular sekecil itu"
+      ],
+      "habitat": "Hutan, padang rumput, area berbatu di bawah batu dan kayu lapuk di Amerika Utara",
+      "diet": "Karnivora - cacing tanah, salamander, kadal kecil, ular kecil lainnya",
+      "size": "25-38 cm panjang",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 54,
+      "label": "hognose_snake",
+      "name": "Hognose Snake (Ular Hidung Pesek)",
+      "description": "Hognose Snake adalah ular yang terkenal karena kemampuan akting dramatis mereka ketika terancam. Mereka memiliki moncong yang mengarah ke atas dan pipih, yang digunakan untuk menggali di tanah berpasir. Ketika merasa terancam, mereka akan mengembangkan leher seperti kobra, mendesis keras, dan bahkan berpura-pura mati dengan membalikkan tubuh dan mengeluarkan lidah.",
+      "fun_fact": [
+        "Hognose snake adalah 'aktor' terbaik di dunia ular - mereka akan berpura-pura mati lengkap dengan mulut terbuka dan lidah terjulur",
+        "Moncong mereka yang unik digunakan seperti sekop untuk menggali telur reptil dan amfibi di dalam tanah",
+        "Jika akting 'mati' tidak berhasil, mereka akan membalikkan tubuh lagi karena mereka 'yakin' bahwa ular mati harus dalam posisi terbalik"
+      ],
+      "habitat": "Area berpasir, padang rumput, hutan terbuka di Amerika Utara",
+      "diet": "Karnivora - terutama katak dan kodok, juga kadal, ular kecil, dan telur",
+      "size": "35-50 cm panjang",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 55,
+      "label": "green_snake",
+      "name": "Green Snake (Ular Hijau)",
+      "description": "Green Snake adalah ular ramping berwarna hijau cerah yang hampir sempurna menyamarkan diri di antara dedaunan. Mereka adalah ular yang sangat lembut dan jarang menggigit, bahkan ketika ditangani. Ada dua spesies utama: Smooth Green Snake dan Rough Green Snake. Mereka adalah pemakan serangga yang sangat baik dan membantu mengendalikan populasi hama.",
+      "fun_fact": [
+        "Warna hijau cerah mereka akan berubah menjadi biru atau kuning setelah mati karena perubahan kimia dalam kulit",
+        "Green snake adalah salah satu ular paling jinak - mereka hampir tidak pernah menggigit bahkan ketika ditangani",
+        "Mereka bisa berubah warna sedikit dari hijau terang ke hijau gelap tergantung suhu dan kondisi cahaya"
+      ],
+      "habitat": "Padang rumput, tepi hutan, area dengan vegetasi lebat di Amerika Utara",
+      "diet": "Insektivora - belalang, jangkrik, ulat, laba-laba, dan serangga lainnya",
+      "size": "30-50 cm panjang",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 56,
+      "label": "king_snake",
+      "name": "King Snake (Ular Raja)",
+      "description": "King Snake adalah ular yang mendapat julukan 'raja' karena kemampuan mereka memakan ular lain, termasuk ular berbisa. Mereka kebal terhadap bisa ular lain dan sering berburu ular berbahaya seperti rattlesnake. King snake memiliki pola cincin atau garis yang kontras dan merupakan constrictor yang kuat. Mereka sangat bermanfaat bagi ekosistem karena membantu mengendalikan populasi ular berbisa.",
+      "fun_fact": [
+        "King snake kebal terhadap bisa hampir semua ular berbisa Amerika Utara, termasuk rattlesnake dan coral snake",
+        "Mereka akan memakan ular lain yang bahkan lebih besar dari diri mereka sendiri dengan cara menelan perlahan-lahan",
+        "King snake bisa meniru pola warna coral snake sebagai bentuk mimikri untuk menakuti predator"
+      ],
+      "habitat": "Hutan, padang rumput, gurun, area berbatu di Amerika Utara",
+      "diet": "Karnivora - ular lain, kadal, tikus, burung, telur",
+      "size": "60-120 cm panjang",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 57,
+      "label": "garter_snake",
+      "name": "Garter Snake (Ular Ikat Pinggang)",
+      "description": "Garter Snake adalah salah satu ular paling umum dan mudah dikenali di Amerika Utara. Mereka dinamakan demikian karena garis-garis memanjang di tubuh mereka menyerupai ikat pinggang atau garter. Ular ini adalah ovovivipar, artinya mereka melahirkan anak yang hidup bukan bertelur. Mereka sangat adaptif dan bisa ditemukan di berbagai habitat.",
+      "fun_fact": [
+        "Garter snake melahirkan hingga 50 bayi ular sekaligus dalam satu kelahiran",
+        "Mereka adalah ularlar pertama yang muncul di musim semi dan terakhir yang hibernasi di musim dingin",
+        "Beberapa populasi garter snake di barat Amerika Utara kebal terhadap racun salamander beracun yang mereka makan"
+      ],
+      "habitat": "Hampir semua habitat - hutan, padang rumput, taman, dekat air di Amerika Utara",
+      "diet": "Karnivora - cacing tanah, amfibi, ikan kecil, tikus kecil",
+      "size": "45-75 cm panjang",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 58,
+      "label": "water_snake",
+      "name": "Water Snake (Ular Air)",
+      "description": "Water Snake adalah ular semi-akuatik yang menghabiskan sebagian besar hidupnya di dalam atau dekat air. Mereka sering disalahartikan sebagai water moccasin yang berbisa, padahal water snake tidak berbisa. Mereka adalah perenang yang sangat baik dan penyelam yang bisa tinggal di bawah air untuk waktu yang lama. Ketika terancam, mereka akan melepaskan musk yang berbau tidak sedap.",
+      "fun_fact": [
+        "Water snake bisa menahan napas hingga 15 menit di bawah air saat berburu atau bersembunyi dari predator",
+        "Mereka sering disalahartikan sebagai cottonmouth (water moccasin) yang berbisa, padahal mereka tidak berbahaya",
+        "Water snake akan memipihkan tubuh mereka dan berenang di permukaan air untuk terlihat lebih besar dan menakutkan"
+      ],
+      "habitat": "Sungai, danau, rawa, kolam, aliran air di Amerika Utara",
+      "diet": "Karnivora - ikan, katak, salamander, kadang-kadang krustasea",
+      "size": "60-100 cm panjang",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 59,
+      "label": "vine_snake",
+      "name": "Vine Snake (Ular Sulur)",
+      "description": "Vine Snake adalah ular yang sangat ramping dan memanjang dengan kamuflase luar biasa yang membuatnya tampak seperti ranting atau sulur tanaman. Mereka memiliki kepala yang memanjang dan mata dengan pupil horizontal yang memberikan penglihatan binokular yang baik. Ular ini adalah pemburu yang sabar, sering kali menunggu mangsa datang mendekat sambil menyamar sebagai bagian dari vegetasi.",
+      "fun_fact": [
+        "Vine snake bisa tetap tidak bergerak dalam posisi horizontal yang menantang gravitasi selama berjam-jam sambil menunggu mangsa",
+        "Mata mereka memiliki pupil horizontal seperti kambing yang memberikan penglihatan depth perception yang sangat baik",
+        "Mereka bisa bergerak sangat lambat dan halus sehingga mangsa tidak menyadari kehadiran mereka sampai terlambat"
+      ],
+      "habitat": "Hutan tropis, area dengan vegetasi lebat, di pohon dan semak di Asia dan Amerika",
+      "diet": "Karnivora - kadal kecil, burung kecil, katak pohon",
+      "size": "100-150 cm panjang tetapi sangat ramping",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 60,
+      "label": "night_snake",
+      "name": "Night Snake (Ular Malam)",
+      "description": "Night Snake adalah ular kecil yang aktif di malam hari dengan mata besar yang dilengkapi pupil vertikal untuk penglihatan nokturnal yang baik. Mereka memiliki bisa ringan yang digunakan untuk melumpuhkan mangsa kecil, tetapi tidak berbahaya bagi manusia. Ular ini sangat pemalu dan jarang terlihat karena aktivitas nokturnal mereka.",
+      "fun_fact": [
+        "Pupil mata night snake berbentuk vertikal seperti kucing untuk memaksimalkan penglihatan dalam kondisi cahaya redup",
+        "Mereka memiliki bisa ringan di kelenjar Duvernoy yang membantu melumpuhkan kadal dan katak kecil",
+        "Night snake bisa hidup di area yang sangat kering karena mereka mendapatkan sebagian besar kebutuhan air dari mangsa mereka"
+      ],
+      "habitat": "Gurun, area berbatu, padang rumput kering di Amerika Barat",
+      "diet": "Karnivora - kadal kecil, katak kecil, serangga besar",
+      "size": "30-40 cm panjang",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 61,
+      "label": "boa_constrictor",
+      "name": "Boa Constrictor",
+      "description": "Boa Constrictor adalah ular besar yang tidak berbisa dari Amerika Tengah dan Selatan. Mereka membunuh mangsa dengan cara melilit dan meremas hingga mangsa tidak bisa bernapas. Boa adalah ovovivipar, melahirkan anak yang hidup bukan bertelur. Mereka memiliki sensor panas di bibir yang membantu mereka mendeteksi mangsa berdarah panas dalam kegelapan.",
+      "fun_fact": [
+        "Boa constrictor tidak menghancurkan tulang mangsa - mereka menghentikan sirkulasi darah dan pernapasan dengan lilitan yang presisi",
+        "Mereka memiliki organ sensor panas yang bisa mendeteksi perbedaan suhu sekecil 0.003°C",
+        "Boa bisa hidup hingga 30 tahun dan terus tumbuh sepanjang hidup mereka, meskipun pertumbuhan melambat setelah dewasa"
+      ],
+      "habitat": "Hutan hujan, sabana, lahan pertanian di Amerika Tengah dan Selatan",
+      "diet": "Karnivora - mamalia, burung, kadang-kadang reptil lain",
+      "size": "2-4 meter panjang, berat 10-45 kg",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 62,
+      "label": "rock_python",
+      "name": "Rock Python (Piton Batu)",
+      "description": "Rock Python adalah salah satu ular terbesar di dunia dan predator puncak di habitatnya. Mereka adalah constrictor yang kuat yang bisa memakan mangsa sebesar antelop atau bahkan buaya muda. Python ini adalah perenang dan pemanjat yang baik, serta bisa bertahan tanpa makan selama berbulan-bulan setelah makan besar. Mereka bertelur dan betina akan mengerami telurnya dengan menggetarkan otot untuk menghasilkan panas.",
+      "fun_fact": [
+        "Rock python betina bisa mengerami telurnya dengan menggetarkan otot tubuh untuk menghasilkan panas hingga 7°C di atas suhu lingkungan",
+        "Mereka bisa menelan mangsa yang beratnya mencapai 75% dari berat tubuh mereka sendiri",
+        "Setelah makan besar, rock python bisa bertahan tanpa makan lagi selama 6-12 bulan"
+      ],
+      "habitat": "Sabana, hutan, area berbatu, dekat sumber air di Afrika",
+      "diet": "Karnivora - mamalia besar, burung, reptil, bahkan buaya muda",
+      "size": "3-6 meter panjang, berat 30-90 kg",
+      "conservation_status": "Near Threatened"
+    },
+    {
+      "id": 63,
+      "label": "Indian_cobra",
+      "name": "Indian Cobra (Kobra India)",
+      "description": "Indian Cobra adalah ular berbisa yang sangat ikonik dengan kemampuannya mengembangkan hood atau tudung di belakang kepala ketika merasa terancam. Mereka memiliki bisa neurotoksik yang sangat mematikan. Kobra India memiliki pola seperti mata atau kacamata di bagian belakang hood mereka. Dalam budaya India, mereka dihormati dan ditakuti, sering dikaitkan dengan dewa Siwa.",
+      "fun_fact": [
+        "Pola 'mata' atau 'kacamata' di belakang hood kobra India berfungsi untuk menakuti predator dari belakang",
+        "Indian cobra bisa 'berdiri' tegak hingga sepertiga panjang tubuh mereka sambil mengembangkan hood",
+        "Meskipun berbisa mematikan, kobra India lebih suka melarikan diri daripada menyerang dan akan memberikan peringatan terlebih dahulu"
+      ],
+      "habitat": "Hutan, padang rumput, area pertanian, dekat pemukiman manusia di Asia Selatan",
+      "diet": "Karnivora - tikus, katak, burung, ikan, ular lain",
+      "size": "1-2 meter panjang",
+      "conservation_status": "Near Threatened"
+    },
+    {
+      "id": 65,
+      "label": "sea_snake",
+      "name": "Sea Snake (Ular Laut)",
+      "description": "Sea Snake adalah ular yang telah beradaptasi sepenuhnya dengan kehidupan laut. Mereka memiliki ekor yang pipih seperti dayung untuk berenang dan lubang hidung yang bisa ditutup saat menyelam. Bisa ular laut adalah salah satu yang paling mematikan di dunia, tetapi mereka jarang menggigit manusia. Mereka tidak bisa bergerak dengan baik di darat dan menghabiskan seluruh hidup mereka di laut.",
+      "fun_fact": [
+        "Bisa sea snake 10 kali lebih mematikan daripada bisa kobra, tetapi mereka sangat jarang menyerang manusia",
+        "Mereka bisa menahan napas hingga 8 jam di bawah air berkat metabolisme yang sangat efisien",
+        "Sea snake bisa minum air laut dan mengeluarkan garam berlebih melalui kelenjar khusus di bawah lidah mereka"
+      ],
+      "habitat": "Perairan hangat di Samudra Hindia dan Pasifik",
+      "diet": "Karnivora - ikan, belut, telur ikan",
+      "size": "60-120 cm panjang",
+      "conservation_status": "Varies by species"
+    },
+    {
+      "id": 66,
+      "label": "horned_viper",
+      "name": "Horned Viper (Viper Bertanduk)",
+      "description": "Horned Viper adalah ular berbisa yang memiliki 'tanduk' kecil di atas mata mereka yang sebenarnya adalah sisik yang menonjol. Mereka adalah master kamuflase gurun dengan kemampuan menguburkan diri di pasir hingga hanya mata dan tanduk yang terlihat. Viper ini memiliki gerakan 'sidewinding' yang unik untuk bergerak di atas pasir panas dan longgar.",
+      "fun_fact": [
+        "Horned viper bergerak dengan teknik 'sidewinding' - bergerak menyamping untuk mengurangi kontak dengan pasir panas",
+        "Mereka bisa menguburkan diri sepenuhnya di pasir dalam hitungan detik, hanya menyisakan mata dan tanduk",
+        "'Tanduk' di atas mata mereka membantu melindungi mata dari pasir yang beterbangan dan memberikan bayangan"
+      ],
+      "habitat": "Gurun berpasir di Afrika Utara dan Timur Tengah",
+      "diet": "Karnivora - kadal, tikus gurun, burung kecil",
+      "size": "30-60 cm panjang",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 71,
+      "label": "scorpion",
+      "name": "Scorpion (Kalajengking)",
+      "description": "Scorpion adalah arakhnida purba yang telah ada selama lebih dari 400 juta tahun. Mereka memiliki capit (pedipalp) untuk menangkap mangsa dan ekor bersegmen dengan sengat beracun di ujungnya. Kalajengking adalah predator nokturnal yang berburu menggunakan getaran dan bisa bersinar di bawah sinar UV. Mereka sangat hardy dan bisa bertahan dalam kondisi ekstrem.",
+      "fun_fact": [
+        "Scorpion bersinar dengan warna biru-hijau terang di bawah sinar ultraviolet karena senyawa dalam eksoskeleton mereka",
+        "Mereka bisa bertahan tanpa makan hingga satu tahun penuh berkat metabolisme yang sangat lambat",
+        "Bayi scorpion naik di punggung induknya sampai molting pertama, dan induk betina akan memakan bayi yang jatuh"
+      ],
+      "habitat": "Gurun, daerah kering, gua, di bawah batu di seluruh dunia kecuali Antartika",
+      "diet": "Karnivora - serangga, laba-laba, kadal kecil, tikus kecil",
+      "size": "1-20 cm panjang tergantung spesies",
+      "conservation_status": "Most species Least Concern"
+    },
+    {
+      "id": 72,
+      "label": "black_and_gold_garden_spider",
+      "name": "Black and Gold Garden Spider (Laba-laba Kebun Hitam Emas)",
+      "description": "Argiope aurantia adalah laba-laba pembuat jaring yang mencolok dengan pola hitam dan kuning cerah. Mereka membangun jaring orb yang besar dan kuat dengan pola zigzag khas yang disebut stabilimentum. Betina jauh lebih besar dari jantan dan dikenal karena perilaku kanibalisme seksual. Mereka adalah predator yang sangat efisien dan memainkan peran penting dalam mengontrol populasi serangga.",
+      "fun_fact": [
+        "Jaring mereka bisa mencapai diameter 60 cm dan pola zigzag putih di tengahnya berfungsi untuk menstabilkan jaring",
+        "Betina bisa memakan jantan setelah kawin, dan satu betina bisa menghasilkan hingga 4 kantung telur berisi ratusan telur",
+        "Mereka dapat merekonstruksi seluruh jaring mereka dalam waktu 30-60 menit jika rusak"
+      ],
+      "habitat": "Kebun, padang rumput, tepi hutan, area terbuka dengan vegetasi rendah",
+      "diet": "Karnivora - lalat, nyamuk, kupu-kupu, belalang, serangga terbang lainnya",
+      "size": "Betina: 19-28 mm, Jantan: 5-9 mm",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 73,
+      "label": "barn_spider",
+      "name": "Barn Spider (Laba-laba Gudang)",
+      "description": "Araneus cavaticus adalah laba-laba pembuat jaring orb yang sering ditemukan di bangunan dan struktur buatan manusia. Mereka memiliki abdomen bulat dengan pola yang bervariasi dan aktif pada malam hari. Jaring mereka berbentuk roda dengan benang radial dan spiral yang rapi. Spesies ini terkenal karena menjadi inspirasi untuk karakter Charlotte dalam novel 'Charlotte's Web'.",
+      "fun_fact": [
+        "Mereka membangun jaring baru setiap malam dan memakan jaring lama untuk menghemat protein",
+        "Betina bisa hidup hingga beberapa tahun, sementara jantan biasanya mati setelah kawin",
+        "Mereka bisa mengubah ketegangan jaring mereka untuk menangkap mangsa dengan ukuran berbeda"
+      ],
+      "habitat": "Gudang, garasi, teras, jembatan, struktur buatan manusia, tepi hutan",
+      "diet": "Karnivora - lalat, nyamuk, ngengat, kumbang, serangga terbang",
+      "size": "Betina: 13-20 mm, Jantan: 5-10 mm",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 74,
+      "label": "garden_spider",
+      "name": "Garden Spider (Laba-laba Kebun)",
+      "description": "Araneus diadematus adalah laba-laba pembuat jaring orb yang umum ditemukan di kebun dan area bervegetasi. Mereka memiliki pola seperti salib putih di punggung (cross spider) dan warna yang bervariasi dari coklat hingga oranye. Jaring mereka sangat simetris dan efisien untuk menangkap serangga terbang. Mereka adalah salah satu laba-laba yang paling dikenal di Eropa dan Amerika Utara.",
+      "fun_fact": [
+        "Pola salib putih di punggung mereka unik untuk setiap individu seperti sidik jari",
+        "Mereka dapat memprediksi cuaca dan akan memperkuat jaring sebelum badai",
+        "Satu betina bisa menghasilkan hingga 800 keturunan dalam satu musim"
+      ],
+      "habitat": "Kebun, hutan, semak, area dengan vegetasi lebat, dekat sumber cahaya",
+      "diet": "Karnivora - lalat, nyamuk, lebah, tawon, kupu-kupu, serangga kecil",
+      "size": "Betina: 10-17 mm, Jantan: 4-9 mm",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 76,
+      "label": "tarantula",
+      "name": "Tarantula (Laba-laba Raksasa)",
+      "description": "Tarantula adalah kelompok laba-laba berbulu besar yang termasuk dalam famili Theraphosidae. Mereka memiliki tubuh kekar dengan rambut-rambut halus (setae) yang berfungsi untuk merasakan getaran dan mempertahankan diri. Sebagian besar spesies adalah pemburu darat yang tidak membuat jaring, melainkan berburu dengan menggunakan kecepatan dan kekuatan. Mereka dikenal karena umur panjang dan kemampuan regenerasi kaki yang hilang.",
+      "fun_fact": [
+        "Betina tarantula bisa hidup hingga 25-30 tahun, sementara jantan hanya 3-7 tahun",
+        "Mereka bisa meregenerasi kaki yang hilang melalui proses molting dan kaki baru akan tumbuh sempurna",
+        "Rambut urticating mereka bisa dilepaskan sebagai pertahanan dan menyebabkan iritasi pada predator"
+      ],
+      "habitat": "Hutan tropis, gurun, gua, lubang tanah, celah batu, pohon",
+      "diet": "Karnivora - serangga, kadal kecil, katak, burung kecil, mamalia kecil",
+      "size": "Rentang kaki: 5-30 cm tergantung spesies",
+      "conservation_status": "Varies by species - beberapa Vulnerable karena perdagangan hewan eksotis"
+    },
+    {
+      "id": 77,
+      "label": "wolf_spider",
+      "name": "Wolf Spider (Laba-laba serigala)",
+      "description": "Lycosidae adalah keluarga laba-laba pemburu yang tidak membuat jaring untuk menangkap mangsa. Mereka memiliki penglihatan yang tajam dengan mata yang besar dan kaki yang kuat untuk berlari cepat. Yang unik, betina wolf spider membawa kantung telur di spinneretnya dan setelah menetas, bayi-bayi akan naik ke punggung induk. Mereka adalah predator aktif yang berburu di tanah.",
+      "fun_fact": [
+        "Mata mereka memantulkan cahaya di malam hari, sehingga bisa terlihat berkilau dengan senter",
+        "Ibu wolf spider akan membawa hingga 100 bayi di punggungnya selama minggu-minggu pertama",
+        "Mereka bisa berlari hingga 2 kaki per detik dan melompat 20 kali panjang tubuh mereka"
+      ],
+      "habitat": "Tanah, rerumputan, di bawah batu, pantai, hutan, padang rumput",
+      "diet": "Karnivora - serangga, laba-laba kecil, kecoa, jangkrik",
+      "size": "3-35 mm tergantung spesies",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 78,
+      "label": "tick",
+      "name": "Tick (Kutu/Caplak)",
+      "description": "Kutu adalah parasit eksternal yang termasuk dalam ordo Ixodida. Mereka adalah arakhnida penghisap darah yang menempel pada inang vertebrata untuk mendapatkan makanan. Kutu memiliki siklus hidup kompleks dengan tiga tahap: larva, nimfa, dan dewasa. Mereka adalah vektor penting untuk berbagai penyakit seperti Lyme disease, Rocky Mountain spotted fever, dan tick-borne encephalitis.",
+      "fun_fact": [
+        "Kutu bisa bertahan tanpa makan hingga 3 tahun sambil menunggu inang yang tepat",
+        "Mereka bisa mengembang hingga 100 kali ukuran asli setelah minum darah",
+        "Kutu dapat mendeteksi karbon dioksida, panas tubuh, dan getaran dari jarak 15 meter"
+      ],
+      "habitat": "Rumput tinggi, semak, hutan, area bervegetasi lebat di seluruh dunia",
+      "diet": "Hematofag - darah mamalia, burung, reptil, amfibi",
+      "size": "1-30 mm tergantung spesies dan stadium",
+      "conservation_status": "Least Concern (beberapa spesies adalah pest medis)"
+    },
+    {
+      "id": 79,
+      "label": "centipede",
+      "name": "Centipede (Kelabang)",
+      "description": "Kelabang adalah artropoda predator dengan tubuh panjang bersegmen dan banyak kaki (15-177 pasang). Mereka memiliki sepasang cakar beracun (forcipules) di belakang kepala untuk melumpuhkan mangsa. Kelabang adalah pemburu aktif yang bergerak cepat dan berburu di malam hari. Mereka memainkan peran ekologis penting sebagai predator serangga dan invertebbrata kecil lainnya.",
+      "fun_fact": [
+        "Meskipun namanya 'centipede' berarti 100 kaki, mereka tidak pernah memiliki tepat 100 kaki - selalu ganjil",
+        "Kelabang terbesar (Scolopendra gigantea) bisa mencapai 30 cm dan memangsa kelelawar",
+        "Mereka bisa meregenerasi kaki yang hilang, meski prosesnya lambat dan kaki baru sering lebih pendek"
+      ],
+      "habitat": "Di bawah batu, kayu lapuk, daun-daun, tanah lembab, gua",
+      "diet": "Karnivora - serangga, cacing, siput, laba-laba, vertebrata kecil",
+      "size": "1-30 cm tergantung spesies",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 83,
+      "label": "prairie_chicken",
+      "name": "Prairie Chicken (Ayam Padang Rumput)",
+      "description": "Prairie chicken adalah burung gallinaceous yang hidup di padang rumput Amerika Utara. Mereka terkenal karena ritual kawin yang spektakuler di mana jantan berkumpul di 'lek' untuk menampilkan tarian kawin dengan mengembangkan kantung udara di leher dan mengeluarkan suara bergemuruh. Populasi mereka menurun drastis karena hilangnya habitat padang rumput asli.",
+      "fun_fact": [
+        "Jantan memiliki kantung udara oranye di leher yang bisa dikembangkan seperti balon saat kawin",
+        "Tarian kawin mereka melibatkan gerakan menginjak-injak, melompat, dan berputar yang bisa berlangsung berjam-jam",
+        "Mereka bisa terbang hingga 80 km/jam dan adalah penerbang jarak jauh yang tangguh"
+      ],
+      "habitat": "Padang rumput, prairie, savana terbuka di Amerika Utara",
+      "diet": "Omnivora - biji-bijian, buah, daun, serangga, terutama belalang",
+      "size": "40-46 cm panjang, berat 700-900 gram",
+      "conservation_status": "Near Threatened hingga Vulnerable tergantung subspesies"
+    },
+    {
+      "id": 84,
+      "label": "peacock",
+      "name": "Peacock (Merak)",
+      "description": "Merak jantan (peacock) adalah salah satu burung paling spektakuler di dunia dengan ekor yang dapat dikembangkan menjadi kipas raksasa berisi ratusan 'mata' berwarna-warni. Bulu ekor ini sebenarnya adalah upper tail coverts yang diperpanjang. Merak menggunakan display ekor yang menakjubkan ini untuk menarik betina (peahen) selama musim kawin. Mereka adalah simbol keindahan dan kemegahan dalam banyak budaya.",
+      "fun_fact": [
+        "Ekor merak jantan mengandung hingga 200 bulu dengan 'mata' yang berkilau karena struktur mikroskopis yang memantulkan cahaya",
+        "Suara panggilan merak bisa terdengar hingga 1.6 km jauhnya",
+        "Merak bisa terbang meski berat dan ukurannya besar, biasanya untuk bertengger di pohon tinggi"
+      ],
+      "habitat": "Hutan terbuka, semak belukar, area pertanian di Asia Selatan",
+      "diet": "Omnivora - biji, buah, serangga, reptil kecil, amfibi",
+      "size": "Jantan: 100-115 cm (ekor bisa 150 cm), Betina: 86-100 cm",
+      "conservation_status": "Least Concern (Blue Peafowl)"
+    },
+    {
+      "id": 88,
+      "label": "macaw",
+      "name": "Macaw (Makaw)",
+      "description": "Makaw adalah burung beo terbesar dan paling berwarna-warni di dunia, dengan paruh besar yang kuat untuk memecah kacang dan biji keras. Mereka memiliki kecerdasan tinggi dan kemampuan meniru suara, serta hidup dalam hubungan monogami jangka panjang. Sayap panjang mereka memungkinkan penerbangan yang kuat dan lincah melalui kanopi hutan. Banyak spesies makaw terancam punah karena hilangnya habitat dan perdagangan ilegal.",
+      "fun_fact": [
+        "Makaw bisa hidup hingga 80-100 tahun dan pasangan sering bersama seumur hidup",
+        "Mereka memakan tanah liat di tebing sungai untuk menetralisir racun dari buah-buahan tertentu",
+        "Lidah makaw memiliki tulang di dalamnya yang membantu memanipulasi makanan"
+      ],
+      "habitat": "Hutan hujan tropis, savana berhutan, lahan basah di Amerika Tengah dan Selatan",
+      "diet": "Herbivora - buah, kacang, biji, nektar, kadang serangga dan telur",
+      "size": "30-100 cm tergantung spesies, berat 120-1700 gram",
+      "conservation_status": "Varies - dari Least Concern hingga Critically Endangered"
+    },
+    {
+      "id": 89,
+      "label": "sulphur-crested_cockatoo",
+      "name": "Sulphur-crested Cockatoo (Kakatua Jambul Kuning)",
+      "description": "Kakatua jambul kuning adalah burung beo putih besar dengan jambul kuning cerah yang dapat ditegakkan saat excited atau waspada. Mereka adalah burung yang sangat sosial dan cerdas dengan kemampuan pemecahan masalah yang luar biasa. Dalam kelompok liar, mereka membentuk kawanan besar dan memiliki sistem komunikasi kompleks. Sebagai hewan peliharaan, mereka membutuhkan stimulasi mental yang tinggi dan interaksi sosial yang intensif.",
+      "fun_fact": [
+        "Mereka bisa belajar meniru lebih dari 100 kata dan bahkan menggabungkannya dalam konteks",
+        "Kakatua ini bisa menggunakan alat, seperti ranting untuk mencari serangga atau membuka gembok",
+        "Jambul mereka berfungsi sebagai indikator mood - tegak saat excited, rata saat rileks"
+      ],
+      "habitat": "Hutan terbuka, woodland, area pertanian, taman kota di Australia",
+      "diet": "Omnivora - biji, kacang, buah, nektar, serangga, larva",
+      "size": "44-55 cm panjang, berat 815-975 gram",
+      "conservation_status": "Least Concern"
+    },
+    {
+      "id": 92,
+      "label": "bee_eater",
+      "name": "Bee Eater (Pemakan Lebah)",
+      "description": "Bee eater adalah burung kecil hingga sedang yang berspesialisasi memakan lebah, tawon, dan serangga terbang lainnya. Mereka memiliki paruh panjang dan runcing, sayap runcing untuk manuver cepat, dan warna-warna cerah yang mencolok. Mereka menangkap mangsa dengan terbang dan memiliki teknik khusus untuk menghilangkan sengat lebah dengan menggosokkannya di dahan sebelum dimakan. Beberapa spesies adalah migran jarak jauh.",
+      "fun_fact": [
+        "Mereka kebal terhadap racun lebah dan bisa memakan hingga 250 lebah per hari",
+        "Bee eater menggosok lebah di dahan untuk mengeluarkan racun dan sengat sebelum menelannya",
+        "Mereka bersarang di lubang yang digali di tebing tanah dengan kedalaman hingga 1.5 meter"
+      ],
+      "habitat": "Area terbuka, savana, tepi hutan, dekat sumber air di Afrika, Asia, dan selatan Eropa",
+      "diet": "Insektivora - lebah, tawon, semut terbang, capung, kupu-kupu",
+      "size": "15-35 cm tergantung spesies",
+      "conservation_status": "Most species Least Concern"
+    },
+    {
+      "id": 94,
+      "label": "hummingbird",
+      "name": "Hummingbird (Burung Kolibri)",
+      "description": "Kolibri adalah burung terkecil di dunia dengan kemampuan terbang yang unik - mereka bisa terbang mundur, melayang di tempat, dan bahkan terbang terbalik. Metabolisme mereka sangat cepat dan jantung bisa berdetak hingga 1.260 kali per menit. Paruh dan lidah panjang mereka disesuaikan untuk mengisap nektar dari bunga. Sayap mereka bergerak dalam pola angka 8 yang memungkinkan kontrol penerbangan yang presisi.",
+      "fun_fact": [
+        "Sayap kolibri bergetar 50-80 kali per detik, menciptakan suara berdenging khas",
+        "Mereka bisa mengonsumsi hingga setengah berat tubuh mereka dalam nektar setiap hari",
+        "Kolibri bee hummingbird adalah burung terkecil di dunia dengan berat hanya 1.6-2 gram"
+      ],
+      "habitat": "Hutan, kebun, padang rumput berbunga di Amerika (utara hingga selatan)",
+      "diet": "Nektivora - nektar bunga, getah pohon, serangga kecil untuk protein",
+      "size": "5-21.5 cm, berat 1.6-24 gram tergantung spesies",
+      "conservation_status": "Varies - sebagian besar Least Concern, beberapa Endangered"
+    },
+    {
+      "id": 99,
+      "label": "goose",
+      "name": "Goose (Angsa)",
+      "description": "Angsa adalah burung air besar dengan leher panjang dan kaki berselaput. Mereka adalah herbivora yang menghabiskan banyak waktu di darat untuk merumput. Angsa hidup dalam kelompok sosial yang kuat dengan hierarki yang jelas dan dikenal karena kesetiaan pasangan seumur hidup. Mereka adalah migran kuat yang terbang dalam formasi V yang ikonik untuk menghemat energi selama perjalanan jauh.",
+      "fun_fact": [
+        "Formasi V saat terbang bisa menghemat energi hingga 20% untuk burung di belakang",
+        "Angsa bisa hidup hingga 25 tahun di alam liar dan pasangan sering bersama seumur hidup",
+        "Mereka memiliki penglihatan warna yang sangat baik dan bisa melihat spektrum UV"
+      ],
+      "habitat": "Danau, sungai, rawa, padang rumput, tundra di seluruh dunia",
+      "diet": "Herbivora - rumput, akar, biji, ganggang, kadang serangga kecil",
+      "size": "50-180 cm tergantung spesies, berat 1.5-12 kg",
+      "conservation_status": "Most species Least Concern"
+    },
+    {
+      "id": 100,
+      "label": "black_swan",
+      "name": "Black Swan (Angsa Hitam)",
+      "description": "Angsa hitam adalah burung air besar dengan bulu hitam mengkilap dan paruh merah cerah. Mereka adalah simbol Australia dan berbeda dari angsa lain karena warna bulunya yang unik. Leher mereka sangat panjang dan fleksibel, memungkinkan mereka mencari makan di air dengan kedalaman yang bervariasi. Angsa hitam adalah spesies monogami dengan ritual kawin yang elegan dan membangun sarang besar dari vegetasi air.",
+      "fun_fact": [
+        "Istilah 'black swan event' dalam ekonomi berasal dari keberadaan burung ini yang dulu dianggap tidak mungkin ada",
+        "Mereka memiliki lebih dari 30 vertebra leher, lebih banyak dari burung lain, memberikan fleksibilitas luar biasa",
+        "Anak angsa hitam berwarna abu-abu dan sering naik di punggung induk saat berenang"
+      ],
+      "habitat": "Danau, rawa, laguna, sungai di Australia, diintroduksi ke beberapa negara lain",
+      "diet": "Herbivora - tanaman air, ganggang, rumput, biji-bijian",
+      "size": "110-142 cm panjang, berat 3.7-9 kg",
+      "conservation_status": "Least concern"
+    },
+    {
+      "id": 102,
+      "label": "echidna",
+      "name": "Echidna (Landak Semut)",
+      "description": "Echidna adalah mamalia monotreme unik yang bertelur dan memiliki duri seperti landak. Mereka adalah salah satu dari hanya dua jenis mamalia yang bertelur di dunia. Echidna memiliki moncong panjang dan lidah yang dapat memanjang hingga 18 cm untuk menangkap semut dan rayap. Tubuh mereka ditutupi duri keras yang berfungsi sebagai perlindungan dari predator.",
+      "fun_fact": [
+        "Echidna adalah salah satu dari hanya dua mamalia yang bertelur, bersama dengan platypus",
+        "Mereka dapat hidup hingga 50 tahun dan memiliki suhu tubuh terendah di antara mamalia",
+        "Echidna dapat berenang dengan sangat baik meskipun penampilan mereka yang kaku"
+      ],
+      "habitat": "Hutan, padang rumput, gurun di Australia dan Papua Nugini",
+      "diet": "Insektivora - semut, rayap, larva serangga",
+      "size": "30-45 cm panjang, berat 2-5 kg",
+      "conservation_status": "Least concern"
+    },
+    {
+      "id": 103,
+      "label": "platypus",
+      "name": "Platypus (Platipus)",
+      "description": "Platypus adalah mamalia semi-akuatik yang sangat unik dengan paruh seperti bebek, ekor seperti berang-berang, dan kaki berselaput. Mereka adalah satu-satunya mamalia berbisa yang masih hidup, dengan jantan memiliki taji beracun di kaki belakang. Platypus berburu di bawah air dengan mata dan telinga tertutup, mengandalkan elektrolokasi untuk menemukan mangsa.",
+      "fun_fact": [
+        "Platypus adalah mamalia monotreme yang bertelur dan menyusui anaknya",
+        "Mereka memiliki kemampuan elektrolokasi untuk mendeteksi aktivitas listrik dari otot mangsa",
+        "Ketika pertama kali ditemukan, ilmuwan Eropa mengira ini adalah tipuan karena terlalu aneh"
+      ],
+      "habitat": "Sungai, danau, aliran air di Australia timur",
+      "diet": "Karnivora - krustasea kecil, cacing, larva serangga",
+      "size": "38-60 cm panjang, berat 0.7-2.4 kg",
+      "conservation_status": "Near Threatened"
+    },
+    {
+      "id": 105,
+      "label": "koala",
+      "name": "Koala (Koala)",
+      "description": "Koala adalah marsupial arboreal yang menghabiskan sebagian besar hidupnya di pohon eukaliptus. Mereka memiliki hidung besar dan hitam, telinga berbulu lebat, dan tidak memiliki ekor. Koala tidur hingga 22 jam sehari karena diet eukaliptus yang rendah energi dan sulit dicerna. Mereka memiliki dua jempol di setiap tangan depan untuk mencengkeram cabang dengan kuat.",
+      "fun_fact": [
+        "Koala tidak minum air dalam kondisi normal - mereka mendapat cairan dari daun eukaliptus",
+        "Bayi koala makan kotoran ibu mereka untuk mendapat bakteri pencerna eukaliptus",
+        "Koala memiliki sidik jari yang sangat mirip dengan manusia"
+      ],
+      "habitat": "Hutan eukaliptus di Australia timur dan tenggara",
+      "diet": "Herbivora - terutama daun eukaliptus",
+      "size": "60-85 cm panjang, berat 4-15 kg",
+      "conservation_status": "Vulnerable"
+    },
+    {
+      "id": 106,
+      "label": "wombat",
+      "name": "Wombat (Wombat)",
+      "description": "Wombat adalah marsupial penggali yang kuat dengan tubuh gempal dan kaki pendek. Mereka terkenal karena kotoran berbentuk kubus yang unik di dunia hewan. Wombat memiliki gigi yang terus tumbuh sepanjang hidup dan kantung marsupial yang menghadap ke belakang untuk mencegah tanah masuk saat menggali. Mereka adalah hewan nokturnal yang menghabiskan hari di liang bawah tanah.",
+      "fun_fact": [
+        "Wombat adalah satu-satunya hewan yang menghasilkan kotoran berbentuk kubus",
+        "Pantat mereka terbuat dari tulang rawan keras yang dapat menghancurkan tengkorak predator",
+        "Liang wombat dapat sepanjang 30 meter dengan beberapa ruang dan pintu masuk"
+      ],
+      "habitat": "Hutan, padang rumput, scrubland di Australia",
+      "diet": "Herbivora - rumput, akar, kulit kayu",
+      "size": "70-120 cm panjang, berat 20-35 kg",
+      "conservation_status": "Least concern"
+    },
+    {
+      "id": 107,
+      "label": "jellyfish",
+      "name": "Ubur-ubur (Jellyfish)",
+      "description": "Ubur-ubur adalah hewan laut tanpa tulang belakang yang tubuhnya terdiri dari 95% air. Mereka memiliki tentakel yang dilengkapi sel penyengat untuk menangkap mangsa dan bertahan dari predator. Ubur-ubur telah ada di bumi selama lebih dari 500 juta tahun, bahkan sebelum dinosaurus. Mereka bergerak dengan kontraksi ritmis tubuh seperti payung.",
+      "fun_fact": [
+        "Ubur-ubur telah ada lebih lama dari dinosaurus dan hiu",
+        "Beberapa spesies ubur-ubur secara biologis abadi dan dapat membalikkan proses penuaan",
+        "Ubur-ubur tidak memiliki otak, jantung, darah, atau sistem saraf pusat"
+      ],
+      "habitat": "Semua samudra dunia, dari permukaan hingga laut dalam",
+      "diet": "Karnivora - plankton, ikan kecil, krustasea",
+      "size": "Bervariasi: 1 cm hingga 2 meter diameter",
+      "conservation_status": "Varies by species"
+    },
+    {
+      "id": 108,
+      "label": "sea_anemone",
+      "name": "Anemon Laut (Sea Anemone)",
+      "description": "Anemon laut adalah hewan laut yang menyerupai bunga dengan tentakel berwarna-warni yang bergerak mengikuti arus. Mereka adalah predator yang menunggu mangsa datang mendekat, kemudian menyerang dengan tentakel beracun. Anemon laut dapat hidup sangat lama, dengan beberapa spesies berumur ratusan tahun. Mereka sering bersimbiosis dengan ikan badut yang kebal terhadap racun mereka.",
+      "fun_fact": [
+        "Anemon laut dapat hidup hingga ratusan tahun dengan regenerasi sel yang luar biasa",
+        "Mereka bersimbiosis mutualisme dengan ikan badut - ikan mendapat perlindungan, anemon mendapat sisa makanan",
+        "Anemon dapat bergerak perlahan untuk mencari lokasi yang lebih baik"
+      ],
+      "habitat": "Terumbu karang, dasar laut berbatu, kolam pasang surut",
+      "diet": "Karnivora - ikan kecil, krustasea, plankton",
+      "size": "1 cm hingga 2 meter diameter",
+      "conservation_status": "Varies by species"
+    },
+    {
+      "id": 109,
+      "label": "brain_coral",
+      "name": "Karang Otak (Brain Coral)",
+      "description": "Karang otak adalah jenis karang keras yang bentuknya menyerupai otak manusia dengan lekukan dan lipatan yang kompleks. Mereka adalah koloni polip kecil yang membangun struktur kalsium karbonat besar selama ratusan tahun. Karang otak berperan penting dalam ekosistem terumbu karang sebagai habitat bagi berbagai spesies laut dan pelindung pantai dari erosi.",
+      "fun_fact": [
+        "Karang otak dapat hidup hingga 900 tahun dan tumbuh sangat lambat",
+        "Mereka bersimbiosis dengan alga zooxanthellae yang memberikan warna dan nutrisi melalui fotosintesis",
+        "Struktur berlekuk-lekuk meningkatkan luas permukaan untuk menangkap plankton"
+      ],
+      "habitat": "Terumbu karang di perairan tropis dan subtropis",
+      "diet": "Filter feeder - plankton, partikel organik kecil",
+      "size": "Koloni dapat mencapai beberapa meter diameter",
+      "conservation_status": "Vulnerable to threatened"
+    },
+    {
+      "id": 118,
+      "label": "Dungeness_crab",
+      "name": "Kepiting Dungeness (Dungeness Crab)",
+      "description": "Kepiting Dungeness adalah krustasea laut yang memiliki cangkang coklat keungu-unguan dan daging yang sangat lezat. Mereka adalah kepiting komersial penting di pantai barat Amerika Utara. Kepiting ini dapat hidup hingga 10 tahun dan mengalami molting (pergantian cangkang) berkali-kali selama hidupnya. Mereka adalah predator dan pemulung yang berperan penting dalam ekosistem dasar laut.",
+      "fun_fact": [
+        "Kepiting Dungeness dinamai dari kota Dungeness di Washington, Amerika Serikat",
+        "Mereka dapat berenang dengan menggunakan kaki belakang yang pipih seperti dayung",
+        "Cangkang kepiting yang baru molting sangat lunak dan mudah dimakan seluruhnya"
+      ],
+      "habitat": "Dasar laut berpasir dan berlumpur, teluk, muara di Pasifik Utara",
+      "diet": "Omnivora - moluska, cacing, ikan mati, tumbuhan laut",
+      "size": "Cangkang 15-25 cm lebar, berat hingga 1.5 kg",
+      "conservation_status": "Least concern"
+    },
+    {
+      "id": 119,
+      "label": "rock_crab",
+      "name": "Kepiting Batu (Rock Crab)",
+      "description": "Kepiting batu adalah krustasea yang hidup di zona intertidal berbatu dan memiliki cangkang yang sangat keras. Mereka terkenal karena kemampuan adaptasi yang luar biasa terhadap perubahan pasang surut dan gelombang kuat. Kepiting batu memiliki capit yang kuat untuk memecah cangkang moluska dan bertahan dari predator. Warna cangkang mereka bervariasi untuk menyamarkan diri dengan lingkungan berbatu.",
+      "fun_fact": [
+        "Kepiting batu dapat bertahan hidup di luar air selama beberapa jam dengan menyimpan air di insang",
+        "Mereka memiliki kemampuan autotomi - dapat melepaskan kaki yang terluka dan menumbuhkannya kembali",
+        "Capit kepiting batu dapat menghasilkan tekanan hingga 90 pound per square inch"
+      ],
+      "habitat": "Zona intertidal berbatu, kolam pasang surut, dermaga",
+      "diet": "Omnivora - alga, barnacle, moluska kecil, detritus",
+      "size": "Cangkang 5-15 cm lebar",
+      "conservation_status": "Least concern"
+    },
+    {
+      "id": 120,
+      "label": "fiddler_crab",
+      "name": "Kepiting Biola (Fiddler Crab)",
+      "description": "Kepiting biola adalah kepiting kecil yang terkenal karena dimorfisme seksual yang ekstrem - jantan memiliki satu capit yang sangat besar seperti biola. Capit besar ini digunakan untuk menarik pasangan dan bertarung dengan jantan lain, bukan untuk makan. Mereka hidup di zona intertidal dan membuat liang di lumpur atau pasir. Kepiting biola adalah indikator penting kesehatan ekosistem mangrove.",
+      "fun_fact": [
+        "Capit besar jantan bisa mencapai setengah dari berat total tubuhnya",
+        "Mereka melakukan tarian kawin yang rumit dengan mengayunkan capit besarnya",
+        "Kepiting biola dapat menentukan arah dengan menggunakan posisi matahari"
+      ],
+      "habitat": "Mangrove, rawa garam, pantai berlumpur di daerah tropis",
+      "diet": "Detritivora - bahan organik terurai, alga, bakteri",
+      "size": "Cangkang 2.5-5 cm lebar",
+      "conservation_status": "Least concern"
+    },
+    {
+    "id": 121,
+    "label": "king_crab",
+    "name": "Kepiting Raja (King Crab)",
+    "description": "Kepiting raja adalah krustasea raksasa yang hidup di perairan dingin dengan cangkang berduri dan kaki yang sangat panjang. Mereka adalah salah satu kepiting terbesar di dunia dan sangat dihargai sebagai makanan laut mewah. Kepiting raja dapat hidup hingga 30 tahun dan mengalami migrasi musiman yang panjang. Mereka memiliki kemampuan regenerasi yang luar biasa untuk menumbuhkan kembali kaki yang hilang.",
+    "fun_fact": [
+      "Kepiting raja sebenarnya lebih dekat dengan lobster hermit daripada kepiting sejati",
+      "Mereka dapat hidup di kedalaman hingga 200 meter dengan suhu mendekati titik beku",
+      "Seekor kepiting raja besar dapat memiliki rentang kaki hingga 1.8 meter"
+    ],
+    "habitat": "Laut dalam yang dingin di Pasifik Utara dan Selatan",
+    "diet": "Omnivora - cacing laut, moluska, ikan mati, detritus",
+    "size": "Cangkang hingga 28 cm, rentang kaki hingga 1.8 m, berat hingga 11 kg",
+    "conservation_status": "Varies by species"
+  },
+  {
+    "id": 122,
+    "label": "American_lobster",
+    "name": "Lobster Amerika (American Lobster)",
+    "description": "Lobster Amerika adalah krustasea besar yang hidup di dasar laut Atlantik Utara dengan dua capit berbeda ukuran - satu untuk menghancurkan dan satu untuk memotong. Mereka adalah hewan nokturnal yang bersembunyi di celah batu pada siang hari. Lobster dapat hidup sangat lama, dengan beberapa spesimen diperkirakan berusia lebih dari 100 tahun. Mereka mengalami molting sepanjang hidup untuk tumbuh lebih besar.",
+    "fun_fact": [
+      "Lobster dulunya dianggap makanan untuk orang miskin dan tahanan di Amerika kolonial",
+      "Mereka secara teoritis bisa hidup selamanya karena tidak mengalami penuaan seluler seperti kebanyakan hewan",
+      "Lobster memiliki darah biru karena mengandung hemosianin berbasis tembaga"
+    ],
+    "habitat": "Dasar laut berbatu di Atlantik Utara, dari perairan dangkal hingga 480 meter",
+    "diet": "Omnivora - ikan, moluska, krustasea kecil, tumbuhan laut",
+    "size": "25-64 cm panjang, berat 0.45-20 kg",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "id": 123,
+    "label": "spiny_lobster",
+    "name": "Lobster Berduri (Spiny Lobster)",
+    "description": "Lobster berduri adalah krustasea laut yang tidak memiliki capit besar seperti lobster Amerika, tetapi memiliki antena yang sangat panjang dan tubuh penuh duri sebagai perlindungan. Mereka hidup di perairan hangat dan sering melakukan migrasi massal yang spektakuler dalam barisan panjang di dasar laut. Lobster berduri adalah hewan nokturnal yang bersembunyi di celah karang pada siang hari.",
+    "fun_fact": [
+      "Lobster berduri dapat melakukan migrasi hingga 100 km dalam barisan yang bisa mencapai 50 individu",
+      "Mereka menggunakan antena panjang untuk berkomunikasi dan mendeteksi predator",
+      "Suara 'screaming' yang dihasilkan berasal dari gesekan antena dengan bagian kepala"
+    ],
+    "habitat": "Terumbu karang dan dasar berbatu di perairan tropis dan subtropis",
+    "diet": "Omnivora - moluska, krustasea kecil, cacing, tumbuhan laut",
+    "size": "20-60 cm panjang, berat hingga 15 kg",
+    "conservation_status": "Varies by species"
+  },
+  {
+    "id": 124,
+    "label": "crayfish",
+    "name": "Udang Karang Air Tawar (Crayfish)",
+    "description": "Udang karang air tawar adalah krustasea yang hidup di sungai, danau, dan aliran air tawar dengan bentuk menyerupai lobster kecil. Mereka memiliki capit untuk menangkap mangsa dan bertahan dari predator, serta berperan penting sebagai pembersih ekosistem air tawar. Udang karang dapat hidup hingga 30 tahun dan mengalami molting untuk pertumbuhan. Mereka adalah indikator kualitas air yang baik.",
+    "fun_fact": [
+      "Udang karang dapat hidup di luar air selama beberapa hari selama insang tetap lembab",
+      "Mereka memiliki kemampuan autotomi dan dapat menumbuhkan kembali capit atau kaki yang hilang",
+      "Di Louisiana, udang karang adalah bahan utama dalam masakan Cajun dan Creole"
+    ],
+    "habitat": "Sungai, danau, rawa air tawar di seluruh dunia",
+    "diet": "Omnivora - tumbuhan air, serangga, ikan mati, detritus",
+    "size": "2.5-17.5 cm panjang",
+    "conservation_status": "Varies by species"
+  },
+  {
+    "id": 125,
+    "label": "hermit_crab",
+    "name": "Kepiting Kelomang (Hermit Crab)",
+    "description": "Kepiting kelomang adalah krustasea unik yang menggunakan cangkang kosong gastropoda sebagai rumah pelindung karena abdomen mereka yang lunak. Mereka harus terus mencari cangkang yang lebih besar seiring pertumbuhan tubuh dan sering terlibat dalam 'pertukaran cangkang' berkelompok. Kepiting kelomang berperan penting dalam ekosistem sebagai pembersih dan penyebar benih di pantai berpasir.",
+    "fun_fact": [
+      "Kepiting kelomang mengadakan 'pesta tukar cangkang' dimana mereka bertukar rumah secara berantai",
+      "Mereka memiliki kemampuan luar biasa untuk mengenali cangkang yang tepat hanya dengan menyentuhnya",
+      "Beberapa spesies kepiting kelomang di darat dapat memanjat pohon kelapa"
+    ],
+    "habitat": "Pantai, terumbu karang, hutan mangrove, beberapa spesies di darat",
+    "diet": "Omnivora - alga, detritus, plankton, buah jatuh (spesies darat)",
+    "size": "1 cm hingga 30 cm panjang (tergantung spesies)",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "id": 127,
+    "label": "white_stork",
+    "name": "Bangau Putih (White Stork)",
+    "description": "Bangau putih adalah burung air besar dengan bulu putih, sayap hitam, dan paruh serta kaki merah panjang. Mereka terkenal dalam mitologi Eropa sebagai pembawa bayi dan merupakan migran jarak jauh yang menempuh ribuan kilometer antara Eropa dan Afrika. Bangau putih membangun sarang besar di puncak pohon atau bangunan tinggi dan sering menggunakan sarang yang sama bertahun-tahun.",
+    "fun_fact": [
+      "Bangau putih dapat terbang hingga ketinggian 4.800 meter saat migrasi",
+      "Mereka menggunakan termal (udara panas naik) untuk menghemat energi saat terbang jarak jauh",
+      "Bangau putih tidak bersuara karena tidak memiliki otot syrinx yang berkembang"
+    ],
+    "habitat": "Padang rumput basah, sawah, rawa di Eropa, Asia, Afrika",
+    "diet": "Karnivora - katak, ikan, serangga, reptil kecil, mamalia kecil",
+    "size": "100-115 cm tinggi, rentang sayap 155-215 cm, berat 2.3-4.5 kg",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "id": 128,
+    "label": "black_stork",
+    "name": "Bangau Hitam (Black Stork)",
+    "description": "Bangau hitam adalah burung air yang lebih langka dan pemalu dibanding bangau putih, dengan bulu hitam mengkilap, dada putih, dan paruh serta kaki merah. Mereka lebih menyukai habitat hutan dekat air dan jarang terlihat di area terbuka. Bangau hitam adalah migran yang menempuh perjalanan panjang antara tempat berkembang biak di Eurasia dan tempat musim dingin di Afrika dan Asia Selatan.",
+    "fun_fact": [
+      "Bangau hitam lebih sulit diamati karena sifatnya yang pemalu dan hidup di hutan",
+      "Mereka memiliki ritual kawin yang melibatkan tarian dan suara paruh yang unik",
+      "Populasi bangau hitam jauh lebih kecil dan tersebar dibanding bangau putih"
+    ],
+    "habitat": "Hutan dekat sungai, danau, rawa di Eurasia",
+    "diet": "Karnivora - ikan, amfibi, reptil, serangga air, krustasea",
+    "size": "95-100 cm tinggi, rentang sayap 145-155 cm, berat 2.5-3 kg",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "id": 131,
+    "label": "little_blue_heron",
+    "name": "Kuntul Biru Kecil (Little Blue Heron)",
+    "description": "Kuntul biru kecil adalah burung air sedang dengan transformasi warna yang unik - anak muda berwarna putih dan dewasa berwarna biru keabu-abuan. Mereka adalah pemburu yang sabar, sering berdiri diam di air dangkal menunggu ikan lewat. Kuntul biru kecil memiliki leher berbentuk S yang dapat diluncurkan dengan cepat untuk menangkap mangsa dengan presisi tinggi.",
+    "fun_fact": [
+      "Anak kuntul biru kecil berwarna putih dan sering bergabung dengan kawanan egret putih",
+      "Transformasi dari putih ke biru terjadi secara bertahap selama tahun pertama kehidupan",
+      "Mereka memiliki strategi berburu yang lebih aktif dibanding heron lainnya"
+    ],
+    "habitat": "Rawa air tawar dan asin, kolam, sungai di Amerika Utara dan Selatan",
+    "diet": "Karnivora - ikan kecil, katak, krustasea, serangga air",
+    "size": "56-74 cm tinggi, rentang sayap 102 cm, berat 325-425 gram",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "id": 134,
+    "label": "crane",
+    "name": "Bangau Derek (Crane)",
+    "description": "Bangau derek adalah burung air besar dengan leher dan kaki panjang, terkenal karena tarian kawin yang elegan dan suara panggilan yang keras. Mereka adalah simbol umur panjang dan keberuntungan dalam banyak budaya Asia. Bangau derek hidup dalam kelompok dan melakukan migrasi jarak jauh dalam formasi V. Mereka membangun sarang di tanah di area rawa terbuka.",
+    "fun_fact": [
+      "Tarian kawin bangau derek melibatkan lompatan tinggi, sayap terbuka, dan gerakan kepala yang rumit",
+      "Suara panggilan mereka dapat terdengar hingga jarak 5 km karena trakea yang panjang",
+      "Bangau derek dapat hidup hingga 60 tahun di penangkaran"
+    ],
+    "habitat": "Rawa, padang rumput basah, tundra di belahan bumi utara",
+    "diet": "Omnivora - biji-bijian, akar, serangga, ikan kecil, mamalia kecil",
+    "size": "90-150 cm tinggi, rentang sayap 180-240 cm, berat 3-7 kg",
+    "conservation_status": "Varies by species"
+  },
+  {
+    "id": 143,
+    "label": "oystercatcher",
+    "name": "Pemakan Tiram (Oystercatcher)",
+    "description": "Pemakan tiram adalah burung pantai yang khas dengan paruh oranye panjang dan kuat yang dirancang untuk membuka cangkang moluska. Mereka memiliki bulu kontras hitam-putih dan kaki merah muda. Pemakan tiram adalah spesialis dalam membuka tiram, kerang, dan moluska lainnya dengan teknik yang dipelajari dan diturunkan antar generasi. Mereka hidup di sepanjang garis pantai berbatu dan berpasir.",
+    "fun_fact": [
+      "Pemakan tiram mengembangkan teknik khusus untuk membuka setiap jenis kerang yang berbeda",
+      "Paruh mereka tumbuh terus sepanjang hidup untuk mengkompensasi keausan dari mengorek cangkang keras",
+      "Mereka memiliki panggilan yang sangat keras dan khas yang terdengar seperti teriakan"
+    ],
+    "habitat": "Pantai berbatu, dataran lumpur, muara di seluruh dunia",
+    "diet": "Karnivora - tiram, kerang, teritip, cacing laut, krustasea",
+    "size": "39-50 cm panjang, rentang sayap 72-91 cm, berat 400-700 gram",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "id": 145,
+    "label": "king_penguin",
+    "name": "Penguin Raja (King Penguin)",
+    "description": "Penguin raja adalah spesies penguin terbesar kedua dengan bulu hitam-putih yang elegan dan patch kuning-oranye cerah di leher. Mereka dapat menyelam hingga kedalaman 300 meter untuk mencari ikan dan cumi-cumi. Penguin raja memiliki siklus reproduksi yang unik dimana mereka tidak membangun sarang, tetapi menginkubasi telur di atas kaki mereka. Koloni mereka dapat mencapai ratusan ribu individu.",
+    "fun_fact": [
+      "Penguin raja dapat menahan napas hingga 20 menit saat menyelam mencari makanan",
+      "Mereka menggunakan panggilan unik untuk mengenali pasangan dan anak mereka di antara ribuan penguin",
+      "Anak penguin raja berwarna coklat berbulu dan disebut 'oakum boys' oleh pelaut"
+    ],
+    "habitat": "Pulau-pulau subantarktik dan pantai Amerika Selatan",
+    "diet": "Piscivora - ikan, cumi-cumi, krustasea kecil",
+    "size": "70-100 cm tinggi, berat 9.3-18 kg",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "id": 146,
+    "label": "albatross",
+    "name": "Albatros (Albatross)",
+    "description": "Albatros adalah burung laut terbesar dengan bentang sayap yang luar biasa, dapat mencapai hingga 3.5 meter. Mereka adalah master penerbangan jarak jauh yang dapat terbang ribuan kilometer tanpa mengepakkan sayap berkat teknik 'dynamic soaring'. Albatros menghabiskan sebagian besar hidupnya di laut terbuka dan hanya kembali ke darat untuk berkembang biak.",
+    "fun_fact": [
+      "Albatros dapat terbang hingga 15.000 km dalam satu perjalanan mencari makan",
+      "Mereka memiliki kelenjar khusus untuk mengeluarkan garam berlebih dari tubuh",
+      "Albatros dapat hidup hingga 60-70 tahun dan setia pada satu pasangan seumur hidup"
+    ],
+    "habitat": "Lautan terbuka dan pulau-pulau terpencil di belahan bumi selatan",
+    "diet": "Piscivora - ikan, cumi-cumi, krustasea, dan sisa-sisa dari kapal",
+    "size": "Bentang sayap 2.5-3.5 meter, berat 6-12 kg",
+    "conservation_status": "Critically Endangered (beberapa spesies)"
+  },
+  {
+    "id": 147,
+    "label": "grey_whale",
+    "name": "Paus Kelabu (Grey Whale)",
+    "description": "Paus kelabu adalah mamalia laut yang terkenal dengan migrasi terpanjang di dunia, menempuh jarak hingga 20.000 km pulang-pergi setiap tahunnya. Mereka memiliki kulit berwarna abu-abu dengan bercak-bercak putih akibat parasit dan bekas luka. Paus kelabu adalah penyaring makanan yang unik karena mereka mencari makan di dasar laut dengan cara menghisap sedimen.",
+    "fun_fact": [
+      "Paus kelabu melakukan migrasi terpanjang di antara semua mamalia",
+      "Mereka dapat menahan napas hingga 30 menit saat menyelam",
+      "Bayi paus kelabu minum hingga 600 liter susu induknya per hari"
+    ],
+    "habitat": "Perairan dangkal Pasifik Utara, dari Alaska hingga Meksiko",
+    "diet": "Filter feeder - amphipoda, krustasea kecil, cacing laut",
+    "size": "12-15 meter panjang, berat 36-45 ton",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "id": 148,
+    "label": "killer_whale",
+    "name": "Paus Pembunuh/Orca (Killer Whale)",
+    "description": "Orca atau paus pembunuh adalah predator puncak laut yang sebenarnya merupakan lumba-lumba terbesar. Mereka memiliki pola hitam-putih yang khas dan hidup dalam kelompok keluarga yang sangat sosial called pods. Orca adalah hewan yang sangat cerdas dengan kemampuan berburu yang luar biasa dan komunikasi yang kompleks.",
+    "fun_fact": [
+      "Setiap orca memiliki pola putih unik di belakang sirip punggung seperti sidik jari",
+      "Mereka dapat berenang dengan kecepatan hingga 56 km/jam",
+      "Orca memiliki dialek berbeda antar kelompok dan mengajarkan teknik berburu kepada anak-anaknya"
+    ],
+    "habitat": "Semua samudra dunia, dari perairan kutub hingga tropis",
+    "diet": "Karnivora - ikan, anjing laut, paus lain, penyu, bahkan hiu",
+    "size": "6-8 meter panjang, berat 3-6 ton",
+    "conservation_status": "Data Deficient (beberapa populasi terancam)"
+  },
+  {
+    "id": 150,
+    "label": "sea_lion",
+    "name": "Singa Laut (Sea Lion)",
+    "description": "Singa laut adalah mamalia laut yang termasuk dalam keluarga pinniped. Mereka memiliki kemampuan luar biasa untuk bergerak di darat dan di air berkat sirip depan yang fleksibel. Singa laut jantan memiliki tubuh yang jauh lebih besar dari betina dan surai di sekitar leher yang menyerupai singa, sehingga diberi nama 'singa laut'.",
+    "fun_fact": [
+      "Singa laut dapat menyelam hingga kedalaman 274 meter",
+      "Mereka dapat 'berjalan' di darat dengan menggunakan sirip depan dan belakang",
+      "Singa laut memiliki pendengaran yang sangat baik dan dapat mendengar frekuensi tinggi"
+    ],
+    "habitat": "Pantai berbatu dan pulau-pulau di Pasifik",
+    "diet": "Piscivora - ikan, cumi-cumi, krustasea",
+    "size": "1.5-2.5 meter panjang, berat 50-400 kg (jantan lebih besar)",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "id": 153,
+    "label": "Maltese_dog",
+    "name": "Anjing Malta (Maltese Dog)",
+    "description": "Anjing Malta adalah ras anjing toy yang elegan dengan bulu putih panjang dan halus seperti sutra. Mereka adalah salah satu ras anjing tertua yang telah menjadi hewan peliharaan bangsawan selama ribuan tahun. Meskipun berukuran kecil, anjing Malta memiliki kepribadian yang berani dan penuh percaya diri.",
+    "fun_fact": [
+      "Anjing Malta tidak memiliki lapisan bulu bawah sehingga jarang rontok",
+      "Mereka pernah dipercaya memiliki kekuatan penyembuhan oleh orang Yunani kuno",
+      "Bulu anjing Malta terus tumbuh sepanjang hidup dan bisa mencapai lantai jika tidak dipotong"
+    ],
+    "habitat": "Domestik - rumah dan apartemen",
+    "diet": "Omnivora - makanan anjing berkualitas tinggi, daging, sayuran",
+    "size": "20-25 cm tinggi, berat 1.8-4 kg",
+    "conservation_status": "Domesticated"
+  },
+  {
+    "id": 161,
+    "label": "basset",
+    "name": "Basset Hound (Basset Hound)",
+    "description": "Basset Hound adalah anjing pemburu dengan tubuh panjang, kaki pendek, dan telinga yang sangat panjang. Mereka memiliki kemampuan penciuman yang luar biasa, hanya kalah dari Bloodhound. Basset Hound awalnya dikembangkan di Prancis untuk berburu kelinci dan kelinci hutan dengan berjalan kaki.",
+    "fun_fact": [
+      "Telinga panjang Basset Hound membantu mengangkat aroma dari tanah ke hidung mereka",
+      "Mereka memiliki sekitar 220 juta reseptor penciuman (manusia hanya 5 juta)",
+      "Basset Hound dapat mengikuti jejak aroma yang berusia beberapa hari"
+    ],
+    "habitat": "Domestik - rumah dengan halaman",
+    "diet": "Omnivora - makanan anjing, daging, sayuran",
+    "size": "33-38 cm tinggi, berat 20-35 kg",
+    "conservation_status": "Domesticated"
+  },
+  {
+    "id": 162,
+    "label": "beagle",
+    "name": "Beagle (Beagle)",
+    "description": "Beagle adalah anjing pemburu berukuran sedang yang terkenal dengan kepribadiannya yang ramah dan energik. Mereka memiliki insting pemburu yang kuat dan hidung yang sangat sensitif. Beagle sangat populer sebagai hewan peliharaan keluarga karena sifatnya yang baik dengan anak-anak dan mudah dilatih.",
+    "fun_fact": [
+      "Beagle memiliki tiga jenis gonggongan berbeda: bark, bay, dan howl",
+      "Mereka dapat mencium aroma dengan intensitas 1.000-10.000 kali lebih baik dari manusia",
+      "Snoopy dari komik Peanuts adalah Beagle yang paling terkenal di dunia"
+    ],
+    "habitat": "Domestik - rumah dengan halaman untuk bermain",
+    "diet": "Omnivora - makanan anjing berkualitas tinggi",
+    "size": "33-41 cm tinggi, berat 9-16 kg",
+    "conservation_status": "Domesticated"
+  },
+  {
+    "id": 164,
+    "label": "bluetick",
+    "name": "Bluetick Coonhound (Bluetick Coonhound)",
+    "description": "Bluetick Coonhound adalah anjing pemburu Amerika yang dikenal dengan pola bulu biru-putih yang khas dan kemampuan pelacakan yang luar biasa. Mereka dikembangkan khusus untuk berburu rakun dan hewan pengerat lainnya. Bluetick memiliki stamina yang luar biasa dan dapat berburu sepanjang malam.",
+    "fun_fact": [
+      "Pola 'bluetick' pada bulunya terbentuk dari rambut hitam dan putih yang bercampur",
+      "Mereka dapat mengikuti jejak yang berusia 12-24 jam",
+      "Bluetick Coonhound adalah anjing resmi negara bagian Tennessee"
+    ],
+    "habitat": "Domestik - rumah dengan halaman luas, cocok untuk daerah pedesaan",
+    "diet": "Omnivora - makanan anjing dengan protein tinggi",
+    "size": "56-69 cm tinggi, berat 20-36 kg",
+    "conservation_status": "Domesticated"
+  },
+  {
+    "id": 167,
+    "label": "English_foxhound",
+    "name": "English Foxhound (English Foxhound)",
+    "description": "English Foxhound adalah anjing berburu tradisional Inggris yang dikembangkan khusus untuk berburu rubah dalam kelompok (pack hunting). Mereka memiliki tubuh yang atletis, stamina luar biasa, dan kemampuan bekerja sama yang sangat baik. English Foxhound adalah salah satu ras anjing tertua dan paling murni di dunia.",
+    "fun_fact": [
+      "Mereka dapat berlari dengan kecepatan 48 km/jam dan menempuh jarak 160 km dalam sehari",
+      "English Foxhound selalu berburu dalam kelompok yang terdiri dari 15-20 anjing",
+      "Mereka memiliki sistem hierarki sosial yang kompleks dalam pack"
+    ],
+    "habitat": "Domestik - membutuhkan ruang luas dan aktivitas tinggi",
+    "diet": "Omnivora - makanan anjing dengan nutrisi tinggi untuk anjing aktif",
+    "size": "58-69 cm tinggi, berat 29-34 kg",
+    "conservation_status": "Domesticated"
+  },
+  {
+    "id": 170,
+    "label": "Irish_wolfhound",
+    "name": "Irish Wolfhound (Irish Wolfhound)",
+    "description": "Irish Wolfhound adalah anjing terbesar di dunia berdasarkan tinggi badan dan salah satu ras anjing tertua. Mereka awalnya dibiakkan untuk berburu serigala dan elk di Irlandia. Meskipun berukuran sangat besar, Irish Wolfhound dikenal sebagai 'gentle giant' karena temperamennya yang tenang dan lembut.",
+    "fun_fact": [
+      "Irish Wolfhound dapat mencapai tinggi 86 cm dan berat hingga 82 kg",
+      "Mereka hampir punah pada abad ke-17 dan diselamatkan melalui program pembiakan",
+      "Motto breed mereka adalah 'Gentle when stroked, fierce when provoked'"
+    ],
+    "habitat": "Domestik - membutuhkan rumah besar dengan halaman luas",
+    "diet": "Omnivora - makanan anjing ras besar dengan nutrisi seimbang",
+    "size": "71-86 cm tinggi, berat 48-82 kg",
+    "conservation_status": "Domesticated"
+  },
+  {
+    "id": 174,
+    "label": "Norwegian_elkhound",
+    "name": "Norwegian Elkhound (Norwegian Elkhound)",
+    "description": "Norwegian Elkhound adalah anjing Spitz Nordik yang tangguh dan berani, dikembangkan untuk berburu elk (rusa besar) di hutan Norwegia. Mereka memiliki bulu tebal berwarna abu-abu dengan ekor melengkung di atas punggung. Norwegian Elkhound adalah anjing nasional Norwegia dan telah menjadi bagian dari budaya Viking selama lebih dari 1000 tahun.",
+    "fun_fact": [
+      "Mereka dapat bertahan hidup di suhu hingga -46°C berkat bulu ganda yang tebal",
+      "Norwegian Elkhound berburu dengan cara menahan elk sampai pemburu datang",
+      "Fosil anjing yang mirip Norwegian Elkhound ditemukan berusia 7000 tahun"
+    ],
+    "habitat": "Domestik - cocok untuk iklim dingin, butuh aktivitas tinggi",
+    "diet": "Omnivora - makanan anjing dengan protein tinggi",
+    "size": "49-52 cm tinggi, berat 20-25 kg",
+    "conservation_status": "Domesticated"
+  },
+  {
+    "id": 175,
+    "label": "otterhound",
+    "name": "Otterhound (Otterhound)",
+    "description": "Otterhound adalah anjing berburu air yang besar dan kuat, dikembangkan khusus untuk berburu berang-berang di sungai-sungai Inggris. Mereka memiliki bulu tahan air yang tebal dan kaki berselaput untuk membantu berenang. Otterhound adalah salah satu ras anjing paling langka di dunia dengan populasi yang sangat terbatas.",
+    "fun_fact": [
+      "Otterhound memiliki kaki berselaput seperti bebek untuk berenang yang efisien",
+      "Mereka dapat berenang hingga 8 jam tanpa lelah",
+      "Populasi Otterhound di dunia hanya sekitar 600 ekor, lebih langka dari panda raksasa"
+    ],
+    "habitat": "Domestik - membutuhkan akses ke air dan ruang untuk berenang",
+    "diet": "Omnivora - makanan anjing dengan nutrisi seimbang",
+    "size": "61-69 cm tinggi, berat 36-52 kg",
+    "conservation_status": "Domesticated (Extremely Rare)"
+  },
+  {
+    "id": 177,
+    "label": "Scottish_deerhound",
+    "name": "Scottish Deerhound (Scottish Deerhound)",
+    "description": "Scottish Deerhound adalah anjing sight hound yang besar dan elegan, dikenal sebagai 'Royal Dog of Scotland'. Mereka dikembangkan untuk berburu rusa merah di dataran tinggi Skotlandia. Scottish Deerhound memiliki kemampuan berlari yang luar biasa dan temperamen yang tenang serta mulia.",
+    "fun_fact": [
+      "Mereka dapat berlari dengan kecepatan hingga 45 km/jam",
+      "Scottish Deerhound hampir punah setelah Perang Dunia I dan II",
+      "Hanya bangsawan Skotlandia yang diizinkan memiliki Scottish Deerhound di masa lalu"
+    ],
+    "habitat": "Domestik - membutuhkan ruang luas untuk berlari",
+    "diet": "Omnivora - makanan anjing ras besar dengan protein tinggi",
+    "size": "71-81 cm tinggi, berat 34-50 kg",
+    "conservation_status": "Domesticated"
+  },
+  {
+    "id": 179,
+    "label": "Staffordshire_bullterrier",
+    "name": "Staffordshire Bull Terrier (Staffordshire Bull Terrier)",
+    "description": "Staffordshire Bull Terrier adalah anjing berukuran sedang yang kuat dan berotot, dikembangkan di Inggris pada abad ke-19. Mereka dikenal dengan julukan 'nanny dog' karena kesabaran dan kelembutan mereka terhadap anak-anak. Meskipun memiliki sejarah sebagai anjing bertarung, Staffordshire Bull Terrier modern adalah hewan peliharaan keluarga yang setia dan penyayang.",
+    "fun_fact": [
+      "Mereka memiliki kekuatan gigitan yang sangat kuat untuk ukuran tubuhnya",
+      "Staffordshire Bull Terrier dikenal sebagai anjing yang sangat toleran terhadap rasa sakit",
+      "Mereka memiliki hubungan khusus dengan anak-anak dan sangat protektif terhadap keluarga"
+    ],
+    "habitat": "Domestik - rumah dengan halaman, cocok untuk keluarga",
+    "diet": "Omnivora - makanan anjing berkualitas tinggi dengan protein",
+    "size": "36-41 cm tinggi, berat 13-17 kg",
+    "conservation_status": "Domesticated"
+  },
+  {
+    "id": 188,
+    "label": "wire-haired_fox_terrier",
+    "name": "Wire-haired Fox Terrier (Wire-haired Fox Terrier)",
+    "description": "Wire-haired Fox Terrier adalah anjing terrier berukuran sedang dengan bulu kasar dan keriting yang khas. Mereka dikembangkan di Inggris untuk berburu rubah dengan mengejarnya ke dalam liang. Wire-haired Fox Terrier adalah anjing yang energik, cerdas, dan berani dengan kepribadian yang hidup dan penuh semangat.",
+    "fun_fact": [
+      "Bulu kasar mereka dirancang untuk melindungi dari duri dan cuaca buruk",
+      "Mereka adalah salah satu ras pertama yang diakui dalam pertunjukan anjing",
+      "Wire-haired Fox Terrier dapat melompat hingga 5 kali tinggi tubuh mereka"
+    ],
+    "habitat": "Domestik - rumah dengan halaman untuk bermain dan berlari",
+    "diet": "Omnivora - makanan anjing dengan nutrisi seimbang",
+    "size": "36-39 cm tinggi, berat 7-9 kg",
+    "conservation_status": "Domesticated"
+  },
+  {
+    "id": 190,
+    "label": "Sealyham_terrier",
+    "name": "Sealyham Terrier (Sealyham Terrier)",
+    "description": "Sealyham Terrier adalah anjing terrier kecil yang berasal dari Wales dengan bulu putih yang tebal dan kepribadian yang berani. Mereka dikembangkan untuk berburu berang-berang, rubah, dan luak. Sealyham Terrier memiliki kepala yang besar relatif terhadap tubuhnya dan ekspresi yang alert dan cerdas.",
+    "fun_fact": [
+      "Mereka dinamai dari Sealyham House di Wales tempat mereka pertama kali dikembangkan",
+      "Sealyham Terrier pernah menjadi anjing favorit selebriti Hollywood di tahun 1920-30an",
+      "Meskipun kecil, mereka memiliki suara gonggongan yang sangat keras"
+    ],
+    "habitat": "Domestik - cocok untuk apartemen atau rumah kecil",
+    "diet": "Omnivora - makanan anjing kecil dengan nutrisi lengkap",
+    "size": "25-31 cm tinggi, berat 10-11 kg",
+    "conservation_status": "Domesticated"
+  },
+  {
+    "id": 195,
+    "label": "Boston_bull",
+    "name": "Boston Terrier (Boston Bull)",
+    "description": "Boston Terrier, juga dikenal sebagai Boston Bull, adalah anjing kompak berukuran kecil dengan marking hitam-putih yang khas seperti tuksedo. Mereka dikembangkan di Boston, Amerika Serikat, dan dikenal sebagai 'American Gentleman' karena penampilannya yang rapi dan temperamen yang sopan. Boston Terrier adalah anjing yang cerdas, ramah, dan mudah dilatih.",
+    "fun_fact": [
+      "Boston Terrier adalah salah satu dari sedikit ras anjing yang benar-benar berasal dari Amerika",
+      "Mereka adalah anjing resmi negara bagian Massachusetts",
+      "Boston Terrier memiliki mata besar yang ekspresif dan sering disebut 'mata manusia'"
+    ],
+    "habitat": "Domestik - cocok untuk apartemen dan rumah kecil",
+    "diet": "Omnivora - makanan anjing kecil dengan porsi terkontrol",
+    "size": "38-43 cm tinggi, berat 5-11 kg",
+    "conservation_status": "Domesticated"
+  },
+  {
+    "id": 197,
+    "label": "giant_schnauzer",
+    "name": "Giant Schnauzer (Giant Schnauzer)",
+    "description": "Giant Schnauzer adalah anjing kerja berukuran besar dengan bulu kasar berwarna hitam atau garam-merica. Mereka awalnya dikembangkan di Jerman untuk menggiring ternak dan kemudian digunakan sebagai anjing penjaga dan polisi. Giant Schnauzer adalah anjing yang sangat cerdas, setia, dan memiliki dorongan kerja yang kuat.",
+    "fun_fact": [
+      "Mereka memiliki alis dan jenggot yang khas yang memberi ekspresi serius",
+      "Giant Schnauzer dapat dilatih untuk berbagai tugas dari penjagaan hingga pencarian dan penyelamatan",
+      "Bulu mereka tidak rontok tetapi perlu dipotong secara teratur"
+    ],
+    "habitat": "Domestik - membutuhkan rumah besar dengan halaman dan aktivitas tinggi",
+    "diet": "Omnivora - makanan anjing ras besar dengan protein tinggi",
+    "size": "60-70 cm tinggi, berat 25-48 kg",
+    "conservation_status": "Domesticated"
+  },
+  {
+    "id": 209,
+    "label": "Chesapeake_Bay_retriever",
+    "name": "Chesapeake Bay Retriever (Chesapeake Bay Retriever)",
+    "description": "Chesapeake Bay Retriever adalah anjing retriever yang tangguh dan kuat, dikembangkan khusus untuk mengambil burung air di perairan dingin Chesapeake Bay. Mereka memiliki bulu tahan air yang unik dengan teksture bergelombang dan berminyak. Chesapeake Bay Retriever dikenal dengan stamina luar biasa dan kemampuan berenang yang superior.",
+    "fun_fact": [
+      "Bulu mereka mengandung minyak alami yang membuatnya tahan air seperti bulu bebek",
+      "Mereka dapat berenang di air es dan mengambil hingga 300 bebek dalam sehari",
+      "Chesapeake Bay Retriever memiliki kaki berselaput yang membantu berenang"
+    ],
+    "habitat": "Domestik - membutuhkan akses ke air dan aktivitas tinggi",
+    "diet": "Omnivora - makanan anjing aktif dengan protein dan lemak tinggi",
+    "size": "53-66 cm tinggi, berat 25-36 kg",
+    "conservation_status": "Domesticated"
+  },
+  {
+    "id": 229,
+    "label": "Old_English_sheepdog",
+    "name": "Old English Sheepdog (Old English Sheepdog)",
+    "description": "Old English Sheepdog adalah anjing penggembala besar dengan bulu panjang dan lebat yang menutupi seluruh tubuh, termasuk mata. Mereka memiliki gonggongan yang khas dan gaya berlari yang unik seperti beruang. Old English Sheepdog adalah anjing yang cerdas, ramah, dan penuh kasih sayang dengan naluri penggembala yang kuat.",
+    "fun_fact": [
+      "Bulu mereka begitu lebat sehingga mata mereka sering tidak terlihat",
+      "Mereka memiliki gaya berlari khas yang disebut 'bear-like gait'",
+      "Old English Sheepdog sering muncul dalam iklan cat Paul McCartney dan film Disney"
+    ],
+    "habitat": "Domestik - membutuhkan ruang luas dan perawatan bulu intensif",
+    "diet": "Omnivora - makanan anjing ras besar dengan nutrisi seimbang",
+    "size": "56-61 cm tinggi, berat 27-45 kg",
+    "conservation_status": "Domesticated"
+  },
+  {
+    "id": 230,
+    "label": "Shetland_sheepdog",
+    "name": "Shetland Sheepdog (Shetland Sheepdog)",
+    "description": "Shetland Sheepdog atau 'Sheltie' adalah anjing penggembala berukuran kecil hingga sedang yang menyerupai Rough Collie mini. Mereka berasal dari Kepulauan Shetland di Skotlandia dan dikembangkan untuk menggembala domba di medan yang sulit. Sheltie adalah anjing yang sangat cerdas, alert, dan mudah dilatih dengan naluri penggembala yang kuat.",
+    "fun_fact": [
+      "Mereka adalah salah satu ras anjing paling cerdas dan mudah dilatih",
+      "Sheltie dapat belajar perintah baru dalam 5 pengulangan atau kurang",
+      "Mereka memiliki 'Sheltie stare' yang intens saat berkonsentrasi"
+    ],
+    "habitat": "Domestik - cocok untuk rumah dengan halaman, butuh stimulasi mental",
+    "diet": "Omnivora - makanan anjing berkualitas tinggi dengan porsi sedang",
+    "size": "33-41 cm tinggi, berat 6-12 kg",
+    "conservation_status": "Domesticated"
+  },
+  {
+    "id": 238,
+    "label": "Greater_Swiss_Mountain_dog",
+    "name": "Greater Swiss Mountain Dog (Greater Swiss Mountain Dog)",
+    "description": "Greater Swiss Mountain Dog adalah anjing kerja besar dan kuat dari Swiss dengan marking tricolor yang khas (hitam, coklat, putih). Mereka adalah yang terbesar dari empat ras Sennenhund Swiss dan awalnya digunakan untuk menarik gerobak, menggembala ternak, dan menjaga peternakan. Mereka dikenal dengan temperamen yang tenang, stabil, dan ramah.",
+    "fun_fact": [
+      "Mereka hampir punah pada awal abad ke-20 tetapi diselamatkan oleh penggemar ras",
+      "Greater Swiss Mountain Dog dapat menarik beban hingga 10 kali berat tubuh mereka",
+      "Mereka memiliki suara 'greeting rumble' yang unik untuk menyambut keluarga"
+    ],
+    "habitat": "Domestik - membutuhkan rumah besar dengan halaman luas",
+    "diet": "Omnivora - makanan anjing ras besar dengan kontrol porsi",
+    "size": "64-72 cm tinggi, berat 50-70 kg",
+    "conservation_status": "Domesticated"
+  },
+  {
+    "id": 239,
+    "label": "Bernese_mountain_dog",
+    "name": "Bernese Mountain Dog (Bernese Mountain Dog)",
+    "description": "Bernese Mountain Dog adalah anjing kerja besar dari Swiss dengan bulu panjang dan marking tricolor yang indah. Mereka adalah salah satu dari empat ras Sennenhund Swiss dan awalnya digunakan sebagai anjing peternakan serbaguna. Bernese Mountain Dog dikenal dengan temperamen yang lembut, sabar, dan sangat baik dengan anak-anak.",
+    "fun_fact": [
+      "Mereka memiliki harapan hidup yang relatif pendek (6-8 tahun) karena ukuran besar",
+      "Bernese Mountain Dog sangat sensitive terhadap panas karena bulu tebal mereka",
+      "Mereka dikenal sebagai 'velcro dogs' karena selalu ingin dekat dengan pemilik"
+    ],
+    "habitat": "Domestik - membutuhkan iklim sejuk dan ruang yang cukup",
+    "diet": "Omnivora - makanan anjing ras besar dengan nutrisi berkualitas",
+    "size": "61-70 cm tinggi, berat 36-50 kg",
+    "conservation_status": "Domesticated"
+  },
+  {
+    "id": 242,
+    "label": "boxer",
+    "name": "Boxer (Boxer)",
+    "description": "Boxer adalah anjing kerja berukuran sedang hingga besar dengan kepala kotak yang khas dan rahang bawah yang menonjol. Mereka dikembangkan di Jerman dan awalnya digunakan untuk berburu banteng dan kemudian sebagai anjing penjaga dan polisi. Boxer adalah anjing yang energik, playful, dan sangat setia kepada keluarga.",
+    "fun_fact": [
+      "Boxer mendapat namanya dari kebiasaan 'bermain tinju' dengan kaki depan",
+      "Mereka mempertahankan kepribadian seperti anak anjing hingga usia 3 tahun",
+      "Boxer adalah salah satu ras pertama yang digunakan sebagai anjing polisi"
+    ],
+    "habitat": "Domestik - membutuhkan aktivitas tinggi dan interaksi sosial",
+    "diet": "Omnivora - makanan anjing dengan protein tinggi untuk anjing aktif",
+    "size": "53-63 cm tinggi, berat 25-32 kg",
+    "conservation_status": "Domesticated"
+  },
+  {
+    "id": 243,
+    "label": "bull_mastiff",
+    "name": "Bullmastiff (Bullmastiff)",
+    "description": "Bullmastiff adalah anjing penjaga besar dan kuat yang dikembangkan di Inggris dengan menyilangkan Bulldog dan Mastiff. Mereka awalnya dibiakkan untuk membantu penjaga hutan menangkap pemburu liar tanpa melukai mereka. Bullmastiff memiliki temperamen yang tenang namun sangat protektif, dan dikenal sebagai 'silent watchdog' karena jarang menggonggong.",
+    "fun_fact": [
+      "Bullmastiff dapat menangkap dan menahan penyusup tanpa menggigit",
+      "Mereka dikenal sebagai 'gamekeeper's night dog' di masa Victorian",
+      "Meskipun besar, Bullmastiff hanya membutuhkan olahraga sedang"
+    ],
+    "habitat": "Domestik - cocok untuk rumah dengan halaman, baik untuk keluarga",
+    "diet": "Omnivora - makanan anjing ras besar dengan kontrol porsi",
+    "size": "61-69 cm tinggi, berat 45-59 kg",
+    "conservation_status": "Domesticated"
+  },
+  {
+    "id": 245,
+    "label": "French_bulldog",
+    "name": "French Bulldog (French Bulldog)",
+    "description": "French Bulldog atau 'Frenchie' adalah anjing kecil dengan kepala besar, telinga kelelawar yang tegak, dan moncong pesek yang khas. Meskipun namanya, mereka sebenarnya dikembangkan di Inggris oleh pekerja renda yang kemudian pindah ke Prancis. French Bulldog adalah anjing yang tenang, ramah, dan sangat cocok sebagai hewan peliharaan keluarga di perkotaan.",
+    "fun_fact": [
+      "French Bulldog tidak bisa berenang karena kepala besar dan kaki pendek",
+      "Mereka tidak bisa melahirkan secara alami dan membutuhkan operasi caesar",
+      "Frenchie adalah salah satu ras anjing paling populer di dunia saat ini"
+    ],
+    "habitat": "Domestik - sangat cocok untuk apartemen dan kehidupan kota",
+    "diet": "Omnivora - makanan anjing kecil dengan porsi terkontrol",
+    "size": "28-33 cm tinggi, berat 8-14 kg",
+    "conservation_status": "Domesticated"
+  },
+  {
+    "id": 248,
+    "label": "Eskimo_dog",
+    "name": "Eskimo Dog (Anjing Eskimo)",
+    "description": "Anjing Eskimo atau Husky adalah ras anjing pekerja yang kuat dan tahan terhadap cuaca dingin ekstrem. Mereka memiliki bulu tebal berlapis ganda, mata yang sering berwarna biru, dan dikenal karena kemampuan menarik kereta salju. Anjing ini sangat energik, cerdas, dan membutuhkan aktivitas fisik yang intens.",
+    "fun_fact": [
+      "Mereka dapat berlari hingga 150 km dalam sehari di salju",
+      "Mata biru mereka adalah adaptasi untuk melindungi dari silau salju",
+      "Dapat bertahan hidup dalam suhu hingga -60°C"
+    ],
+    "habitat": "Domestik - cocok untuk iklim dingin dan area luas",
+    "diet": "Omnivora - makanan berprotein tinggi dan lemak",
+    "size": "51-61 cm tinggi, berat 20-27 kg",
+    "conservation_status": "Domesticated"
+  },
+  {
+    "id": 269,
+    "label": "timber_wolf",
+    "name": "Timber Wolf (Serigala Kayu)",
+    "description": "Serigala Kayu atau Gray Wolf adalah nenek moyang anjing domestik dan predator puncak di ekosistem hutan. Mereka hidup dalam kelompok yang disebut pack dengan hierarki sosial yang kompleks. Serigala memiliki indra penciuman dan pendengaran yang luar biasa tajam serta kemampuan berburu yang sangat terorganisir.",
+    "fun_fact": [
+      "Mereka dapat mencium bau hingga jarak 2,4 km",
+      "Lolongan mereka dapat didengar hingga jarak 10 km",
+      "Satu pack serigala dapat berburu hewan sebesar elk atau bison"
+    ],
+    "habitat": "Hutan boreal, tundra, dan padang rumput di Amerika Utara dan Eurasia",
+    "diet": "Karnivora - rusa, elk, bison, dan mamalia kecil",
+    "size": "66-81 cm tinggi, berat 20-80 kg",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "id": 270,
+    "label": "white_wolf",
+    "name": "White Wolf (Serigala Putih)",
+    "description": "Serigala Putih adalah varian warna dari serigala abu-abu yang ditemukan terutama di wilayah Arktik. Bulu putih mereka memberikan kamuflase sempurna di lingkungan bersalju. Mereka memiliki adaptasi khusus untuk bertahan hidup di iklim ekstrem dengan metabolisme yang efisien dan bulu yang sangat tebal.",
+    "fun_fact": [
+      "Bulu putih mereka berubah sesuai musim, lebih tebal di musim dingin",
+      "Mereka dapat tidak makan selama berminggu-minggu saat makanan langka",
+      "Telapak kaki mereka berbulu untuk mencegah pembekuan"
+    ],
+    "habitat": "Tundra Arktik dan wilayah kutub utara",
+    "diet": "Karnivora - karibu, musk ox, kelinci Arktik",
+    "size": "63-79 cm tinggi, berat 25-85 kg",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "id": 271,
+    "label": "red_wolf",
+    "name": "Red Wolf (Serigala Merah)",
+    "description": "Serigala Merah adalah spesies serigala yang sangat langka dan hanya ditemukan di bagian tenggara Amerika Serikat. Mereka berukuran lebih kecil dari serigala abu-abu dengan bulu berwarna cokelat kemerahan. Spesies ini pernah hampir punah dan kini menjadi fokus program konservasi intensif.",
+    "fun_fact": [
+      "Hanya tersisa sekitar 20-30 ekor di alam liar",
+      "Mereka adalah hibrida antara serigala dan coyote",
+      "Program breeding di penangkaran telah menyelamatkan spesies ini dari kepunahan"
+    ],
+    "habitat": "Hutan pesisir dan rawa-rawa di Carolina Utara, AS",
+    "diet": "Karnivora - kelinci, raccoon, rusa kecil, dan hewan pengerat",
+    "size": "61-79 cm tinggi, berat 20-40 kg",
+    "conservation_status": "Critically Endangered"
+  },
+  {
+    "id": 275,
+    "label": "African_hunting_dog",
+    "name": "African Hunting Dog (Anjing Pemburu Afrika)",
+    "description": "Anjing Pemburu Afrika atau Wild Dog adalah predator yang sangat sosial dan efisien di savana Afrika. Mereka memiliki pola bulu belang-belang yang unik seperti sidik jari pada setiap individu. Dikenal karena strategi berburu kelompok yang sangat terorganisir dengan tingkat keberhasilan tertinggi di antara semua predator Afrika.",
+    "fun_fact": [
+      "Tingkat keberhasilan berburu mereka mencapai 80-90%",
+      "Setiap individu memiliki pola bulu yang unik",
+      "Mereka dapat berlari dengan kecepatan 60 km/jam dalam jarak jauh"
+    ],
+    "habitat": "Savana, padang rumput, dan semi-gurun di Afrika sub-Sahara",
+    "diet": "Karnivora - impala, gazelle, wildebeest muda",
+    "size": "61-78 cm tinggi, berat 18-36 kg",
+    "conservation_status": "Endangered"
+  },
+  {
+    "id": 276,
+    "label": "hyena",
+    "name": "Hyena (Hiena)",
+    "description": "Hiena adalah karnivora oportunistik yang dikenal karena tawa khasnya dan kemampuan menghancurkan tulang dengan rahang yang sangat kuat. Meskipun sering dianggap hanya pemakan bangkai, hiena sebenarnya adalah pemburu yang efektif. Mereka hidup dalam kelompok matriarchal di mana betina mendominasi jantan.",
+    "fun_fact": [
+      "Gigitan mereka memiliki kekuatan 1100 psi, terkuat di antara mamalia",
+      "Suara 'tawa' mereka sebenarnya adalah bentuk komunikasi kompleks",
+      "Sistem pencernaan mereka dapat mencerna tulang dan tanduk"
+    ],
+    "habitat": "Savana, padang rumput, dan area semi-gurun di Afrika dan Asia",
+    "diet": "Karnivora/Scavenger - bangkai, mamalia besar dan kecil",
+    "size": "70-92 cm tinggi, berat 40-86 kg",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "id": 277,
+    "label": "red_fox",
+    "name": "Red Fox (Rubah Merah)",
+    "description": "Rubah Merah adalah mamalia karnivora yang paling tersebar luas di dunia. Mereka sangat adaptif dan cerdas, mampu hidup di berbagai habitat dari hutan hingga perkotaan. Rubah merah memiliki indra pendengaran yang luar biasa tajam dan dapat mendeteksi gerakan hewan pengerat di bawah salju.",
+    "fun_fact": [
+      "Mereka dapat mendengar hewan pengerat bergerak di bawah tanah",
+      "Ekor mereka berfungsi sebagai alat keseimbangan dan selimut saat tidur",
+      "Rubah dapat melompat setinggi 2 meter untuk menangkap mangsa"
+    ],
+    "habitat": "Hutan, padang rumput, gunung, dan area perkotaan di seluruh dunia",
+    "diet": "Omnivora - hewan pengerat, kelinci, buah, serangga",
+    "size": "35-50 cm tinggi, berat 2,2-14 kg",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "id": 278,
+    "label": "kit_fox",
+    "name": "Kit Fox (Rubah Kit)",
+    "description": "Rubah Kit adalah spesies rubah terkecil di Amerika Utara yang telah beradaptasi dengan kehidupan di gurun. Mereka memiliki telinga besar untuk mendinginkan tubuh dan mendeteksi mangsa, serta kaki berbulu untuk melindungi dari pasir panas. Aktif di malam hari untuk menghindari panas gurun.",
+    "fun_fact": [
+      "Mereka adalah rubah terkecil di Amerika Utara",
+      "Dapat bertahan hidup tanpa minum air dengan mendapatkan cairan dari makanan",
+      "Telinga besar mereka membantu mengatur suhu tubuh"
+    ],
+    "habitat": "Gurun dan padang rumput kering di barat daya Amerika Serikat",
+    "diet": "Omnivora - hewan pengerat, kelinci, serangga, dan buah kaktus",
+    "size": "31-32 cm tinggi, berat 1,6-2,7 kg",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "id": 279,
+    "label": "Arctic_fox",
+    "name": "Arctic Fox (Rubah Arktik)",
+    "description": "Rubah Arktik adalah predator kecil yang sangat terspesialisasi untuk kehidupan di iklim ekstrem Arktik. Mereka memiliki bulu yang berubah warna dari cokelat di musim panas menjadi putih bersih di musim dingin. Telapak kaki mereka berbulu untuk memberikan insulasi dan traksi di es.",
+    "fun_fact": [
+      "Bulu mereka berubah warna sesuai musim untuk kamuflase",
+      "Dapat bertahan hidup dalam suhu hingga -70°C",
+      "Ekor mereka digunakan sebagai selimut saat tidur di cuaca dingin"
+    ],
+    "habitat": "Tundra Arktik di Alaska, Kanada, Greenland, dan Siberia",
+    "diet": "Omnivora - lemming, kelinci Arktik, burung, telur, buah beri",
+    "size": "25-30 cm tinggi, berat 2,5-9 kg",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "id": 280,
+    "label": "grey_fox",
+    "name": "Grey Fox (Rubah Abu-abu)",
+    "description": "Rubah Abu-abu adalah satu-satunya rubah di Amerika yang dapat memanjat pohon dengan baik berkat cakar semi-retractable mereka. Mereka memiliki bulu abu-abu dengan garis hitam di punggung dan sisi samping berwarna karat. Lebih suka habitat hutan dibanding rubah merah dan lebih aktif di malam hari.",
+    "fun_fact": [
+      "Satu-satunya rubah yang dapat memanjat pohon dengan baik",
+      "Mereka dapat memanjat hingga ketinggian 18 meter",
+      "Lebih primitif secara evolusi dibanding rubah merah"
+    ],
+    "habitat": "Hutan deciduous dan mixed forest di Amerika Utara dan Tengah",
+    "diet": "Omnivora - hewan pengerat, kelinci, burung, buah, serangga",
+    "size": "36-41 cm tinggi, berat 3,6-7 kg",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "id": 282,
+    "label": "tiger_cat",
+    "name": "Tiger Cat (Kucing Harimau)",
+    "description": "Kucing Harimau atau Oncilla adalah kucing liar kecil dari Amerika Selatan dengan pola bintik-bintik seperti macan tutul mini. Mereka adalah pemburu soliter yang sangat terampil memanjat dan aktif terutama di malam hari. Meskipun kecil, mereka adalah predator yang sangat efisien di habitat hutan tropis.",
+    "fun_fact": [
+      "Mereka adalah kucing liar terkecil di Amerika Selatan",
+      "Dapat hidup hingga ketinggian 4.500 meter di pegunungan Andes",
+      "Pola bintiknya unik untuk setiap individu seperti sidik jari"
+    ],
+    "habitat": "Hutan hujan tropis dan cloud forest di Amerika Selatan",
+    "diet": "Karnivora - hewan pengerat, burung kecil, reptil, serangga",
+    "size": "22-28 cm tinggi, berat 1,5-3 kg",
+    "conservation_status": "Vulnerable"
+  },
+  {
+    "id": 283,
+    "label": "Persian_cat",
+    "name": "Persian Cat (Kucing Persia)",
+    "description": "Kucing Persia adalah salah satu ras kucing domestik tertua dan paling terkenal di dunia. Mereka memiliki bulu panjang yang mewah, wajah datar dengan hidung pesek, dan mata besar yang bulat. Kucing Persia dikenal karena temperamen yang tenang, penyayang, dan cocok sebagai kucing indoor.",
+    "fun_fact": [
+      "Bulu mereka membutuhkan perawatan harian untuk mencegah matting",
+      "Struktur wajah datar dapat menyebabkan masalah pernapasan",
+      "Mereka adalah salah satu ras kucing paling populer untuk kontes kecantikan"
+    ],
+    "habitat": "Domestik - sangat cocok untuk kehidupan indoor",
+    "diet": "Karnivora - makanan kucing berkualitas tinggi",
+    "size": "25-38 cm tinggi, berat 3,2-5,5 kg",
+    "conservation_status": "Domesticated"
+  },
+  {
+    "id": 284,
+    "label": "Siamese_cat",
+    "name": "Siamese Cat (Kucing Siam)",
+    "description": "Kucing Siam adalah ras kucing oriental yang berasal dari Thailand dengan ciri khas color-point (tubuh terang dengan ujung-ujung gelap). Mereka sangat vokal, cerdas, dan sosial. Kucing Siam memiliki tubuh ramping, kepala segitiga, dan mata biru safir yang menawan.",
+    "fun_fact": [
+      "Mereka dilahirkan putih dan warna gelap berkembang seiring waktu",
+      "Suhu tubuh mempengaruhi intensitas warna bulu mereka",
+      "Kucing Siam adalah salah satu ras yang paling vokal dan 'cerewet'"
+    ],
+    "habitat": "Domestik - sangat sosial dan butuh interaksi manusia",
+    "diet": "Karnivora - makanan kucing dengan protein tinggi",
+    "size": "29-36 cm tinggi, berat 2,3-6,8 kg",
+    "conservation_status": "Domesticated"
+  },
+  {
+    "id": 285,
+    "label": "Egyptian_cat",
+    "name": "Egyptian Mau (Kucing Mesir)",
+    "description": "Egyptian Mau adalah satu-satunya ras kucing domestik yang memiliki bintik-bintik alami. Mereka adalah kucing tercepat di dunia dengan kecepatan hingga 48 km/jam. Kucing ini memiliki sejarah panjang dan dianggap suci di Mesir kuno, dengan hubungan dekat dengan dewi Bastet.",
+    "fun_fact": [
+      "Mereka adalah kucing domestik tercepat di dunia",
+      "Memiliki flap kulit ekstra yang membantu mereka berlari cepat",
+      "Bintik-bintik mereka hanya ada di ujung rambut, bukan sampai ke akar"
+    ],
+    "habitat": "Domestik - beradaptasi baik dengan iklim hangat",
+    "diet": "Karnivora - makanan kucing berkualitas tinggi",
+    "size": "28-36 cm tinggi, berat 2,7-6,8 kg",
+    "conservation_status": "Domesticated"
+  },
+  {
+    "id": 286,
+    "label": "cougar",
+    "name": "Cougar (Singa Gunung)",
+    "description": "Cougar atau Mountain Lion adalah kucing besar yang tersebar luas di Amerika dengan kemampuan adaptasi yang luar biasa. Mereka adalah pemburu soliter yang sangat atletis, mampu melompat hingga 5,5 meter vertikal dan 12 meter horizontal. Cougar memiliki wilayah jelajah yang sangat luas dan merupakan predator puncak di habitatnya.",
+    "fun_fact": [
+      "Mereka dapat melompat setinggi 5,5 meter dari posisi berdiri",
+      "Cougar tidak dapat mengaum, hanya mengeong seperti kucing domestik",
+      "Satu individu dapat memiliki wilayah seluas 800 km persegi"
+    ],
+    "habitat": "Hutan, gunung, gurun, dan rawa dari Kanada hingga Amerika Selatan",
+    "diet": "Karnivora - rusa, elk, domba bighorn, hewan pengerat",
+    "size": "60-90 cm tinggi, berat 29-120 kg",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "id": 288,
+    "label": "leopard",
+    "name": "Leopard (Macan Tutul)",
+    "description": "Macan Tutul adalah kucing besar yang paling adaptif dan tersebar luas, ditemukan di Afrika dan Asia. Mereka adalah pemanjat pohon yang luar biasa dan sering menyimpan mangsa di dahan pohon. Leopard memiliki kekuatan yang menakjubkan dan dapat menyeret mangsa yang beratnya dua kali lipat berat tubuhnya ke atas pohon.",
+    "fun_fact": [
+      "Dapat menyeret mangsa seberat 90 kg ke atas pohon",
+      "Leopard hitam (black panther) sebenarnya leopard normal dengan melanisme",
+      "Mereka adalah perenang yang baik dan suka bermain di air"
+    ],
+    "habitat": "Hutan, savana, padang rumput, dan pegunungan di Afrika dan Asia",
+    "diet": "Karnivora - impala, baboon, warthog, burung, ikan",
+    "size": "60-70 cm tinggi, berat 28-90 kg",
+    "conservation_status": "Near Threatened"
+  },
+  {
+    "id": 289,
+    "label": "snow_leopard",
+    "name": "Snow Leopard (Macan Tutul Salju)",
+    "description": "Macan Tutul Salju adalah kucing besar yang hidup di pegunungan tinggi Asia Tengah. Mereka memiliki adaptasi luar biasa untuk kehidupan di ketinggian ekstrem, termasuk paru-paru besar, bulu tebal, dan ekor panjang untuk keseimbangan. Dikenal sebagai 'hantu gunung' karena sifat yang sangat sulit ditemui.",
+    "fun_fact": [
+      "Mereka dapat melompat hingga jarak 15 meter dalam satu lompatan",
+      "Ekor panjang mereka digunakan sebagai selimut saat tidur",
+      "Tidak dapat mengaum karena struktur tulang hyoid yang berbeda"
+    ],
+    "habitat": "Pegunungan tinggi dan alpine di Asia Tengah (3000-5500m)",
+    "diet": "Karnivora - blue sheep, ibex, argali, pika, marmot",
+    "size": "60 cm tinggi, berat 22-55 kg",
+    "conservation_status": "Vulnerable"
+  },
+  {
+    "id": 291,
+    "label": "lion",
+    "name": "Lion (Singa)",
+    "description": "Singa adalah satu-satunya kucing besar yang hidup berkelompok dalam pride. Jantan memiliki surai yang menunjukkan kematangan dan dominansi, sementara betina adalah pemburu utama. Sebagai 'raja hutan', singa adalah simbol kekuatan dan keberanian di banyak budaya, meskipun sebenarnya mereka hidup di savana, bukan hutan.",
+    "fun_fact": [
+      "Auman singa dapat didengar hingga jarak 8 km",
+      "Singa jantan dapat tidur hingga 20 jam sehari",
+      "Betina melakukan 85-90% dari berburu untuk pride"
+    ],
+    "habitat": "Savana, padang rumput, dan area semi-gurun di Afrika",
+    "diet": "Karnivora - zebra, wildebeest, buffalo, giraffe muda",
+    "size": "107-123 cm tinggi, berat 120-272 kg",
+    "conservation_status": "Vulnerable"
+  },
+  {
+    "id": 292,
+    "label": "tiger",
+    "name": "Tiger (Harimau)",
+    "description": "Harimau adalah kucing terbesar di dunia dan predator soliter yang sangat kuat. Setiap harimau memiliki pola belang yang unik seperti sidik jari manusia. Mereka adalah perenang yang baik dan berbeda dengan kebanyakan kucing, harimau menyukai air. Sayangnya, populasi harimau telah menurun drastis dan kini menjadi spesies yang terancam punah.",
+    "fun_fact": [
+      "Setiap harimau memiliki pola belang yang unik",
+      "Mereka dapat melompat setinggi 10 meter dan panjang 33 meter",
+      "Harimau adalah perenang yang baik dan dapat berenang hingga 6 km"
+    ],
+    "habitat": "Hutan hujan, mangrove, dan padang rumput di Asia",
+    "diet": "Karnivora - rusa, babi hutan, buffalo air, gaur",
+    "size": "90-110 cm tinggi, berat 140-300 kg",
+    "conservation_status": "Endangered"
+  },
+  {
+    "id": 293,
+    "label": "cheetah",
+    "name": "Cheetah (Cheetah)",
+    "description": "Cheetah adalah mamalia darat tercepat di dunia dengan kecepatan maksimal 112 km/jam. Tubuh mereka dirancang sempurna untuk kecepatan dengan tubuh ramping, kaki panjang, dan cakar yang tidak dapat ditarik. Berbeda dengan kucing besar lainnya, cheetah tidak dapat mengaum dan lebih mirip suara chirping burung.",
+    "fun_fact": [
+      "Dapat mencapai kecepatan 112 km/jam dalam 3 detik",
+      "Mereka mengeluarkan suara seperti burung, bukan auman",
+      "Bintik hitam di wajah berfungsi mengurangi silau matahari"
+    ],
+    "habitat": "Savana terbuka dan padang rumput di Afrika dan Iran",
+    "diet": "Karnivora - gazelle, impala, springbok, kelinci",
+    "size": "70-90 cm tinggi, berat 21-72 kg",
+    "conservation_status": "Vulnerable"
+  },
+  {
+    "id": 294,
+    "label": "brown_bear",
+    "name": "Brown Bear (Beruang Cokelat)",
+    "description": "Beruang Cokelat adalah salah satu karnivora darat terbesar yang masih hidup, meskipun diet mereka sebenarnya omnivora. Mereka memiliki kekuatan luar biasa dan dapat berlari dengan kecepatan hingga 50 km/jam. Beruang cokelat mengalami hibernasi di musim dingin dan dapat tidak makan selama berbulan-bulan.",
+    "fun_fact": [
+      "Dapat berlari dengan kecepatan hingga 50 km/jam",
+      "Kekuatan gigitan mereka mencapai 1200 psi",
+      "Dapat hidup hingga 30 tahun di alam liar"
+    ],
+    "habitat": "Hutan, tundra, dan padang rumput alpine di Amerika Utara, Eropa, dan Asia",
+    "diet": "Omnivora - ikan salmon, buah beri, madu, daging, akar",
+    "size": "90-150 cm tinggi, berat 80-680 kg",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "id": 295,
+    "label": "American_black_bear",
+    "name": "American Black Bear (Beruang Hitam Amerika)",
+    "description": "Beruang Hitam Amerika adalah beruang terkecil di Amerika Utara dan sangat adaptif terhadap berbagai habitat. Meskipun namanya 'hitam', warna bulu mereka bervariasi dari hitam, cokelat, hingga pirang. Mereka adalah pemanjat pohon yang excellent dan perenang yang baik.",
+    "fun_fact": [
+      "Tidak semua beruang hitam berwarna hitam - ada yang cokelat dan pirang",
+      "Mereka dapat memanjat pohon dengan sangat cepat",
+      "Memiliki indra penciuman 7 kali lebih tajam dari anjing bloodhound"
+    ],
+    "habitat": "Hutan, rawa, dan area pegunungan di Amerika Utara",
+    "diet": "Omnivora - buah beri, kacang-kacangan, serangga, ikan, daging",
+    "size": "75-100 cm tinggi, berat 90-300 kg",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "id": 296,
+    "label": "ice_bear",
+    "name": "Polar Bear (Beruang Kutub)",
+    "description": "Beruang Kutub adalah predator Arktik terbesar dan satu-satunya beruang yang hampir sepenuhnya karnivora. Mereka memiliki adaptasi luar biasa untuk kehidupan di es, termasuk bulu berlapis ganda, kulit hitam untuk menyerap panas, dan kaki berbulu untuk traksi di es. Perenang ulung yang dapat berenang ratusan kilometer.",
+    "fun_fact": [
+      "Kulit mereka sebenarnya berwarna hitam di bawah bulu putih",
+      "Dapat berenang hingga jarak 100 km tanpa istirahat",
+      "Indra penciuman mereka dapat mendeteksi anjing laut dari jarak 32 km"
+    ],
+    "habitat": "Es laut Arktik dan pantai di wilayah kutub utara",
+    "diet": "Karnivora - anjing laut, terutama ringed seal dan bearded seal",
+    "size": "122-160 cm tinggi, berat 150-800 kg",
+    "conservation_status": "Vulnerable"
+  },
+  {
+    "id": 297,
+    "label": "sloth_bear",
+    "name": "Sloth Bear (Beruang Sloth)",
+    "description": "Beruang Sloth adalah spesies beruang yang unik dari India dan Sri Lanka dengan adaptasi khusus untuk memakan serangga. Mereka memiliki moncong panjang, bibir yang dapat dipanjangkan, dan cakar melengkung panjang untuk menggali sarang rayap. Meskipun namanya, mereka tidak berkerabat dengan sloth dan sebenarnya cukup aktif.",
+    "fun_fact": [
+      "Mereka dapat menutup lubang hidung saat menggali sarang rayap",
+      "Bibir mereka dapat dipanjangkan seperti vacuum cleaner",
+      "Bayi beruang sloth menumpang di punggung ibu hingga usia 9 bulan"
+    ],
+    "habitat": "Hutan tropis dan padang rumput di India, Nepal, dan Sri Lanka",
+    "diet": "Omnivora - rayap, semut, madu, buah-buahan",
+    "size": "60-90 cm tinggi, berat 55-145 kg",
+    "conservation_status": "Vulnerable"
+  },
+  {
+    "id": 298,
+    "label": "mongoose",
+    "name": "Mongoose (Luwak)",
+    "description": "Luwak adalah mamalia karnivora kecil yang terkenal karena kemampuannya melawan ular berbisa, termasuk cobra. Mereka memiliki refleks yang sangat cepat, sistem imun yang resisten terhadap racun ular, dan tubuh yang fleksibel. Luwak hidup dalam kelompok sosial dan sangat territorial.",
+    "fun_fact": [
+      "Mereka kebal terhadap racun ular cobra karena mutasi genetik",
+      "Refleks mereka 4 kali lebih cepat dari ular",
+      "Hidup dalam kelompok dengan sistem peringatan yang kompleks"
+    ],
+    "habitat": "Savana, hutan, dan area berbatu di Afrika, Asia Selatan, dan Iberia",
+    "diet": "Karnivora - ular, telur, serangga, hewan pengerat kecil",
+    "size": "24-58 cm panjang, berat 320g-5kg",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "id": 300,
+    "label": "tiger_beetle",
+    "name": "Tiger Beetle (Kumbang Harimau)",
+    "description": "Kumbang Harimau adalah predator serangga yang sangat cepat dan agresif. Mereka adalah salah satu serangga tercepat di dunia relatif terhadap ukuran tubuh. Dengan mata majemuk yang besar dan rahang kuat, mereka adalah pemburu yang efisien. Nama 'harimau' diberikan karena pola belang pada tubuh dan sifat predator yang ganas.",
+    "fun_fact": [
+      "Dapat berlari dengan kecepatan 9 km/jam - sangat cepat untuk serangga sekecil itu",
+      "Mata mereka begitu besar sehingga kadang tidak bisa melihat mangsa saat berlari cepat",
+      "Larva mereka hidup di lubang dan menunggu mangsa seperti jebakan hidup"
+    ],
+    "habitat": "Tanah berpasir, jalur hiking, dan area terbuka di seluruh dunia",
+    "diet": "Karnivora - serangga kecil, laba-laba, cacing",
+    "size": "10-20 mm panjang",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "id": 301,
+    "label": "ladybug",
+    "name": "Ladybug (Kepik)",
+    "description": "Kepik adalah kumbang kecil yang sangat bermanfaat bagi pertanian karena memakan kutu daun dan hama tanaman lainnya. Warna cerah mereka berfungsi sebagai peringatan bagi predator bahwa mereka beracun. Satu kepik dapat memakan hingga 5.000 kutu daun dalam hidupnya, menjadikan mereka pengendali hama alami yang sangat efektif.",
+    "fun_fact": [
+      "Satu kepik dapat memakan 50 kutu daun per hari",
+      "Mereka mengeluarkan cairan kuning beracun dari kaki saat terancam",
+      "Jumlah bintik tidak menunjukkan umur, tetapi menunjukkan spesies"
+    ],
+    "habitat": "Taman, ladang pertanian, dan area dengan banyak tanaman di seluruh dunia",
+    "diet": "Karnivora - kutu daun, tungau, telur serangga kecil",
+    "size": "1-10 mm panjang",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "id": 302,
+    "label": "ground_beetle",
+    "name": "Ground Beetle (Kumbang Tanah)",
+    "description": "Kumbang Tanah adalah kelompok besar kumbang predator yang sebagian besar aktif di malam hari. Mereka memiliki tubuh keras dan kaki yang kuat untuk berlari cepat mengejar mangsa. Banyak spesies yang tidak dapat terbang dan menghabiskan seluruh hidupnya di permukaan tanah, menjadikan mereka pengendali hama yang penting dalam ekosistem.",
+    "fun_fact": [
+      "Ada lebih dari 40.000 spesies kumbang tanah di dunia",
+      "Beberapa spesies dapat menyemprotkan cairan asam untuk melawan predator",
+      "Mereka dapat hidup hingga 4 tahun, lama untuk ukuran serangga"
+    ],
+    "habitat": "Di bawah batu, kayu lapuk, dan tanah lembab di seluruh dunia",
+    "diet": "Karnivora - cacing, larva serangga, siput, serangga kecil",
+    "size": "2-80 mm panjang",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "id": 303,
+    "label": "long-horned_beetle",
+    "name": "Long-horned Beetle (Kumbang Tanduk Panjang)",
+    "description": "Kumbang Tanduk Panjang atau Longhorn Beetle adalah keluarga besar kumbang yang dikenal karena antena mereka yang sangat panjang, seringkali lebih panjang dari tubuh mereka. Larva mereka hidup di dalam kayu dan dapat menyebabkan kerusakan pada pohon. Banyak spesies yang memiliki warna dan pola yang indah, menjadikan mereka favorit kolektor serangga.",
+    "fun_fact": [
+      "Antena mereka bisa 2-3 kali lebih panjang dari tubuh",
+      "Larva mereka dapat hidup di dalam kayu selama bertahun-tahun",
+      "Beberapa spesies dapat mengeluarkan suara dengan menggosokkan bagian tubuh"
+    ],
+    "habitat": "Hutan dan area berkayu di seluruh dunia",
+    "diet": "Herbivora - nektar, serbuk sari, getah pohon, kayu (larva)",
+    "size": "5-150 mm panjang",
+    "conservation_status": "Least Concern"
+  },
+    {
+    "id": 304,
+    "label": "leaf_beetle",
+    "name": "Kumbang Daun (Chrysomelidae)",
+    "description": "Kumbang daun adalah keluarga besar kumbang yang dikenal dengan warna dan pola tubuhnya yang mencolok. Mereka diberi nama sesuai kebiasaan memakan daun tanaman, baik dalam fase dewasa maupun larva. Beberapa spesies dianggap sebagai hama pertanian.",
+    "fun_fact": [
+      "Ada lebih dari 35.000 spesies kumbang daun di seluruh dunia",
+      "Beberapa spesies bisa mengeluarkan bahan kimia pertahanan saat terancam",
+      "Kumbang kentang Colorado adalah salah satu kumbang daun yang paling merugikan"
+    ],
+    "habitat": "Kebun, hutan, lahan pertanian - di mana pun ada tanaman inang",
+    "diet": "Herbivora - terutama memakan daun tanaman spesifik",
+    "size": "Bervariasi, umumnya 1-18 mm panjangnya",
+    "conservation_status": "Belum Dievaluasi (kebanyakan spesies)"
+  },
+  {
+    "id": 305,
+    "label": "dung_beetle",
+    "name": "Kumbang Kotoran (Scarabaeidae)",
+    "description": "Kumbang kotoran adalah serangga yang terkenal karena kebiasaannya mengumpulkan dan memakan kotoran hewan. Mereka memainkan peran penting dalam ekosistem dengan mendaur ulang nutrisi dan membersihkan lingkungan.",
+    "fun_fact": [
+      "Beberapa spesies bisa menggulung bola kotoran 50 kali lebih berat dari tubuhnya",
+      "Mereka menggunakan cahaya matahari dan bintang untuk navigasi",
+      "Di Mesir kuno, kumbang scarab dianggap suci"
+    ],
+    "habitat": "Padang rumput, hutan, savana - di mana pun ada kotoran hewan",
+    "diet": "Koprofag - terutama memakan kotoran mamalia",
+    "size": "5-30 mm panjangnya, tergantung spesies",
+    "conservation_status": "Belum Dievaluasi (kebanyakan spesies)"
+  },
+  {
+    "id": 306,
+    "label": "rhinoceros_beetle",
+    "name": "Kumbang Badak (Dynastinae)",
+    "description": "Kumbang badak adalah salah satu serangga terkuat di dunia, dikenal karena tanduk khas pada jantan yang menyerupai badak. Tanduk ini digunakan untuk bertarung dengan pejantan lain dan menarik perhatian betina.",
+    "fun_fact": [
+      "Mereka bisa mengangkat beban 850 kali berat tubuhnya sendiri",
+      "Hanya kumbang jantan yang memiliki tanduk besar",
+      "Di beberapa budaya Asia, kumbang ini dianggap membawa keberuntungan"
+    ],
+    "habitat": "Hutan tropis dan subtropis di seluruh dunia",
+    "diet": "Herbivora - memakan buah busuk, getah pohon, dan nektar",
+    "size": "2-15 cm panjangnya (termasuk tanduk)",
+    "conservation_status": "Belum Dievaluasi (kebanyakan spesies)"
+  },
+    {
+    "id": 308,
+    "label": "fly",
+    "name": "Lalat (Diptera)",
+    "description": "Lalat adalah serangga terbang yang umum ditemukan di seluruh dunia. Mereka memiliki sepasang sayap dan dikenal sebagai pembawa penyakit karena kebiasaannya hinggap di tempat kotor dan makanan.",
+    "fun_fact": [
+      "Lalat rumah hanya berumur sekitar 15-30 hari",
+      "Mereka mencicipi makanan dengan kaki mereka yang memiliki reseptor rasa",
+      "Lalat bisa terbang mundur dan melakukan manuver udara yang sangat akurat"
+    ],
+    "habitat": "Hampir di mana saja, terutama area dengan bahan organik membusuk",
+    "diet": "Omnivora - memulai apa saja dari gula hingga sampah",
+    "size": "Bervariasi, umumnya 3-10 mm panjangnya",
+    "conservation_status": "Belum Dievaluasi"
+  },
+  {
+    "id": 309,
+    "label": "bee",
+    "name": "Lebah (Anthophila)",
+    "description": "Lebah adalah serangga penyerbuk yang sangat penting bagi ekosistem. Mereka hidup dalam koloni sosial dan menghasilkan madu dari nektar bunga. Lebah pekerja betina memiliki sengat untuk mempertahankan sarang.",
+    "fun_fact": [
+      "Untuk membuat 1 kg madu, lebah harus mengunjungi sekitar 4 juta bunga",
+      "Ratu lebah bisa bertelur hingga 2.000 butir per hari",
+      "Lebah melakukan 'tarian' khusus untuk menunjukkan lokasi makanan ke lebah lain"
+    ],
+    "habitat": "Beragam, dari hutan hingga perkotaan (di mana ada bunga)",
+    "diet": "Herbivora - nektar dan serbuk sari bunga",
+    "size": "2-4 cm panjangnya (tergantung spesies)",
+    "conservation_status": "Beberapa spesies Terancam karena pestisida dan hilangnya habitat"
+  },
+  {
+    "id": 310,
+    "label": "ant",
+    "name": "Semut (Formicidae)",
+    "description": "Semut adalah serangga sosial yang hidup dalam koloni terorganisir. Mereka dikenal karena kerja sama dan pembagian tugas yang luar biasa dalam koloninya. Semut bisa ditemukan hampir di seluruh belahan dunia.",
+    "fun_fact": [
+      "Semut bisa membawa beban 50 kali berat tubuhnya sendiri",
+      "Koloni semut terbesar yang ditemukan membentang lebih dari 6.000 km",
+      "Beberapa spesies semut memelihara kutu daun seperti manusia memelihara sapi"
+    ],
+    "habitat": "Hampir semua ekosistem darat kecuali Antartika",
+    "diet": "Omnivora - makan apa saja dari serangga kecil hingga nektar",
+    "size": "0,75-52 mm tergantung spesies",
+    "conservation_status": "Belum Dievaluasi (kebanyakan spesies)"
+  },
+  {
+    "id": 311,
+    "label": "grasshopper",
+    "name": "Belalang (Caelifera)",
+    "description": "Belalang adalah serangga herbivora yang dikenal mampu melompat jauh dan beberapa spesiesnya bisa terbang. Mereka memiliki kaki belakang yang panjang dan kuat untuk melompat menghindari predator.",
+    "fun_fact": [
+      "Belalang bisa melompat hingga 20 kali panjang tubuhnya",
+      "Beberapa spesies belalang bermigrasi dalam jumlah sangat besar",
+      "Belalang mendengar dengan organ di perutnya"
+    ],
+    "habitat": "Padang rumput, hutan, dan area pertanian",
+    "diet": "Herbivora - terutama rumput dan daun",
+    "size": "1-7 cm panjangnya (tanpa kaki)",
+    "conservation_status": "Belum Dievaluasi (kebanyakan spesies)"
+  },
+  {
+    "id": 312,
+    "label": "cricket",
+    "name": "Jangkrik (Gryllidae)",
+    "description": "Jangkrik adalah serangga nokturnal yang dikenal karena suara khasnya yang dihasilkan oleh jantan untuk menarik betina. Mereka memiliki tubuh gemuk dan antena panjang, serta kaki belakang yang kuat untuk melompat.",
+    "fun_fact": [
+      "Jangkrik jantan menggesekkan sayapnya untuk menghasilkan suara",
+      "Di beberapa budaya Asia, jangkrik dijadikan hewan peliharaan dalam sangkar kecil",
+      "Jangkrik adalah simbol keberuntungan dalam beberapa tradisi"
+    ],
+    "habitat": "Lapangan berumput, kebun, dan area dengan vegetasi lebat",
+    "diet": "Omnivora - memakan tanaman dan serangga kecil",
+    "size": "1-5 cm panjangnya",
+    "conservation_status": "Belum Dievaluasi"
+  },
+  {
+    "id": 313,
+    "label": "walking_stick",
+    "name": "Serangga Tongkat (Phasmatodea)",
+    "description": "Serangga tongkat adalah master kamuflase yang menyerupai ranting atau daun. Mereka bergerak sangat lambat dan akan diam tak bergerak saat merasa terancam, menyamarkan diri dengan sempurna di antara tanaman.",
+    "fun_fact": [
+      "Beberapa spesies bisa beregenerasi (menumbuhkan kembali kaki yang hilang)",
+      "Serangga tongkat terpanjang bisa mencapai 64 cm",
+      "Beberapa betina bisa bereproduksi tanpa pejantan (partenogenesis)"
+    ],
+    "habitat": "Hutan dan area bervegetasi lebat",
+    "diet": "Herbivora - memakan daun tanaman",
+    "size": "1-64 cm tergantung spesies",
+    "conservation_status": "Beberapa spesies Terancam karena hilangnya habitat"
+  },
+  {
+    "id": 315,
+    "label": "mantis",
+    "name": "Belalang Sembah (Mantodea)",
+    "description": "Belalang sembah adalah predator serangga yang dikenal dengan kaki depan yang dilipat seperti sedang berdoa. Mereka memiliki penglihatan yang sangat baik dan gerakan yang cepat untuk menangkap mangsa.",
+    "fun_fact": [
+      "Betina sering memakan pejantan setelah atau selama perkawinan",
+      "Mereka bisa memutar kepala 180 derajat untuk melihat sekeliling",
+      "Beberapa spesies bisa meniru bunga untuk menyergap mangsa"
+    ],
+    "habitat": "Daerah bervegetasi di iklim hangat",
+    "diet": "Karnivora - memakan serangga lain, kadang kadal kecil",
+    "size": "1-17 cm tergantung spesies",
+    "conservation_status": "Belum Dievaluasi (kebanyakan spesies)"
+  },
+  {
+    "id": 319,
+    "label": "dragonfly",
+    "name": "Capung (Anisoptera)",
+    "description": "Capung adalah serangga terbang yang gesit dengan mata besar dan tubuh panjang. Mereka adalah predator udara yang handal, mampu menangkap mangsa di tengah penerbangan. Capung menghabiskan masa larva mereka di air.",
+    "fun_fact": [
+      "Capung memiliki tingkat keberhasilan berburu hingga 95%",
+      "Mereka bisa terbang dengan kecepatan hingga 60 km/jam",
+      "Mata capung terdiri dari 30.000 lensa individu"
+    ],
+    "habitat": "Dekat air tawar seperti danau, sungai, dan rawa",
+    "diet": "Karnivora - memakan nyamuk, lalat, dan serangga kecil lain",
+    "size": "2-13 cm panjangnya (tanpa bentang sayap)",
+    "conservation_status": "Beberapa spesies Terancam karena polusi air"
+  },
+  {
+    "id": 320,
+    "label": "damselfly",
+    "name": "Capung Jarum (Zygoptera)",
+    "description": "Capung jarum adalah kerabat dekat capung yang lebih ramping dan halus. Saat istirahat, mereka melipat sayapnya di atas tubuh, berbeda dengan capung yang merentangkan sayapnya. Mereka juga memiliki mata yang terpisah lebih jauh.",
+    "fun_fact": [
+      "Capung jarum betina sering menyamar sebagai jantan untuk menghindari perhatian berlebihan",
+      "Mereka bisa terbang mundur seperti helikopter",
+      "Larvanya hidup di air dan bernapas melalui insang eksternal"
+    ],
+    "habitat": "Dekat air tawar yang tenang seperti kolam dan sungai kecil",
+    "diet": "Karnivora - memakan serangga kecil",
+    "size": "1,5-6 cm panjangnya",
+    "conservation_status": "Beberapa spesies Terancam"
+  },
+  {
+    "id": 324,
+    "label": "cabbage_butterfly",
+    "name": "Kupu-kupu Kubis (Pieris rapae)",
+    "description": "Kupu-kupu kubis adalah spesies kupu-kupu kecil berwarna putih dengan bintik hitam. Larva mereka (ulat) dikenal sebagai hama tanaman kubis-kubisan, sehingga dianggap merugikan oleh petani.",
+    "fun_fact": [
+      "Kupu-kupu ini bisa mendeteksi tanaman inang dengan sensor di kaki",
+      "Satu ekor ulat bisa makan daun kubis seberat 3 kali berat tubuhnya per hari",
+      "Diperkenalkan ke Amerika Utara secara tidak sengaja pada tahun 1800-an"
+    ],
+    "habitat": "Kebun, ladang pertanian, dan area terbuka",
+    "diet": "Herbivora (larva memakan tanaman kubis-kubisan, dewasa menghisap nektar)",
+    "size": "Bentang sayap 3-6 cm",
+    "conservation_status": "Tidak Dievaluasi (populasi melimpah)"
+  },
+  {
+    "id": 325,
+    "label": "sulphur_butterfly",
+    "name": "Kupu-kupu Belerang (Coliadinae)",
+    "description": "Kupu-kupu belerang adalah kelompok kupu-kupu berwarna kuning atau oranye terang yang aktif di siang hari. Mereka terbang dengan cepat dan tidak menentu, sering terlihat di padang rumput berbunga.",
+    "fun_fact": [
+      "Warna kuning cerah mereka berasal dari pigmen yang diperoleh dari makanan saat larva",
+      "Jantan sering berkumpul di tanah basah untuk mendapatkan mineral",
+      "Beberapa spesies bisa bermigrasi dalam jarak jauh"
+    ],
+    "habitat": "Padang rumput, taman, dan area terbuka bervegetasi",
+    "diet": "Herbivora (larva memakan tanaman polong-polongan, dewasa menghisap nektar)",
+    "size": "Bentang sayap 3-8 cm tergantung spesies",
+    "conservation_status": "Kebanyakan spesies Tidak Dievaluasi"
+  },
+  {
+    "id": 327,
+    "label": "starfish",
+    "name": "Bintang Laut (Asteroidea)",
+    "description": "Bintang laut adalah hewan laut berbentuk bintang dengan lengan-lengan yang memancar dari tubuh pusat. Mereka memiliki sistem vaskular air yang unik untuk bergerak dan bernapas. Bintang laut bisa beregenerasi lengan yang putus.",
+    "fun_fact": [
+      "Bintang laut tidak memiliki otak - hanya cincin saraf pusat",
+      "Mereka bisa membalikkan perut ke luar untuk mencerna mangsa di luar tubuh",
+      "Beberapa spesies bisa menghasilkan 40 juta telur dalam satu musim"
+    ],
+    "habitat": "Dasar laut di semua samudra dunia, dari pantai hingga laut dalam",
+    "diet": "Karnivora - memakan kerang, teritip, dan hewan kecil lain",
+    "size": "Diameter 1-65 cm tergantung spesies",
+    "conservation_status": "Beberapa spesies Terancam karena perubahan iklim"
+  },
+  {
+    "id": 330,
+    "label": "wood_rabbit",
+    "name": "Kelinci Hutan (Sylvilagus)",
+    "description": "Kelinci hutan adalah mamalia kecil berbulu lembut dengan telinga panjang dan kaki belakang yang kuat. Berbeda dengan kelinci, mereka lebih kecil dan hidup soliter. Kelinci hutan aktif terutama pada malam hari (nokturnal).",
+    "fun_fact": [
+      "Saat dikejar predator, mereka berlari zigzag dengan kecepatan hingga 30 km/jam",
+      "Induk hanya mengunjungi sarang 1-2 kali sehari untuk menyusui anaknya",
+      "Mereka memakan kotorannya sendiri untuk menyerap nutrisi dua kali"
+    ],
+    "habitat": "Hutan, semak belukar, padang rumput, dan tepi perkotaan",
+    "diet": "Herbivora - rumput, sayuran, kulit pohon, dan buah",
+    "size": "30-50 cm panjangnya, berat 0,4-1,5 kg",
+    "conservation_status": "Kebanyakan spesies Risiko Rendah"
+  },
+  {
+    "id": 331,
+    "label": "hare",
+    "name": "Terwelu (Lepus)",
+    "description": "Terwelu adalah mamalia berbulu dengan telinga sangat panjang dan kaki belakang yang kuat untuk berlari cepat. Berbeda dengan kelinci, terwelu lebih besar, melahirkan anak yang sudah berbulu dan bisa melihat, serta tidak membuat sarang.",
+    "fun_fact": [
+      "Terwelu bisa mencapai kecepatan lari 72 km/jam",
+      "Mereka melakukan 'boxing' dengan kaki depan saat musim kawin",
+      "Terwelu salju berubah warna bulu menjadi putih di musim dingin"
+    ],
+    "habitat": "Padang rumput, tundra, dan area terbuka",
+    "diet": "Herbivora - rumput, herba, dan tanaman berkayu",
+    "size": "40-75 cm panjangnya, berat 2-5 kg",
+    "conservation_status": "Beberapa spesies Terancam karena perburuan"
+  },
+  {
+    "id": 334,
+    "label": "porcupine",
+    "name": "Landak (Hystricidae atau Erethizontidae)",
+    "description": "Landak adalah mamalia pengerat besar yang dilindungi oleh duri-duri tajam di punggungnya. Saat terancam, mereka akan mengangkat durinya atau bahkan menyerang mundur ke predator. Landak aktif di malam hari.",
+    "fun_fact": [
+      "Duri landak sebenarnya adalah bulu yang termodifikasi",
+      "Mereka tidak bisa 'melempar' duri seperti mitos yang beredar",
+      "Landak bayi lahir dengan duri lunak yang mengeras dalam beberapa jam"
+    ],
+    "habitat": "Hutan, padang rumput, dan gurun (tergantung spesies)",
+    "diet": "Herbivora - kulit pohon, buah, dan tanaman",
+    "size": "60-90 cm panjangnya, berat 5-16 kg",
+    "conservation_status": "Kebanyakan spesies Risiko Rendah"
+  },
+  {
+    "id": 335,
+    "label": "fox_squirrel",
+    "name": "Tupai Rubah (Sciurus niger)",
+    "description": "Tupai rubah adalah tupai pohon besar berwarna kemerahan atau kecokelatan dengan ekor lebat. Mereka aktif di siang hari dan dikenal karena kebiasaannya mengubur kacang sebagai cadangan makanan.",
+    "fun_fact": [
+      "Mereka bisa melompat hingga 4 meter antar pohon",
+      "Tupai rubah menggunakan ekornya sebagai payung saat hujan",
+      "Mereka memiliki memori spasial yang sangat baik untuk menemukan makanan yang dikubur"
+    ],
+    "habitat": "Hutan, taman, dan area perkotaan dengan pohon",
+    "diet": "Omnivora - kacang, biji-bijian, buah, telur burung, dan serangga",
+    "size": "45-70 cm (termasuk ekor), berat 0,5-1 kg",
+    "conservation_status": "Risiko Rendah"
+  },
+  {
+    "id": 338,
+    "label": "guinea_pig",
+    "name": "Marmut (Cavia porcellus)",
+    "description": "Marmut adalah hewan pengerat kecil yang telah didomestikasi sebagai hewan peliharaan. Mereka berasal dari Amerika Selatan dan dikenal sebagai hewan sosial yang suka berinteraksi dengan manusia maupun sesamanya.",
+    "fun_fact": [
+      "Marmut tidak bisa menghasilkan vitamin C sendiri dan harus mendapatkannya dari makanan",
+      "Mereka mengeluarkan suara 'wheek' ketika excited terutama saat waktu makan",
+      "Di Peru, marmut dijadikan makanan tradisional yang disebut cuy"
+    ],
+    "habitat": "Domestik - kandang dengan ruang untuk berlari dan bersembunyi",
+    "diet": "Herbivora - rumput segar, sayuran, dan pelet khusus",
+    "size": "20-30 cm panjangnya, berat 0,7-1,2 kg",
+    "conservation_status": "Domestikasi"
+  },
+  {
+    "id": 340,
+    "label": "zebra",
+    "name": "Zebra (Equus quagga)",
+    "description": "Zebra adalah mamalia berkuku dengan pola garis hitam-putih yang khas. Mereka hidup dalam kelompok keluarga kecil yang bergabung menjadi kawanan besar. Setiap pola garis zebra unik seperti sidik jari manusia.",
+    "fun_fact": [
+      "Garis-garis zebra berfungsi sebagai kamuflase dan pengusir lalat",
+      "Mereka bisa tidur sambil berdiri",
+      "Zebra memiliki gigitan yang sangat kuat dan bisa menendang dengan kekuatan mematikan"
+    ],
+    "habitat": "Sabana dan padang rumput Afrika",
+    "diet": "Herbivora - terutama rumput, daun, dan kulit pohon",
+    "size": "2-2,5 m panjangnya, tinggi 1,2-1,5 m di bahu, berat 200-450 kg",
+    "conservation_status": "Beragam menurut spesies (ada yang Terancam)"
+  },
+  {
+    "id": 342,
+    "label": "wild_boar",
+    "name": "Babi Hutan (Sus scrofa)",
+    "description": "Babi hutan adalah nenek moyang babi domestik dengan tubuh berotot dan taring panjang pada jantan. Mereka memiliki penciuman yang sangat tajam dan dikenal sebagai hewan yang cerdas dan adaptif.",
+    "fun_fact": [
+      "Babi hutan bisa berlari hingga 40 km/jam",
+      "Mereka suka berendam di lumpur untuk mendinginkan tubuh dan melindungi kulit dari parasit",
+      "Anak babi hutan memiliki garis-garis cokelat yang hilang saat dewasa"
+    ],
+    "habitat": "Hutan, rawa, dan area bervegetasi lebat di Eropa dan Asia",
+    "diet": "Omnivora - akar, buah, serangga, telur, dan hewan kecil",
+    "size": "90-180 cm panjangnya, tinggi 55-110 cm di bahu, berat 50-350 kg",
+    "conservation_status": "Risiko Rendah (populasi melimpah)"
+  },
+  {
+    "id": 345,
+    "label": "ox",
+    "name": "Lembu (Bos taurus)",
+    "description": "Lembu adalah sapi domestik yang digunakan sebagai hewan pekerja, terutama untuk membajak atau menarik gerobak. Mereka lebih besar dan kuat dibanding sapi biasa, dengan otot bahu yang berkembang baik.",
+    "fun_fact": [
+      "Lembu bisa menarik beban hingga 1,5 kali berat tubuhnya sendiri",
+      "Mereka telah digunakan sebagai hewan pekerja selama setidaknya 6.000 tahun",
+      "Lembu jantan yang dikebiri lebih tenang dan mudah dikendalikan"
+    ],
+    "habitat": "Domestik - peternakan dan area pertanian",
+    "diet": "Herbivora - rumput, jerami, dan pakan ternak",
+    "size": "Tinggi 1,4-1,8 m di bahu, berat 500-800 kg",
+    "conservation_status": "Domestikasi"
+  },
+  {
+    "id": 346,
+    "label": "water_buffalo",
+    "name": "Kerbau Air (Bubalus bubalis)",
+    "description": "Kerbau air adalah hewan pekerja penting di Asia yang sangat bergantung pada air untuk mendinginkan tubuhnya. Mereka memiliki tanduk melengkung besar dan tubuh yang sangat kuat, sering digunakan untuk membajak sawah.",
+    "fun_fact": [
+      "Kerbau air memiliki kuku yang melebar untuk mencegah tenggelam di lumpur",
+      "Mereka berkubang di lumpur untuk melindungi kulit dari sinar matahari dan serangga",
+      "Di India, kerbau liar adalah salah satu hewan paling berbahaya bagi manusia"
+    ],
+    "habitat": "Rawa, daerah basah, dan sawah di Asia",
+    "diet": "Herbivora - rumput air, tanaman air, dan pakan ternak",
+    "size": "Tinggi 1,5-1,9 m di bahu, berat 300-1.200 kg",
+    "conservation_status": "Domestikasi (kerbau liar Terancam)"
+  },
+  {
+    "id": 347,
+    "label": "bison",
+    "name": "Bison (Bison bison)",
+    "description": "Bison adalah mamalia darat terbesar di Amerika Utara dengan tubuh besar berotot dan punuk di bahu. Mereka hidup dalam kawanan besar dan pernah hampir punah karena perburuan berlebihan pada abad ke-19.",
+    "fun_fact": [
+      "Bison bisa berlari hingga 60 km/jam meski tubuhnya besar",
+      "Mereka adalah hewan nasional Amerika Serikat",
+      "Bison betina melindungi anaknya dengan membentuk lingkaran pertahanan"
+    ],
+    "habitat": "Padang rumput dan hutan terbuka di Amerika Utara",
+    "diet": "Herbivora - rumput, herba, dan tanaman berkayu",
+    "size": "Tinggi 1,6-1,9 m di bahu, berat 400-1.000 kg (jantan lebih besar)",
+    "conservation_status": "Hampir Terancam (populasi pulih setelah hampir punah)"
+  },
+  {
+    "id": 351,
+    "label": "hartebeest",
+    "name": "Hartebeest (Alcelaphus buselaphus)",
+    "description": "Hartebeest adalah antelop Afrika dengan bentuk kepala memanjang yang khas dan tanduk melengkung. Mereka dikenal sebagai pelari jarak jauh yang tahan lama daripada pelari cepat, dengan postur tubuh yang aneh dan canggung.",
+    "fun_fact": [
+      "Hartebeest memiliki penglihatan yang sangat tajam untuk mendeteksi predator",
+      "Mereka bisa bertahan hidup tanpa air lebih lama daripada kebanyakan antelop lain",
+      "Nama 'hartebeest' berasal dari bahasa Afrikaans yang berarti 'rusa sapi'"
+    ],
+    "habitat": "Sabana dan padang rumput terbuka di Afrika",
+    "diet": "Herbivora - terutama rumput pendek",
+    "size": "Tinggi 1,2-1,5 m di bahu, berat 100-200 kg",
+    "conservation_status": "Beragam menurut subspesies (ada yang Rentan)"
+  },
+  {
+    "id": 353,
+    "label": "gazelle",
+    "name": "Gazelle (Rusa Kecil)",
+    "description": "Gazelle adalah antelop kecil yang anggun dan cepat, terkenal karena kemampuan lompatan dan kecepatan larinya yang luar biasa. Mereka memiliki tubuh ramping, kaki panjang, dan tanduk yang melengkung. Gazelle hidup dalam kelompok dan terkenal karena gerakan melompat-lompat yang disebut 'pronking' atau 'stotting' ketika merasa terancam.",
+    "fun_fact": [
+      "Dapat berlari dengan kecepatan hingga 97 km/jam",
+      "Mampu melompat setinggi 3 meter dari posisi berdiri",
+      "Dapat bertahan hidup tanpa minum air dalam waktu lama"
+    ],
+    "habitat": "Padang rumput, savana, dan gurun di Afrika dan Asia",
+    "diet": "Herbivora - rumput, daun, tunas, buah-buahan",
+    "size": "50-110 cm panjang, tinggi 60-110 cm",
+    "conservation_status": "Varies by species - Least Concern to Endangered"
+  },
+  {
+    "id": 354,
+    "label": "Arabian_camel",
+    "name": "Arabian Camel (Unta Arabia)",
+    "description": "Unta Arabia atau Dromedary adalah mamalia besar dengan satu punuk yang telah beradaptasi sempurna untuk hidup di gurun. Mereka memiliki kemampuan luar biasa untuk menyimpan air dan lemak, serta dapat bertahan dalam kondisi cuaca ekstrem. Unta telah menjadi hewan domestik penting bagi masyarakat Timur Tengah selama ribuan tahun.",
+    "fun_fact": [
+      "Dapat minum hingga 200 liter air dalam sekali minum",
+      "Punuknya menyimpan lemak, bukan air",
+      "Dapat bertahan hidup tanpa air selama 2 minggu"
+    ],
+    "habitat": "Gurun dan daerah kering di Timur Tengah dan Afrika Utara",
+    "diet": "Herbivora - rumput kering, semak, daun, biji-bijian",
+    "size": "200-300 cm panjang, tinggi 180-210 cm",
+    "conservation_status": "Domesticated - Wild populations Critically Endangered"
+  },
+  {
+    "id": 355,
+    "label": "llama",
+    "name": "Llama (Llama)",
+    "description": "Llama adalah mamalia domestik dari keluarga camelidae yang berasal dari Amerika Selatan. Mereka memiliki bulu tebal dan wol yang berkualitas tinggi, leher panjang, dan wajah yang ekspresif. Llama terkenal karena sifatnya yang tenang namun dapat meludah ketika merasa terancam atau kesal.",
+    "fun_fact": [
+      "Akan meludah ketika marah atau merasa terancam",
+      "Memiliki darah dengan sel darah merah oval yang unik",
+      "Dapat membawa beban hingga 25% dari berat tubuhnya"
+    ],
+    "habitat": "Pegunungan Andes dan dataran tinggi Amerika Selatan",
+    "diet": "Herbivora - rumput, hay, dedaunan, lumut",
+    "size": "120-200 cm panjang, tinggi 109-119 cm",
+    "conservation_status": "Domesticated - Least Concern"
+  },
+  {
+    "id": 358,
+    "label": "polecat",
+    "name": "Polecat (Musang Eropa)",
+    "description": "Polecat atau musang Eropa adalah mamalia karnivora dari keluarga mustelidae. Mereka memiliki tubuh memanjang dengan kaki pendek, bulu tebal berwarna gelap, dan kemampuan mengeluarkan bau menyengat dari kelenjar analnya sebagai pertahanan. Polecat adalah nenek moyang dari ferret domestik.",
+    "fun_fact": [
+      "Dapat mengeluarkan bau menyengat untuk pertahanan",
+      "Nenek moyang dari ferret peliharaan",
+      "Dapat tidur hingga 18-20 jam per hari"
+    ],
+    "habitat": "Hutan, padang rumput, dan area pertanian di Eropa",
+    "diet": "Karnivora - kelinci, tikus, burung, katak, serangga",
+    "size": "35-51 cm panjang, ekor 12-19 cm",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "id": 359,
+    "label": "black-footed_ferret",
+    "name": "Black-footed Ferret (Musang Kaki Hitam)",
+    "description": "Musang Kaki Hitam adalah mamalia karnivora yang sangat langka dan hampir punah. Mereka memiliki bulu berwarna kuning pucat dengan kaki, ekor, dan 'topeng' wajah berwarna hitam. Spesies ini hampir punah pada tahun 1980-an namun berhasil diselamatkan melalui program konservasi intensif.",
+    "fun_fact": [
+      "Pernah dianggap punah pada tahun 1979",
+      "90% makanannya adalah prairie dog",
+      "Berhasil diselamatkan dari hanya 18 individu"
+    ],
+    "habitat": "Padang rumput prairie di Amerika Utara",
+    "diet": "Karnivora - terutama prairie dog, juga kelinci dan tikus",
+    "size": "38-50 cm panjang, ekor 11-15 cm",
+    "conservation_status": "Endangered"
+  },
+  {
+    "id": 360,
+    "label": "otter",
+    "name": "Otter (Berang-berang)",
+    "description": "Berang-berang adalah mamalia semi-akuatik yang sangat pandai berenang dengan tubuh yang ramping dan kaki berselaput. Mereka memiliki bulu tebal kedap air dan ekor yang kuat untuk membantu navigasi di air. Berang-berang terkenal karena kecerdasan dan kemampuan menggunakan alat untuk membuka kerang.",
+    "fun_fact": [
+      "Dapat menahan napas hingga 8 menit di bawah air",
+      "Menggunakan batu sebagai alat untuk memecah kerang",
+      "Memiliki bulu dengan kepadatan tertinggi di dunia hewan"
+    ],
+    "habitat": "Sungai, danau, pantai, dan daerah berair di seluruh dunia",
+    "diet": "Karnivora - ikan, kerang, kepiting, katak, serangga air",
+    "size": "57-95 cm panjang, ekor 30-50 cm",
+    "conservation_status": "Varies by species - Least Concern to Endangered"
+  },
+  {
+    "id": 361,
+    "label": "skunk",
+    "name": "Skunk (Sigung)",
+    "description": "Sigung adalah mamalia kecil yang terkenal karena kemampuannya menyemprotkan cairan berbau sangat menyengat sebagai mekanisme pertahanan. Mereka memiliki bulu hitam dengan garis putih yang kontras sebagai peringatan visual bagi predator. Sigung adalah hewan nokturnal yang umumnya tidak agresif.",
+    "fun_fact": [
+      "Dapat menyemprotkan bau hingga jarak 3 meter",
+      "Baunya dapat tercium hingga radius 1,5 km",
+      "Memberikan peringatan dengan mengangkat ekor sebelum menyemprot"
+    ],
+    "habitat": "Hutan, padang rumput, dan area suburban di Amerika",
+    "diet": "Omnivora - serangga, tikus kecil, telur, buah, akar",
+    "size": "40-68 cm panjang, ekor 13-25 cm",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "id": 362,
+    "label": "badger",
+    "name": "Badger (Luak)",
+    "description": "Luak adalah mamalia penggali yang kuat dengan tubuh kekar, kaki pendek, dan cakar yang sangat kuat untuk menggali. Mereka memiliki pola warna yang khas dengan garis putih di wajah. Luak terkenal karena sifatnya yang gigih dan kemampuan menggali terowongan yang kompleks.",
+    "fun_fact": [
+      "Dapat menggali terowongan sepanjang 150 meter",
+      "Memiliki gigitan yang sangat kuat dengan tekanan 1500 PSI",
+      "Hidup dalam sistem terowongan yang disebut 'sett'"
+    ],
+    "habitat": "Padang rumput, hutan, dan area terbuka di Eropa, Asia, dan Amerika",
+    "diet": "Omnivora - cacing, serangga, tikus, kelinci, akar, buah",
+    "size": "56-81 cm panjang, ekor 12-20 cm",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "id": 363,
+    "label": "armadillo",
+    "name": "Armadillo (Armadilo)",
+    "description": "Armadilo adalah mamalia unik yang memiliki cangkang keras yang terbuat dari tulang dan keratin. Mereka adalah penggali yang handal dengan cakar kuat dan kemampuan menggulung tubuh menjadi bola untuk perlindungan. Armadilo adalah satu-satunya mamalia yang memiliki cangkang keras.",
+    "fun_fact": [
+      "Satu-satunya mammal dengan cangkang keras",
+      "Dapat menggulung tubuh menjadi bola sempurna",
+      "Selalu melahirkan anak kembar identik (4 anak)"
+    ],
+    "habitat": "Padang rumput, hutan, dan scrubland di Amerika Selatan dan Tengah",
+    "diet": "Omnivora - serangga, cacing, telur, buah, akar",
+    "size": "12-100 cm panjang tergantung spesies",
+    "conservation_status": "Varies by species - Least Concern to Vulnerable"
+  },
+  {
+    "id": 364,
+    "label": "three-toed_sloth",
+    "name": "Three-toed Sloth (Kukang Tiga Jari)",
+    "description": "Kukang Tiga Jari adalah mamalia arboreal yang bergerak sangat lambat dan menghabiskan hampir seluruh hidupnya di pohon. Mereka memiliki cakar panjang yang kuat untuk bergantung di dahan, metabolisme yang sangat lambat, dan simbiosis unik dengan alga yang tumbuh di bulunya memberikan warna hijau untuk kamuflase.",
+    "fun_fact": [
+      "Hanya turun dari pohon sekali seminggu untuk buang air",
+      "Dapat memutar kepala hingga 270 derajat",
+      "Alga tumbuh di bulunya untuk kamuflase hijau"
+    ],
+    "habitat": "Hutan hujan tropis di Amerika Tengah dan Selatan",
+    "diet": "Herbivora - daun, tunas, buah-buahan",
+    "size": "45-60 cm panjang",
+    "conservation_status": "Varies by species - Least Concern to Critically Endangered"
+  },
+  {
+    "id": 366,
+    "label": "gorilla",
+    "name": "Gorilla (Gorila)",
+    "description": "Gorila adalah primata terbesar dan terkuat di dunia dengan struktur tubuh yang sangat kekar dan otot yang berkembang baik. Mereka hidup dalam kelompok yang dipimpin oleh silverback jantan dominan. Meskipun terlihat menakutkan, gorila sebenarnya adalah hewan yang gentle dan sebagian besar vegetarian.",
+    "fun_fact": [
+      "DNA mereka 98% mirip dengan manusia",
+      "Jantan dewasa dapat mengangkat beban hingga 1.800 kg",
+      "Memiliki sidik jari yang unik seperti manusia"
+    ],
+    "habitat": "Hutan hujan pegunungan di Afrika Tengah",
+    "diet": "Herbivora - daun, batang, buah, kadang serangga",
+    "size": "150-180 cm tinggi, berat 70-200 kg",
+    "conservation_status": "Critically Endangered"
+  },
+  {
+    "id": 367,
+    "label": "chimpanzee",
+    "name": "Chimpanzee (Simpanse)",
+    "description": "Simpanse adalah primata yang paling dekat kekerabatannya dengan manusia dan menunjukkan kecerdasan yang luar biasa. Mereka dapat menggunakan alat, memiliki budaya yang kompleks, dan sistem komunikasi yang sophisticated. Simpanse hidup dalam komunitas sosial yang dinamis dengan hierarki yang jelas.",
+    "fun_fact": [
+      "Berbagi 99% DNA dengan manusia",
+      "Dapat belajar bahasa isyarat hingga 300 kata",
+      "Menggunakan alat seperti ranting untuk mengambil rayap"
+    ],
+    "habitat": "Hutan hujan dan savana di Afrika Tengah dan Barat",
+    "diet": "Omnivora - buah, daun, serangga, kadang daging",
+    "size": "70-130 cm tinggi, berat 40-70 kg",
+    "conservation_status": "Endangered"
+  },
+  {
+    "id": 368,
+    "label": "gibbon",
+    "name": "Gibbon (Gibbon)",
+    "description": "Gibbon adalah primata kecil yang dikenal karena kemampuan brachiation (berayun) yang luar biasa di antara dahan pohon. Mereka memiliki lengan yang sangat panjang, dapat mengeluarkan vokalisasi yang kompleks untuk komunikasi jarak jauh, dan hidup dalam kelompok keluarga monogami yang kecil.",
+    "fun_fact": [
+      "Dapat berayun dengan kecepatan hingga 56 km/jam",
+      "Monogami dan pasangan seumur hidup",
+      "Suara mereka dapat terdengar hingga jarak 2 km"
+    ],
+    "habitat": "Hutan hujan tropis di Asia Tenggara",
+    "diet": "Omnivora - buah (terutama), daun, serangga, telur burung",
+    "size": "45-65 cm tinggi, berat 4-8 kg",
+    "conservation_status": "Varies by species - Vulnerable to Critically Endangered"
+  },
+  {
+    "id": 372,
+    "label": "baboon",
+    "name": "Baboon (Babun)",
+    "description": "Babun adalah primata berukuran besar yang hidup dalam kelompok sosial kompleks yang disebut troop. Mereka memiliki moncong yang panjang seperti anjing, gigi taring yang besar, dan area duduk berwarna cerah. Babun adalah primata yang sangat adaptif dan dapat hidup di berbagai habitat.",
+    "fun_fact": [
+      "Hidup dalam kelompok hingga 300 individu",
+      "Jantan memiliki gigi taring sepanjang singa",
+      "Dapat berlari dengan kecepatan hingga 45 km/jam"
+    ],
+    "habitat": "Savana, padang rumput, dan daerah berbatu di Afrika",
+    "diet": "Omnivora - buah, biji, daun, serangga, daging kecil",
+    "size": "50-120 cm panjang, berat 10-40 kg",
+    "conservation_status": "Least Concern to Near Threatened"
+  },
+  {
+    "id": 376,
+    "label": "proboscis_monkey",
+    "name": "Proboscis Monkey (Monyet Bekantan)",
+    "description": "Monyet Bekantan adalah primata endemik Borneo yang terkenal karena hidung besar dan menonjol, terutama pada jantan dewasa. Mereka adalah perenang yang handal dan hidup di hutan mangrove dan hutan rawa. Hidung besar jantan berfungsi untuk menarik betina dan memperkuat suara panggilan.",
+    "fun_fact": [
+      "Hidung jantan dapat sepanjang 10 cm",
+      "Satu-satunya primata yang benar-benar pandai berenang",
+      "Perut mereka dapat mengembang hingga seperempat berat badan"
+    ],
+    "habitat": "Hutan mangrove dan rawa di Borneo",
+    "diet": "Herbivora - daun muda, buah mentah, biji",
+    "size": "55-75 cm panjang, berat 12-24 kg",
+    "conservation_status": "Endangered"
+  },
+  {
+    "id": 379,
+    "label": "howler_monkey",
+    "name": "Howler Monkey (Monyet Howler)",
+    "description": "Monyet Howler adalah primata yang terkenal karena suara raungannya yang sangat keras, menjadikannya salah satu hewan darat paling berisik di dunia. Mereka memiliki tulang hyoid yang membesar yang memungkinkan amplifikasi suara. Howler monkey menghabiskan sebagian besar waktu untuk beristirahat karena diet daun yang rendah energi.",
+    "fun_fact": [
+      "Suaranya dapat terdengar hingga jarak 5 km",
+      "Hewan darat paling berisik di dunia",
+      "Tidur atau beristirahat hingga 20 jam per hari"
+    ],
+    "habitat": "Hutan hujan tropis di Amerika Tengah dan Selatan",
+    "diet": "Herbivora - terutama daun muda, juga buah dan bunga",
+    "size": "40-70 cm panjang, berat 3-9 kg",
+    "conservation_status": "Varies by species - Least Concern to Critically Endangered"
+  },
+  {
+    "id": 381,
+    "label": "spider_monkey",
+    "name": "Spider Monkey (Monyet Laba-laba)",
+    "description": "Monyet Laba-laba dinamakan demikian karena lengan dan kaki mereka yang panjang dan ramping seperti laba-laba. Mereka adalah akrobat hutan yang luar biasa dengan ekor yang dapat berfungsi seperti tangan kelima untuk bergelantungan. Monyet ini tidak memiliki ibu jari yang berlawanan.",
+    "fun_fact": [
+      "Tidak memiliki ibu jari pada tangan",
+      "Ekor mereka dapat menopang seluruh berat badan",
+      "Dapat berayun hingga jarak 12 meter dalam sekali ayunan"
+    ],
+    "habitat": "Hutan hujan tropis di Amerika Tengah dan Selatan",
+    "diet": "Omnivora - terutama buah matang, juga daun dan serangga",
+    "size": "35-65 cm panjang, berat 6-9 kg",
+    "conservation_status": "Varies by species - Vulnerable to Critically Endangered"
+  },
+  {
+    "id": 382,
+    "label": "squirrel_monkey",
+    "name": "Squirrel Monkey (Monyet Tupai)",
+    "description": "Monyet Tupai adalah primata kecil dengan tubuh ramping, ekor panjang, dan wajah putih dengan lingkaran hitam di sekitar mata. Mereka hidup dalam kelompok besar yang dapat mencapai ratusan individu dan sangat aktif di siang hari. Monyet tupai memiliki otak yang relatif besar dibanding ukuran tubuhnya.",
+    "fun_fact": [
+      "Memiliki rasio otak-tubuh terbesar di antara primata",
+      "Hidup dalam kelompok hingga 500 individu",
+      "Dapat melompat hingga jarak 2 meter"
+    ],
+    "habitat": "Hutan hujan tropis di Amerika Tengah dan Selatan",
+    "diet": "Omnivora - buah, serangga, nektar, telur burung",
+    "size": "25-35 cm panjang, berat 0.5-1.1 kg",
+    "conservation_status": "Least Concern to Vulnerable"
+  },
+  {
+    "id": 383,
+    "label": "Madagascar_cat",
+    "name": "Madagascar Cat (Kucing Madagaskar/Fossa)",
+    "description": "Fossa adalah predator terbesar di Madagaskar dan sering disebut kucing Madagaskar meskipun lebih dekat dengan luwak. Mereka adalah pemburu yang sangat terampil dengan kemampuan memanjat yang luar biasa dan merupakan predator utama lemur. Fossa memiliki tubuh panjang dan fleksibel dengan cakar semi-retractable.",
+    "fun_fact": [
+      "Predator terbesar di Madagaskar",
+      "Dapat memanjat turun pohon dengan kepala duluan",
+      "80% makanannya adalah lemur"
+    ],
+    "habitat": "Hutan di Madagaskar",
+    "diet": "Karnivora - lemur, burung, reptil, mamalia kecil",
+    "size": "70-80 cm panjang, berat 5.5-8.6 kg",
+    "conservation_status": "Vulnerable"
+  },
+  {
+    "id": 385,
+    "label": "Indian_elephant",
+    "name": "Indian Elephant (Gajah India)",
+    "description": "Gajah India adalah subspesies gajah Asia yang lebih kecil dari gajah Afrika dengan telinga yang lebih kecil dan punggung yang cembung. Mereka memiliki kecerdasan tinggi, ingatan yang luar biasa, dan struktur sosial matriarchal yang kompleks. Belalai gajah memiliki lebih dari 40.000 otot.",
+    "fun_fact": [
+      "Belalai memiliki lebih dari 40.000 otot",
+      "Dapat mengingat lokasi sumber air setelah puluhan tahun",
+      "Berkomunikasi dengan infrasonik yang tidak dapat didengar manusia"
+    ],
+    "habitat": "Hutan, padang rumput, dan savana di India dan Asia Tenggara",
+    "diet": "Herbivora - rumput, daun, kulit kayu, buah, akar",
+    "size": "550-640 cm panjang, tinggi 250-300 cm, berat 3000-5000 kg",
+    "conservation_status": "Endangered"
+  },
+  {
+    "id": 386,
+    "label": "African_elephant",
+    "name": "African Elephant (Gajah Afrika)",
+    "description": "Gajah Afrika adalah mamalia darat terbesar di dunia dengan telinga besar berbentuk seperti benua Afrika dan punggung yang cekung. Mereka adalah 'ecosystem engineer' yang memainkan peran penting dalam membentuk lanskap savana Afrika. Gajah Afrika memiliki ingatan yang fenomenal dan ikatan keluarga yang sangat kuat.",
+    "fun_fact": [
+      "Mamalia darat terbesar di dunia",
+      "Telinga berbentuk seperti benua Afrika",
+      "Dapat mengkonsumsi hingga 300 kg tumbuhan per hari"
+    ],
+    "habitat": "Savana, padang rumput, dan hutan di Afrika sub-Sahara",
+    "diet": "Herbivora - rumput, daun, kulit kayu, buah, akar",
+    "size": "600-750 cm panjang, tinggi 300-400 cm, berat 4000-7000 kg",
+    "conservation_status": "Endangered"
+  },
+  {
+    "id": 388,
+    "label": "giant_panda",
+    "name": "Giant Panda (Panda Raksasa)",
+    "description": "Panda Raksasa adalah beruang yang ikonik dengan pola hitam-putih yang khas dan diet yang hampir seluruhnya terdiri dari bambu. Mereka memiliki 'pseudo thumb' untuk membantu memegang bambu dan menghabiskan 12-16 jam sehari untuk makan. Panda adalah simbol konservasi global dan spesies payung untuk habitat mereka.",
+    "fun_fact": [
+      "Makan bambu hingga 12-16 jam per hari",
+      "Bayi panda lahir sebesar tikus dan berwarna pink",
+      "Memiliki 'ibu jari palsu' untuk memegang bambu"
+    ],
+    "habitat": "Hutan bambu pegunungan di Tiongkok Tengah",
+    "diet": "Herbivora - 99% bambu, kadang buah dan serangga",
+    "size": "120-190 cm panjang, berat 80-120 kg",
+    "conservation_status": "Vulnerable"
+  },
+  {
+    "id": 390,
+    "label": "eel",
+    "name": "Eel (Belut)",
+    "description": "Belut adalah ikan dengan tubuh panjang seperti ular yang dapat hidup di air tawar, payau, atau laut tergantung spesiesnya. Mereka memiliki siklus hidup yang kompleks dengan migrasi jarak jauh. Beberapa spesies belut dapat menghasilkan listrik hingga 600 volt untuk berburu dan pertahanan diri.",
+    "fun_fact": [
+      "Beberapa spesies dapat menghasilkan listrik hingga 600 volt",
+      "Dapat bermigrasi ribuan kilometer untuk berkembang biak",
+      "Hidup hingga 80 tahun atau lebih"
+    ],
+    "habitat": "Sungai, danau, dan laut di seluruh dunia",
+    "diet": "Karnivora - ikan kecil, udang, cacing, moluska",
+    "size": "10 cm - 4 meter tergantung spesies",
+    "conservation_status": "Varies by species - Least Concern to Critically Endangered"
+  },
+  {
+    "id": 393,
+    "label": "anemone_fish",
+    "name": "Anemone Fish (Ikan Badut)",
+    "description": "Ikan Badut atau Clownfish terkenal karena hubungan simbiosisnya dengan anemon laut dan kemampuannya mengubah jenis kelamin. Mereka memiliki warna cerah dengan garis putih dan hidup dalam kelompok hierarkis di dalam anemon yang memberikan perlindungan dari predator. Ikan ini menjadi terkenal melalui film 'Finding Nemo'.",
+    "fun_fact": [
+      "Semua ikan lahir sebagai jantan dan dapat berubah menjadi betina",
+      "Kebal terhadap sengatan anemon karena lapisan lendir khusus",
+      "Betina dominan adalah yang terbesar dalam kelompok"
+    ],
+    "habitat": "Terumbu karang hangat di Indo-Pasifik",
+    "diet": "Omnivora - alga, zooplankton, copepoda, cacing kecil",
+    "size": "6-16 cm panjang",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "id": 396,
+    "label": "lionfish",
+    "name": "Lionfish (Ikan Singa)",
+    "description": "Ikan Singa adalah ikan predator yang indah namun berbisa dengan sirip yang menyerupai surai singa. Mereka memiliki duri beracun yang dapat menyebabkan rasa sakit hebat pada manusia. Di habitat aslinya mereka adalah predator penting, namun di daerah invasif mereka menjadi ancaman bagi ekosistem terumbu karang.",
+    "fun_fact": [
+      "Duri siripnya mengandung racun yang menyakitkan",
+      "Dapat memakan ikan hingga 2/3 ukuran tubuhnya",
+      "Spesies invasif yang merusak di Atlantik dan Karibia"
+    ],
+    "habitat": "Terumbu karang tropis dan subtropis di Indo-Pasifik",
+    "diet": "Karnivora - ikan kecil, udang, kepiting",
+    "size": "15-45 cm panjang",
+    "conservation_status": "Least Concern (invasive in some regions)"
+  },
+    {
+      "id": 673,
+      "label": "mouse",
+      "name": "Tikus (Mus musculus)",
+      "description": "Tikus adalah hewan pengerat kecil dengan moncong runcing...",
+      "fun_fact": [
+        "Tikus bisa memipihkan tubuhnya untuk melewati celah sekecil pensil",
+        "Mereka memiliki indra penciuman yang sangat tajam",
+        "Tikus tertawa saat digelitik dengan frekuensi ultrasonik"
+      ],
+      "habitat": "Hampir di mana saja (lumbung, rumah, ladang, hutan)",
+      "diet": "Omnivora - makan apa saja dari biji-bijian hingga sampah",
+      "size": "6-10 cm (tanpa ekor), ekor 7-10 cm, berat 20-40 gram",
+      "conservation_status": "Populasi melimpah (beberapa spesies terancam)"
+    }
+  ]
+}

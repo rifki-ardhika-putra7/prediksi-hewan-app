@@ -1,0 +1,9 @@
+Flask
+flask-cors
+Pillow
+numpy
+tensorflow
+scikit-learn
+scipy
+matplotlib
+requests
