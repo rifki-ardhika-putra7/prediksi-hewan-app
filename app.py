@@ -1,6 +1,6 @@
 # backend/app.py
 
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template, redirect, url_for
 from flask_cors import CORS
 from PIL import Image
 import os
