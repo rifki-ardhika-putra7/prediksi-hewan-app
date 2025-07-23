@@ -8,7 +8,7 @@ async function predict() {
     formData.append("image", file);
 
     try {
-        const res = await fetch("http://localhost:5000/predict", {
+        const res = await fetch("/predict", {
             method: "POST",
             body: formData
         });
